@@ -1,0 +1,3602 @@
+[
+    {
+      "id": 0,
+      "image 1": "Lagos/6.547150,3.331676_2018_09_467691327650204.jpg",
+      "image 2": "Lagos/6.547217,3.331903_2018_09_255465529651596.jpg",
+      "distance": 26.18,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 1,
+      "image 1": "Lagos/6.577662,3.320372_2017_12_3717109678412383.jpg",
+      "image 2": "Lagos/6.577784,3.320441_2017_12_470198654065596.jpg",
+      "distance": 15.5,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 2,
+      "image 1": "Lagos/6.477319,3.343159_2017_12_828240401376516.jpg",
+      "image 2": "Lagos/6.477383,3.343259_2017_12_221892922671940.jpg",
+      "distance": 13.13,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 3,
+      "image 1": "Lagos/6.469244,3.302279_2017_12_557909798929437.jpg",
+      "image 2": "Lagos/6.469393,3.302291_2017_12_298265598405508.jpg",
+      "distance": 16.53,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 4,
+      "image 1": "Lagos/6.574220,3.383413_2018_09_145628160911864.jpg",
+      "image 2": "Lagos/6.574398,3.383444_2018_09_964762354063583.jpg",
+      "distance": 19.98,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 5,
+      "image 1": "Lagos/6.573015,3.344668_2018_09_806520526956757.jpg",
+      "image 2": "Lagos/6.573020,3.344555_2018_09_838349206766672.jpg",
+      "distance": 12.51,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 6,
+      "image 1": "Lagos/6.562181,3.335453_2018_09_205193304582175.jpg",
+      "image 2": "Lagos/6.562226,3.335537_2018_09_309012000860074.jpg",
+      "distance": 10.54,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 7,
+      "image 1": "Lagos/6.525114,3.335565_2017_12_2907707249500330.jpg",
+      "image 2": "Lagos/6.525205,3.335498_2017_12_106137448222547.jpg",
+      "distance": 12.5,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 8,
+      "image 1": "Lagos/6.576282,3.320407_2017_11_135265398597475.jpg",
+      "image 2": "Lagos/6.576373,3.320404_2017_12_472194160553164.jpg",
+      "distance": 10.07,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 9,
+      "image 1": "Lagos/6.614903,3.356366_2018_09_302698471296839.jpg",
+      "image 2": "Lagos/6.614973,3.356474_2018_09_202342958235251.jpg",
+      "distance": 14.23,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 10,
+      "image 1": "Lagos/6.619131,3.331073_2018_09_508451930595763.jpg",
+      "image 2": "Lagos/6.619291,3.330964_2018_09_307247334258142.jpg",
+      "distance": 21.41,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 11,
+      "image 1": "Lagos/6.597116,3.349849_2018_09_1161668154349879.jpg",
+      "image 2": "Lagos/6.597294,3.349862_2018_09_123177469792819.jpg",
+      "distance": 19.74,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 12,
+      "image 1": "Lagos/6.577871,3.321609_2017_11_214850056810522.jpg",
+      "image 2": "Lagos/6.577917,3.321407_2017_12_528887038137301.jpg",
+      "distance": 22.91,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 13,
+      "image 1": "Lagos/6.583298,3.391144_2018_09_216573269970820.jpg",
+      "image 2": "Lagos/6.583420,3.391145_2018_09_376517333716564.jpg",
+      "distance": 13.49,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 14,
+      "image 1": "Lagos/6.582068,3.359314_2018_09_291490495990544.jpg",
+      "image 2": "Lagos/6.582237,3.359240_2018_09_2878419282369826.jpg",
+      "distance": 20.4,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 15,
+      "image 1": "Lagos/6.522435,3.363404_2017_12_926229857922854.jpg",
+      "image 2": "Lagos/6.522566,3.363336_2017_12_5682532261818223.jpg",
+      "distance": 16.32,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 16,
+      "image 1": "Lagos/6.565275,3.347946_2018_09_361547195523854.jpg",
+      "image 2": "Lagos/6.565298,3.347772_2018_09_744702732876765.jpg",
+      "distance": 19.41,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 17,
+      "image 1": "Lagos/6.616531,3.358757_2018_09_810418679604776.jpg",
+      "image 2": "Lagos/6.616678,3.358767_2018_09_518060945878708.jpg",
+      "distance": 16.29,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 18,
+      "image 1": "Lagos/6.602120,3.305146_2018_09_2902288843379106.jpg",
+      "image 2": "Lagos/6.602222,3.305124_2018_09_3052228708330660.jpg",
+      "distance": 11.54,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 19,
+      "image 1": "Lagos/6.614625,3.355338_2018_09_3895156870568285.jpg",
+      "image 2": "Lagos/6.614803,3.355503_2018_09_4480905161922941.jpg",
+      "distance": 26.84,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 20,
+      "image 1": "Lagos/6.468429,3.302129_2017_12_3792090687583710.jpg",
+      "image 2": "Lagos/6.468567,3.302066_2017_12_240775074508242.jpg",
+      "distance": 16.78,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 21,
+      "image 1": "Lagos/6.601910,3.332754_2018_09_821980598730252.jpg",
+      "image 2": "Lagos/6.602033,3.332946_2018_09_530341774795851.jpg",
+      "distance": 25.22,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 22,
+      "image 1": "Lagos/6.500703,3.362861_2017_12_470425954201395.jpg",
+      "image 2": "Lagos/6.500823,3.362893_2017_12_518101012691495.jpg",
+      "distance": 13.73,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 23,
+      "image 1": "Lagos/6.606429,3.339833_2018_09_463582241391103.jpg",
+      "image 2": "Lagos/6.606511,3.340029_2018_09_480674443250227.jpg",
+      "distance": 23.5,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 24,
+      "image 1": "Lagos/6.547056,3.397385_2018_09_219835889586761.jpg",
+      "image 2": "Lagos/6.547166,3.397419_2018_09_180348230639399.jpg",
+      "distance": 12.73,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 25,
+      "image 1": "Lagos/6.518843,3.390522_2025_01_556281280798211.jpg",
+      "image 2": "Lagos/6.518927,3.390729_2025_01_650773260811070.jpg",
+      "distance": 24.71,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 26,
+      "image 1": "Lagos/6.536246,3.336537_2018_09_318181110015952.jpg",
+      "image 2": "Lagos/6.536506,3.336571_2018_09_287242576389129.jpg",
+      "distance": 29.0,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 27,
+      "image 1": "Lagos/6.603102,3.331072_2018_09_320182862919087.jpg",
+      "image 2": "Lagos/6.603210,3.331185_2018_09_487865562452988.jpg",
+      "distance": 17.29,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 28,
+      "image 1": "Lagos/6.546850,3.397793_2018_09_303184964650503.jpg",
+      "image 2": "Lagos/6.547004,3.397747_2018_09_1166008837249193.jpg",
+      "distance": 17.77,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 29,
+      "image 1": "Lagos/6.595845,3.351861_2018_09_1965177983640993.jpg",
+      "image 2": "Lagos/6.595937,3.352072_2018_09_1117517472079198.jpg",
+      "distance": 25.46,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 30,
+      "image 1": "Lagos/6.549674,3.396818_2018_09_836714170257539.jpg",
+      "image 2": "Lagos/6.549858,3.396791_2018_09_803126580616585.jpg",
+      "distance": 20.57,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 31,
+      "image 1": "Lagos/6.606191,3.393585_2018_09_764088187616552.jpg",
+      "image 2": "Lagos/6.606278,3.393462_2018_09_525526891944273.jpg",
+      "distance": 16.66,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 32,
+      "image 1": "Lagos/6.598022,3.345328_2018_09_216583989961231.jpg",
+      "image 2": "Lagos/6.598230,3.345193_2018_09_852037865662305.jpg",
+      "distance": 27.42,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 33,
+      "image 1": "Lagos/6.538027,3.361530_2018_09_759768081329518.jpg",
+      "image 2": "Lagos/6.538060,3.361638_2018_09_370164681072641.jpg",
+      "distance": 12.49,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 34,
+      "image 1": "Lagos/6.568443,3.350323_2018_09_224788639006604.jpg",
+      "image 2": "Lagos/6.568607,3.350316_2018_09_951356912304816.jpg",
+      "distance": 18.15,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 35,
+      "image 1": "Lagos/6.557089,3.322500_2018_09_2909190206011042.jpg",
+      "image 2": "Lagos/6.557195,3.322577_2018_09_321283339393156.jpg",
+      "distance": 14.49,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 36,
+      "image 1": "Lagos/6.611040,3.329302_2018_09_529239044908254.jpg",
+      "image 2": "Lagos/6.611255,3.329164_2018_09_299199188424824.jpg",
+      "distance": 28.25,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 37,
+      "image 1": "Lagos/6.618976,3.357944_2018_09_298873961830511.jpg",
+      "image 2": "Lagos/6.619091,3.357935_2018_09_916021775632029.jpg",
+      "distance": 12.76,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 38,
+      "image 1": "Lagos/6.552234,3.384800_2018_09_379710989959219.jpg",
+      "image 2": "Lagos/6.552427,3.384743_2018_09_497591848260375.jpg",
+      "distance": 22.26,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 39,
+      "image 1": "Lagos/6.607549,3.310226_2018_09_164011115655862.jpg",
+      "image 2": "Lagos/6.607732,3.310246_2018_09_940940093375159.jpg",
+      "distance": 20.36,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 40,
+      "image 1": "Lagos/6.578109,3.371465_2017_12_507173500320857.jpg",
+      "image 2": "Lagos/6.578220,3.371581_2017_12_311919457073254.jpg",
+      "distance": 17.76,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 41,
+      "image 1": "Lagos/6.499398,3.321614_2017_12_904442773448084.jpg",
+      "image 2": "Lagos/6.499623,3.321641_2017_12_321833222716164.jpg",
+      "distance": 25.06,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 42,
+      "image 1": "Lagos/6.594805,3.339269_2018_09_145672470870056.jpg",
+      "image 2": "Lagos/6.594872,3.339425_2018_09_511840576668451.jpg",
+      "distance": 18.78,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 43,
+      "image 1": "Lagos/6.543241,3.362485_2018_09_812689876312506.jpg",
+      "image 2": "Lagos/6.543333,3.362481_2018_09_220897932805838.jpg",
+      "distance": 10.18,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 44,
+      "image 1": "Lagos/6.615681,3.357772_2018_09_2574137929546372.jpg",
+      "image 2": "Lagos/6.615856,3.357921_2018_09_875219623060796.jpg",
+      "distance": 25.42,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 45,
+      "image 1": "Lagos/6.571511,3.364363_2018_09_2626718707452478.jpg",
+      "image 2": "Lagos/6.571599,3.364440_2018_09_157878553010710.jpg",
+      "distance": 12.93,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 46,
+      "image 1": "Lagos/6.583886,3.365958_2018_09_144670920966638.jpg",
+      "image 2": "Lagos/6.583956,3.365776_2018_09_1196544620790158.jpg",
+      "distance": 21.56,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 47,
+      "image 1": "Lagos/6.605985,3.309895_2018_09_380948136493153.jpg",
+      "image 2": "Lagos/6.606083,3.309988_2018_09_811124713148419.jpg",
+      "distance": 14.94,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 48,
+      "image 1": "Lagos/6.590636,3.374177_2018_09_744633092898993.jpg",
+      "image 2": "Lagos/6.590719,3.374137_2018_09_137254371732060.jpg",
+      "distance": 10.19,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 49,
+      "image 1": "Lagos/6.542865,3.330332_2018_09_1449553962077608.jpg",
+      "image 2": "Lagos/6.542956,3.330439_2018_09_2959559371038711.jpg",
+      "distance": 15.53,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 50,
+      "image 1": "Lagos/6.595590,3.355051_2018_09_181420913750039.jpg",
+      "image 2": "Lagos/6.595747,3.355183_2018_09_478836533369962.jpg",
+      "distance": 22.68,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 51,
+      "image 1": "Lagos/6.531071,3.333634_2018_09_3045740549045625.jpg",
+      "image 2": "Lagos/6.531177,3.333826_2018_09_971244620377244.jpg",
+      "distance": 24.26,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 52,
+      "image 1": "Lagos/6.604621,3.346599_2018_09_1169282280177576.jpg",
+      "image 2": "Lagos/6.604803,3.346552_2018_09_1617938505072649.jpg",
+      "distance": 20.79,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 53,
+      "image 1": "Lagos/6.544894,3.356154_2018_09_835656193995242.jpg",
+      "image 2": "Lagos/6.544971,3.356077_2017_12_513576139838541.jpg",
+      "distance": 12.04,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 54,
+      "image 1": "Lagos/6.567844,3.335083_2018_09_1213794582392881.jpg",
+      "image 2": "Lagos/6.567870,3.334823_2018_09_1705220156533434.jpg",
+      "distance": 28.9,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 55,
+      "image 1": "Lagos/6.525548,3.381257_2018_09_165469682167730.jpg",
+      "image 2": "Lagos/6.525789,3.381171_2018_09_782837092415494.jpg",
+      "distance": 28.3,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 56,
+      "image 1": "Lagos/6.561187,3.321199_2017_12_439143750849048.jpg",
+      "image 2": "Lagos/6.561442,3.321177_2017_11_466627257972305.jpg",
+      "distance": 28.3,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 57,
+      "image 1": "Lagos/6.576797,3.396611_2018_09_579598253014690.jpg",
+      "image 2": "Lagos/6.576924,3.396454_2018_09_1168552113646125.jpg",
+      "distance": 22.33,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 58,
+      "image 1": "Lagos/6.558029,3.391712_2018_09_2569883909985931.jpg",
+      "image 2": "Lagos/6.558110,3.391655_2018_09_290916109424611.jpg",
+      "distance": 10.95,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 59,
+      "image 1": "Lagos/6.592516,3.382580_2018_09_452084829223585.jpg",
+      "image 2": "Lagos/6.592640,3.382633_2018_09_750372265628339.jpg",
+      "distance": 14.91,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 60,
+      "image 1": "Lagos/6.476020,3.310979_2017_12_263117428848536.jpg",
+      "image 2": "Lagos/6.476233,3.310959_2017_12_468165377782544.jpg",
+      "distance": 23.66,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 61,
+      "image 1": "Lagos/6.562053,3.321470_2018_09_860112901239528.jpg",
+      "image 2": "Lagos/6.562195,3.321459_2018_09_308779514092072.jpg",
+      "distance": 15.75,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 62,
+      "image 1": "Lagos/6.570444,3.345879_2018_09_216602376646884.jpg",
+      "image 2": "Lagos/6.570547,3.345850_2018_09_1511939139199391.jpg",
+      "distance": 11.83,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 63,
+      "image 1": "Lagos/6.592988,3.372026_2018_09_219246496324959.jpg",
+      "image 2": "Lagos/6.593072,3.371944_2018_09_1393966244304694.jpg",
+      "distance": 12.98,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 64,
+      "image 1": "Lagos/6.613321,3.360755_2018_09_381180276458654.jpg",
+      "image 2": "Lagos/6.613439,3.360934_2018_09_469114794151930.jpg",
+      "distance": 23.71,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 65,
+      "image 1": "Lagos/6.585169,3.376714_2018_09_165172128878182.jpg",
+      "image 2": "Lagos/6.585262,3.376773_2018_09_1073500163139218.jpg",
+      "distance": 12.18,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 66,
+      "image 1": "Lagos/6.590614,3.385356_2018_09_1096183580904633.jpg",
+      "image 2": "Lagos/6.590657,3.385145_2018_09_268732091664364.jpg",
+      "distance": 23.81,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 67,
+      "image 1": "Lagos/6.559378,3.361533_2018_09_224847809441119.jpg",
+      "image 2": "Lagos/6.559389,3.361740_2018_09_224485486103298.jpg",
+      "distance": 22.93,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 68,
+      "image 1": "Lagos/6.586015,3.384009_2018_09_474055597008225.jpg",
+      "image 2": "Lagos/6.586102,3.383918_2018_09_187532043236327.jpg",
+      "distance": 13.92,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 69,
+      "image 1": "Lagos/6.606295,3.336428_2018_09_895951477629650.jpg",
+      "image 2": "Lagos/6.606408,3.336547_2018_09_821076608516610.jpg",
+      "distance": 18.15,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 70,
+      "image 1": "Lagos/6.557302,3.352935_2018_09_1217743012017063.jpg",
+      "image 2": "Lagos/6.557342,3.353079_2018_09_4034529113282568.jpg",
+      "distance": 16.53,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 71,
+      "image 1": "Lagos/6.604401,3.350480_2018_09_498514331273094.jpg",
+      "image 2": "Lagos/6.604551,3.350503_2018_09_591691338412799.jpg",
+      "distance": 16.78,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 72,
+      "image 1": "Lagos/6.540593,3.361096_2018_09_295847678816486.jpg",
+      "image 2": "Lagos/6.540625,3.361198_2018_09_967358370712759.jpg",
+      "distance": 11.82,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 73,
+      "image 1": "Lagos/6.615086,3.346131_2018_09_4154378151297957.jpg",
+      "image 2": "Lagos/6.615222,3.346167_2018_09_967041250769386.jpg",
+      "distance": 15.56,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 74,
+      "image 1": "Lagos/6.612939,3.345696_2018_09_1110002539499016.jpg",
+      "image 2": "Lagos/6.613073,3.345708_2018_09_607694610627791.jpg",
+      "distance": 14.88,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 75,
+      "image 1": "Lagos/6.596089,3.350739_2018_09_292507419084302.jpg",
+      "image 2": "Lagos/6.596116,3.350602_2018_09_163470925620425.jpg",
+      "distance": 15.44,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 76,
+      "image 1": "Lagos/6.524049,3.362081_2018_09_1136792996799376.jpg",
+      "image 2": "Lagos/6.524139,3.361961_2018_09_1181357328982610.jpg",
+      "distance": 16.59,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 77,
+      "image 1": "Lagos/6.595462,3.349343_2018_09_1631225363730512.jpg",
+      "image 2": "Lagos/6.595474,3.349442_2018_09_971203520281348.jpg",
+      "distance": 11.03,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 78,
+      "image 1": "Lagos/6.571141,3.357384_2018_09_308524200790567.jpg",
+      "image 2": "Lagos/6.571144,3.357587_2018_09_516916845999404.jpg",
+      "distance": 22.45,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 79,
+      "image 1": "Lagos/6.541708,3.356923_2018_09_460827161659639.jpg",
+      "image 2": "Lagos/6.541820,3.356964_2018_09_3892716627509282.jpg",
+      "distance": 13.19,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 80,
+      "image 1": "Lagos/6.614157,3.335755_2018_09_1084709038684964.jpg",
+      "image 2": "Lagos/6.614301,3.335739_2018_09_312550313582847.jpg",
+      "distance": 16.02,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 81,
+      "image 1": "Lagos/6.559964,3.366681_2018_09_810831469570692.jpg",
+      "image 2": "Lagos/6.560160,3.366513_2018_09_135231125309584.jpg",
+      "distance": 28.55,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 82,
+      "image 1": "Lagos/6.597427,3.389857_2018_09_2918234865056730.jpg",
+      "image 2": "Lagos/6.597468,3.389677_2018_09_950561355761188.jpg",
+      "distance": 20.42,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 83,
+      "image 1": "Lagos/6.597231,3.394790_2018_09_493030365176055.jpg",
+      "image 2": "Lagos/6.597236,3.394696_2018_09_482207686406824.jpg",
+      "distance": 10.41,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 84,
+      "image 1": "Lagos/6.533453,3.401140_2018_09_942232109954889.jpg",
+      "image 2": "Lagos/6.533659,3.401251_2018_09_186492196551699.jpg",
+      "distance": 25.88,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 85,
+      "image 1": "Lagos/6.564719,3.395756_2018_09_465885751150686.jpg",
+      "image 2": "Lagos/6.564887,3.395790_2018_09_1407986946248565.jpg",
+      "distance": 18.96,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 86,
+      "image 1": "Lagos/6.607466,3.328016_2018_09_144087644405485.jpg",
+      "image 2": "Lagos/6.607589,3.328200_2018_09_525609842131685.jpg",
+      "distance": 24.48,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 87,
+      "image 1": "Lagos/6.491272,3.385489_2018_10_540812630245823.jpg",
+      "image 2": "Lagos/6.491368,3.385707_2018_10_828648031192388.jpg",
+      "distance": 26.35,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 88,
+      "image 1": "Lagos/6.510719,3.377567_2018_10_1087431721780580.jpg",
+      "image 2": "Lagos/6.510922,3.377473_2018_10_398591657797817.jpg",
+      "distance": 24.74,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 89,
+      "image 1": "Lagos/6.613949,3.355291_2018_09_484228599482213.jpg",
+      "image 2": "Lagos/6.614046,3.355130_2018_09_257720629477669.jpg",
+      "distance": 20.79,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 90,
+      "image 1": "Lagos/6.599964,3.343407_2018_09_477723860109963.jpg",
+      "image 2": "Lagos/6.600048,3.343444_2018_09_295120875426136.jpg",
+      "distance": 10.15,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 91,
+      "image 1": "Lagos/6.558065,3.368209_2018_09_1132525683921580.jpg",
+      "image 2": "Lagos/6.558145,3.368266_2018_09_496731131524338.jpg",
+      "distance": 10.86,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 92,
+      "image 1": "Lagos/6.595992,3.380833_2018_09_311990900557888.jpg",
+      "image 2": "Lagos/6.596176,3.380687_2018_09_500326287820991.jpg",
+      "distance": 25.98,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 93,
+      "image 1": "Lagos/6.536696,3.353476_2017_12_833767327231190.jpg",
+      "image 2": "Lagos/6.536885,3.353581_2017_12_1199916663790362.jpg",
+      "distance": 23.91,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 94,
+      "image 1": "Lagos/6.521394,3.364055_2018_09_1687680661428740.jpg",
+      "image 2": "Lagos/6.521574,3.363967_2018_09_258301176076387.jpg",
+      "distance": 22.16,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 95,
+      "image 1": "Lagos/6.550730,3.331735_2018_09_467712330957686.jpg",
+      "image 2": "Lagos/6.550984,3.331786_2018_09_801424273831556.jpg",
+      "distance": 28.65,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 96,
+      "image 1": "Lagos/6.574425,3.401073_2018_09_205820941381554.jpg",
+      "image 2": "Lagos/6.574458,3.401163_2018_09_522030598954975.jpg",
+      "distance": 10.6,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 97,
+      "image 1": "Lagos/6.600159,3.349000_2018_09_2995400150681287.jpg",
+      "image 2": "Lagos/6.600198,3.349178_2018_09_1533254283511678.jpg",
+      "distance": 20.15,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 98,
+      "image 1": "Lagos/6.491310,3.323206_2017_12_1188937071543306.jpg",
+      "image 2": "Lagos/6.491497,3.323125_2017_12_790375725237825.jpg",
+      "distance": 22.54,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 99,
+      "image 1": "Lagos/6.601361,3.344053_2018_09_1111684265977623.jpg",
+      "image 2": "Lagos/6.601366,3.343867_2018_09_1901262876703367.jpg",
+      "distance": 20.58,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "A) Yes"
+    },
+    {
+      "id": 100,
+      "image 1": "Lagos/6.615681,3.357772_2018_09_2574137929546372.jpg",
+      "image 2": "Lagos/6.573020,3.344555_2018_09_838349206766672.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 101,
+      "image 1": "Lagos/6.607466,3.328016_2018_09_144087644405485.jpg",
+      "image 2": "Lagos/6.518927,3.390729_2025_01_650773260811070.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 102,
+      "image 1": "Lagos/6.518843,3.390522_2025_01_556281280798211.jpg",
+      "image 2": "Lagos/6.582237,3.359240_2018_09_2878419282369826.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 103,
+      "image 1": "Lagos/6.607466,3.328016_2018_09_144087644405485.jpg",
+      "image 2": "Lagos/6.583420,3.391145_2018_09_376517333716564.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 104,
+      "image 1": "Lagos/6.558029,3.391712_2018_09_2569883909985931.jpg",
+      "image 2": "Lagos/6.619291,3.330964_2018_09_307247334258142.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 105,
+      "image 1": "Lagos/6.614625,3.355338_2018_09_3895156870568285.jpg",
+      "image 2": "Lagos/6.606278,3.393462_2018_09_525526891944273.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 106,
+      "image 1": "Lagos/6.491272,3.385489_2018_10_540812630245823.jpg",
+      "image 2": "Lagos/6.521574,3.363967_2018_09_258301176076387.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 107,
+      "image 1": "Lagos/6.562181,3.335453_2018_09_205193304582175.jpg",
+      "image 2": "Lagos/6.619091,3.357935_2018_09_916021775632029.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 108,
+      "image 1": "Lagos/6.573015,3.344668_2018_09_806520526956757.jpg",
+      "image 2": "Lagos/6.568607,3.350316_2018_09_951356912304816.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 109,
+      "image 1": "Lagos/6.606295,3.336428_2018_09_895951477629650.jpg",
+      "image 2": "Lagos/6.606083,3.309988_2018_09_811124713148419.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 110,
+      "image 1": "Lagos/6.592516,3.382580_2018_09_452084829223585.jpg",
+      "image 2": "Lagos/6.468567,3.302066_2017_12_240775074508242.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 111,
+      "image 1": "Lagos/6.582068,3.359314_2018_09_291490495990544.jpg",
+      "image 2": "Lagos/6.568607,3.350316_2018_09_951356912304816.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 112,
+      "image 1": "Lagos/6.619131,3.331073_2018_09_508451930595763.jpg",
+      "image 2": "Lagos/6.607732,3.310246_2018_09_940940093375159.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 113,
+      "image 1": "Lagos/6.605985,3.309895_2018_09_380948136493153.jpg",
+      "image 2": "Lagos/6.559389,3.361740_2018_09_224485486103298.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 114,
+      "image 1": "Lagos/6.607549,3.310226_2018_09_164011115655862.jpg",
+      "image 2": "Lagos/6.600198,3.349178_2018_09_1533254283511678.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 115,
+      "image 1": "Lagos/6.595590,3.355051_2018_09_181420913750039.jpg",
+      "image 2": "Lagos/6.544971,3.356077_2017_12_513576139838541.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 116,
+      "image 1": "Lagos/6.613949,3.355291_2018_09_484228599482213.jpg",
+      "image 2": "Lagos/6.476233,3.310959_2017_12_468165377782544.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 117,
+      "image 1": "Lagos/6.605985,3.309895_2018_09_380948136493153.jpg",
+      "image 2": "Lagos/6.491497,3.323125_2017_12_790375725237825.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 118,
+      "image 1": "Lagos/6.547150,3.331676_2018_09_467691327650204.jpg",
+      "image 2": "Lagos/6.583420,3.391145_2018_09_376517333716564.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 119,
+      "image 1": "Lagos/6.562181,3.335453_2018_09_205193304582175.jpg",
+      "image 2": "Lagos/6.525789,3.381171_2018_09_782837092415494.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 120,
+      "image 1": "Lagos/6.597231,3.394790_2018_09_493030365176055.jpg",
+      "image 2": "Lagos/6.557342,3.353079_2018_09_4034529113282568.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 121,
+      "image 1": "Lagos/6.499398,3.321614_2017_12_904442773448084.jpg",
+      "image 2": "Lagos/6.533659,3.401251_2018_09_186492196551699.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 122,
+      "image 1": "Lagos/6.491310,3.323206_2017_12_1188937071543306.jpg",
+      "image 2": "Lagos/6.558145,3.368266_2018_09_496731131524338.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 123,
+      "image 1": "Lagos/6.522435,3.363404_2017_12_926229857922854.jpg",
+      "image 2": "Lagos/6.550984,3.331786_2018_09_801424273831556.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 124,
+      "image 1": "Lagos/6.536246,3.336537_2018_09_318181110015952.jpg",
+      "image 2": "Lagos/6.590657,3.385145_2018_09_268732091664364.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 125,
+      "image 1": "Lagos/6.491310,3.323206_2017_12_1188937071543306.jpg",
+      "image 2": "Lagos/6.606408,3.336547_2018_09_821076608516610.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 126,
+      "image 1": "Lagos/6.602120,3.305146_2018_09_2902288843379106.jpg",
+      "image 2": "Lagos/6.604551,3.350503_2018_09_591691338412799.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 127,
+      "image 1": "Lagos/6.536696,3.353476_2017_12_833767327231190.jpg",
+      "image 2": "Lagos/6.600048,3.343444_2018_09_295120875426136.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 128,
+      "image 1": "Lagos/6.468429,3.302129_2017_12_3792090687583710.jpg",
+      "image 2": "Lagos/6.597294,3.349862_2018_09_123177469792819.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 129,
+      "image 1": "Lagos/6.510719,3.377567_2018_10_1087431721780580.jpg",
+      "image 2": "Lagos/6.614973,3.356474_2018_09_202342958235251.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 130,
+      "image 1": "Lagos/6.558029,3.391712_2018_09_2569883909985931.jpg",
+      "image 2": "Lagos/6.606083,3.309988_2018_09_811124713148419.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 131,
+      "image 1": "Lagos/6.544894,3.356154_2018_09_835656193995242.jpg",
+      "image 2": "Lagos/6.558145,3.368266_2018_09_496731131524338.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 132,
+      "image 1": "Lagos/6.542865,3.330332_2018_09_1449553962077608.jpg",
+      "image 2": "Lagos/6.558110,3.391655_2018_09_290916109424611.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 133,
+      "image 1": "Lagos/6.613321,3.360755_2018_09_381180276458654.jpg",
+      "image 2": "Lagos/6.614301,3.335739_2018_09_312550313582847.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 134,
+      "image 1": "Lagos/6.543241,3.362485_2018_09_812689876312506.jpg",
+      "image 2": "Lagos/6.601366,3.343867_2018_09_1901262876703367.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 135,
+      "image 1": "Lagos/6.597427,3.389857_2018_09_2918234865056730.jpg",
+      "image 2": "Lagos/6.510922,3.377473_2018_10_398591657797817.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 136,
+      "image 1": "Lagos/6.578109,3.371465_2017_12_507173500320857.jpg",
+      "image 2": "Lagos/6.593072,3.371944_2018_09_1393966244304694.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 137,
+      "image 1": "Lagos/6.583886,3.365958_2018_09_144670920966638.jpg",
+      "image 2": "Lagos/6.510922,3.377473_2018_10_398591657797817.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 138,
+      "image 1": "Lagos/6.583886,3.365958_2018_09_144670920966638.jpg",
+      "image 2": "Lagos/6.583420,3.391145_2018_09_376517333716564.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 139,
+      "image 1": "Lagos/6.573015,3.344668_2018_09_806520526956757.jpg",
+      "image 2": "Lagos/6.596176,3.380687_2018_09_500326287820991.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 140,
+      "image 1": "Lagos/6.544894,3.356154_2018_09_835656193995242.jpg",
+      "image 2": "Lagos/6.550984,3.331786_2018_09_801424273831556.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 141,
+      "image 1": "Lagos/6.499398,3.321614_2017_12_904442773448084.jpg",
+      "image 2": "Lagos/6.550984,3.331786_2018_09_801424273831556.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 142,
+      "image 1": "Lagos/6.592988,3.372026_2018_09_219246496324959.jpg",
+      "image 2": "Lagos/6.597294,3.349862_2018_09_123177469792819.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 143,
+      "image 1": "Lagos/6.599964,3.343407_2018_09_477723860109963.jpg",
+      "image 2": "Lagos/6.611255,3.329164_2018_09_299199188424824.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 144,
+      "image 1": "Lagos/6.595992,3.380833_2018_09_311990900557888.jpg",
+      "image 2": "Lagos/6.574398,3.383444_2018_09_964762354063583.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 145,
+      "image 1": "Lagos/6.536246,3.336537_2018_09_318181110015952.jpg",
+      "image 2": "Lagos/6.597294,3.349862_2018_09_123177469792819.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 146,
+      "image 1": "Lagos/6.568443,3.350323_2018_09_224788639006604.jpg",
+      "image 2": "Lagos/6.557195,3.322577_2018_09_321283339393156.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 147,
+      "image 1": "Lagos/6.547056,3.397385_2018_09_219835889586761.jpg",
+      "image 2": "Lagos/6.583956,3.365776_2018_09_1196544620790158.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 148,
+      "image 1": "Lagos/6.565275,3.347946_2018_09_361547195523854.jpg",
+      "image 2": "Lagos/6.594872,3.339425_2018_09_511840576668451.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 149,
+      "image 1": "Lagos/6.547150,3.331676_2018_09_467691327650204.jpg",
+      "image 2": "Lagos/6.585262,3.376773_2018_09_1073500163139218.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 150,
+      "image 1": "Lagos/6.571511,3.364363_2018_09_2626718707452478.jpg",
+      "image 2": "Lagos/6.574398,3.383444_2018_09_964762354063583.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 151,
+      "image 1": "Lagos/6.558029,3.391712_2018_09_2569883909985931.jpg",
+      "image 2": "Lagos/6.603210,3.331185_2018_09_487865562452988.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 152,
+      "image 1": "Lagos/6.536696,3.353476_2017_12_833767327231190.jpg",
+      "image 2": "Lagos/6.560160,3.366513_2018_09_135231125309584.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 153,
+      "image 1": "Lagos/6.525114,3.335565_2017_12_2907707249500330.jpg",
+      "image 2": "Lagos/6.611255,3.329164_2018_09_299199188424824.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 154,
+      "image 1": "Lagos/6.597116,3.349849_2018_09_1161668154349879.jpg",
+      "image 2": "Lagos/6.469393,3.302291_2017_12_298265598405508.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 155,
+      "image 1": "Lagos/6.576797,3.396611_2018_09_579598253014690.jpg",
+      "image 2": "Lagos/6.611255,3.329164_2018_09_299199188424824.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 156,
+      "image 1": "Lagos/6.603102,3.331072_2018_09_320182862919087.jpg",
+      "image 2": "Lagos/6.558145,3.368266_2018_09_496731131524338.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 157,
+      "image 1": "Lagos/6.590614,3.385356_2018_09_1096183580904633.jpg",
+      "image 2": "Lagos/6.518927,3.390729_2025_01_650773260811070.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 158,
+      "image 1": "Lagos/6.564719,3.395756_2018_09_465885751150686.jpg",
+      "image 2": "Lagos/6.602222,3.305124_2018_09_3052228708330660.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 159,
+      "image 1": "Lagos/6.552234,3.384800_2018_09_379710989959219.jpg",
+      "image 2": "Lagos/6.491368,3.385707_2018_10_828648031192388.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 160,
+      "image 1": "Lagos/6.615086,3.346131_2018_09_4154378151297957.jpg",
+      "image 2": "Lagos/6.525205,3.335498_2017_12_106137448222547.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 161,
+      "image 1": "Lagos/6.571141,3.357384_2018_09_308524200790567.jpg",
+      "image 2": "Lagos/6.525789,3.381171_2018_09_782837092415494.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 162,
+      "image 1": "Lagos/6.533453,3.401140_2018_09_942232109954889.jpg",
+      "image 2": "Lagos/6.557342,3.353079_2018_09_4034529113282568.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 163,
+      "image 1": "Lagos/6.525114,3.335565_2017_12_2907707249500330.jpg",
+      "image 2": "Lagos/6.616678,3.358767_2018_09_518060945878708.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 164,
+      "image 1": "Lagos/6.571511,3.364363_2018_09_2626718707452478.jpg",
+      "image 2": "Lagos/6.604551,3.350503_2018_09_591691338412799.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 165,
+      "image 1": "Lagos/6.578109,3.371465_2017_12_507173500320857.jpg",
+      "image 2": "Lagos/6.570547,3.345850_2018_09_1511939139199391.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 166,
+      "image 1": "Lagos/6.568443,3.350323_2018_09_224788639006604.jpg",
+      "image 2": "Lagos/6.518927,3.390729_2025_01_650773260811070.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 167,
+      "image 1": "Lagos/6.550730,3.331735_2018_09_467712330957686.jpg",
+      "image 2": "Lagos/6.595474,3.349442_2018_09_971203520281348.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 168,
+      "image 1": "Lagos/6.604621,3.346599_2018_09_1169282280177576.jpg",
+      "image 2": "Lagos/6.536885,3.353581_2017_12_1199916663790362.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 169,
+      "image 1": "Lagos/6.614157,3.335755_2018_09_1084709038684964.jpg",
+      "image 2": "Lagos/6.604803,3.346552_2018_09_1617938505072649.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 170,
+      "image 1": "Lagos/6.614157,3.335755_2018_09_1084709038684964.jpg",
+      "image 2": "Lagos/6.558145,3.368266_2018_09_496731131524338.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 171,
+      "image 1": "Lagos/6.561187,3.321199_2017_12_439143750849048.jpg",
+      "image 2": "Lagos/6.562226,3.335537_2018_09_309012000860074.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 172,
+      "image 1": "Lagos/6.549674,3.396818_2018_09_836714170257539.jpg",
+      "image 2": "Lagos/6.583420,3.391145_2018_09_376517333716564.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 173,
+      "image 1": "Lagos/6.562053,3.321470_2018_09_860112901239528.jpg",
+      "image 2": "Lagos/6.582237,3.359240_2018_09_2878419282369826.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 174,
+      "image 1": "Lagos/6.577662,3.320372_2017_12_3717109678412383.jpg",
+      "image 2": "Lagos/6.543333,3.362481_2018_09_220897932805838.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 175,
+      "image 1": "Lagos/6.597231,3.394790_2018_09_493030365176055.jpg",
+      "image 2": "Lagos/6.615222,3.346167_2018_09_967041250769386.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 176,
+      "image 1": "Lagos/6.607549,3.310226_2018_09_164011115655862.jpg",
+      "image 2": "Lagos/6.541820,3.356964_2018_09_3892716627509282.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 177,
+      "image 1": "Lagos/6.614625,3.355338_2018_09_3895156870568285.jpg",
+      "image 2": "Lagos/6.619291,3.330964_2018_09_307247334258142.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 178,
+      "image 1": "Lagos/6.599964,3.343407_2018_09_477723860109963.jpg",
+      "image 2": "Lagos/6.614046,3.355130_2018_09_257720629477669.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 179,
+      "image 1": "Lagos/6.596089,3.350739_2018_09_292507419084302.jpg",
+      "image 2": "Lagos/6.538060,3.361638_2018_09_370164681072641.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 180,
+      "image 1": "Lagos/6.568443,3.350323_2018_09_224788639006604.jpg",
+      "image 2": "Lagos/6.592640,3.382633_2018_09_750372265628339.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 181,
+      "image 1": "Lagos/6.557089,3.322500_2018_09_2909190206011042.jpg",
+      "image 2": "Lagos/6.573020,3.344555_2018_09_838349206766672.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 182,
+      "image 1": "Lagos/6.619131,3.331073_2018_09_508451930595763.jpg",
+      "image 2": "Lagos/6.576924,3.396454_2018_09_1168552113646125.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 183,
+      "image 1": "Lagos/6.601910,3.332754_2018_09_821980598730252.jpg",
+      "image 2": "Lagos/6.564887,3.395790_2018_09_1407986946248565.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 184,
+      "image 1": "Lagos/6.601910,3.332754_2018_09_821980598730252.jpg",
+      "image 2": "Lagos/6.567870,3.334823_2018_09_1705220156533434.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 185,
+      "image 1": "Lagos/6.582068,3.359314_2018_09_291490495990544.jpg",
+      "image 2": "Lagos/6.597236,3.394696_2018_09_482207686406824.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 186,
+      "image 1": "Lagos/6.574425,3.401073_2018_09_205820941381554.jpg",
+      "image 2": "Lagos/6.596116,3.350602_2018_09_163470925620425.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 187,
+      "image 1": "Lagos/6.562181,3.335453_2018_09_205193304582175.jpg",
+      "image 2": "Lagos/6.619091,3.357935_2018_09_916021775632029.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 188,
+      "image 1": "Lagos/6.600159,3.349000_2018_09_2995400150681287.jpg",
+      "image 2": "Lagos/6.577784,3.320441_2017_12_470198654065596.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 189,
+      "image 1": "Lagos/6.562053,3.321470_2018_09_860112901239528.jpg",
+      "image 2": "Lagos/6.499623,3.321641_2017_12_321833222716164.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 190,
+      "image 1": "Lagos/6.606191,3.393585_2018_09_764088187616552.jpg",
+      "image 2": "Lagos/6.596116,3.350602_2018_09_163470925620425.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 191,
+      "image 1": "Lagos/6.613321,3.360755_2018_09_381180276458654.jpg",
+      "image 2": "Lagos/6.611255,3.329164_2018_09_299199188424824.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 192,
+      "image 1": "Lagos/6.607466,3.328016_2018_09_144087644405485.jpg",
+      "image 2": "Lagos/6.499623,3.321641_2017_12_321833222716164.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 193,
+      "image 1": "Lagos/6.592988,3.372026_2018_09_219246496324959.jpg",
+      "image 2": "Lagos/6.601366,3.343867_2018_09_1901262876703367.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 194,
+      "image 1": "Lagos/6.612939,3.345696_2018_09_1110002539499016.jpg",
+      "image 2": "Lagos/6.521574,3.363967_2018_09_258301176076387.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 195,
+      "image 1": "Lagos/6.607549,3.310226_2018_09_164011115655862.jpg",
+      "image 2": "Lagos/6.616678,3.358767_2018_09_518060945878708.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 196,
+      "image 1": "Lagos/6.469244,3.302279_2017_12_557909798929437.jpg",
+      "image 2": "Lagos/6.578220,3.371581_2017_12_311919457073254.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 197,
+      "image 1": "Lagos/6.576282,3.320407_2017_11_135265398597475.jpg",
+      "image 2": "Lagos/6.601366,3.343867_2018_09_1901262876703367.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 198,
+      "image 1": "Lagos/6.574425,3.401073_2018_09_205820941381554.jpg",
+      "image 2": "Lagos/6.571144,3.357587_2018_09_516916845999404.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+      "id": 199,
+      "image 1": "Lagos/6.595992,3.380833_2018_09_311990900557888.jpg",
+      "image 2": "Lagos/6.570547,3.345850_2018_09_1511939139199391.jpg",
+      "distance": -1,
+      "city_name": "Lagos",
+      "image_type": "SingleViewData",
+      "GT": "B) No"
+    },
+    {
+        "id": 0,
+        "image 1": "Campina Grande/-7.249720,-35.878948_2017_03_159655639496043.jpg",
+        "image 2": "Campina Grande/-7.249825,-35.878930_2017_03_192314626058917.jpg",
+        "distance": 11.78,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 1,
+        "image 1": "Campina Grande/-7.246334,-35.871232_2023_06_279905657868012.jpg",
+        "image 2": "Campina Grande/-7.246556,-35.871243_2023_06_1884466961937599.jpg",
+        "distance": 24.58,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 2,
+        "image 1": "Campina Grande/-7.224414,-35.913749_2023_06_956393918979095.jpg",
+        "image 2": "Campina Grande/-7.224520,-35.913712_2023_06_729425772273545.jpg",
+        "distance": 12.41,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 3,
+        "image 1": "Campina Grande/-7.232158,-35.893178_2023_06_1266624707619577.jpg",
+        "image 2": "Campina Grande/-7.232315,-35.893158_2023_06_801252008106057.jpg",
+        "distance": 17.5,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 4,
+        "image 1": "Campina Grande/-7.218493,-35.883174_2023_06_1345868649334359.jpg",
+        "image 2": "Campina Grande/-7.218651,-35.883027_2023_06_1465138084318955.jpg",
+        "distance": 23.85,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 5,
+        "image 1": "Campina Grande/-7.245280,-35.871516_2023_06_285713453829790.jpg",
+        "image 2": "Campina Grande/-7.245531,-35.871541_2018_10_1143165256180823.jpg",
+        "distance": 27.9,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 6,
+        "image 1": "Campina Grande/-7.273398,-35.886392_2023_06_954423402276980.jpg",
+        "image 2": "Campina Grande/-7.273545,-35.886460_2017_04_744973849501603.jpg",
+        "distance": 17.91,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 7,
+        "image 1": "Campina Grande/-7.234989,-35.908581_2023_06_601292035317483.jpg",
+        "image 2": "Campina Grande/-7.234994,-35.908327_2023_06_970066424134732.jpg",
+        "distance": 28.06,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 8,
+        "image 1": "Campina Grande/-7.251106,-35.874966_2020_12_1368891786830359.jpg",
+        "image 2": "Campina Grande/-7.251158,-35.875156_2020_12_4452212061510057.jpg",
+        "distance": 21.76,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 9,
+        "image 1": "Campina Grande/-7.236923,-35.866980_2018_10_294534728891459.jpg",
+        "image 2": "Campina Grande/-7.237096,-35.867062_2020_10_310118293943312.jpg",
+        "distance": 21.17,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 10,
+        "image 1": "Campina Grande/-7.254318,-35.931180_2018_01_157162686280962.jpg",
+        "image 2": "Campina Grande/-7.254468,-35.930993_2017_04_1715534121972760.jpg",
+        "distance": 26.49,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 11,
+        "image 1": "Campina Grande/-7.225933,-35.877873_2018_07_2083826828423590.jpg",
+        "image 2": "Campina Grande/-7.226000,-35.878013_2018_07_1359795554400395.jpg",
+        "distance": 17.15,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 12,
+        "image 1": "Campina Grande/-7.224049,-35.914035_2023_06_974392150676832.jpg",
+        "image 2": "Campina Grande/-7.224217,-35.913873_2023_06_236547992475335.jpg",
+        "distance": 25.79,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 13,
+        "image 1": "Campina Grande/-7.239672,-35.862313_2017_03_743656459640749.jpg",
+        "image 2": "Campina Grande/-7.239775,-35.862102_2018_10_600432611351479.jpg",
+        "distance": 25.94,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 14,
+        "image 1": "Campina Grande/-7.244557,-35.937030_2017_04_304932457705791.jpg",
+        "image 2": "Campina Grande/-7.244777,-35.936927_2017_04_3918771394874971.jpg",
+        "distance": 26.86,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 15,
+        "image 1": "Campina Grande/-7.235248,-35.896166_2023_06_295108856419301.jpg",
+        "image 2": "Campina Grande/-7.235339,-35.896236_2023_06_815766833070873.jpg",
+        "distance": 12.69,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 16,
+        "image 1": "Campina Grande/-7.248185,-35.935330_2017_04_498605498157224.jpg",
+        "image 2": "Campina Grande/-7.248434,-35.935226_2018_01_1108486309664246.jpg",
+        "distance": 29.84,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 17,
+        "image 1": "Campina Grande/-7.229711,-35.915379_2023_06_1036431480682243.jpg",
+        "image 2": "Campina Grande/-7.229869,-35.915434_2023_06_931207167968675.jpg",
+        "distance": 18.5,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 18,
+        "image 1": "Campina Grande/-7.232571,-35.912712_2018_07_476074123621492.jpg",
+        "image 2": "Campina Grande/-7.232671,-35.912963_2018_07_3051847398377653.jpg",
+        "distance": 29.84,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 19,
+        "image 1": "Campina Grande/-7.231375,-35.881808_2023_06_712142430922948.jpg",
+        "image 2": "Campina Grande/-7.231549,-35.881799_2023_06_6235344259876928.jpg",
+        "distance": 19.27,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 20,
+        "image 1": "Campina Grande/-7.250500,-35.934259_2018_01_531995464468959.jpg",
+        "image 2": "Campina Grande/-7.250659,-35.934181_2018_01_297065205370669.jpg",
+        "distance": 19.58,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 21,
+        "image 1": "Campina Grande/-7.251630,-35.929266_2023_06_792734308994732.jpg",
+        "image 2": "Campina Grande/-7.251644,-35.929434_2023_06_813765563360906.jpg",
+        "distance": 18.62,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 22,
+        "image 1": "Campina Grande/-7.224614,-35.888333_2023_06_810537367171628.jpg",
+        "image 2": "Campina Grande/-7.224784,-35.888159_2023_06_3147265062236925.jpg",
+        "distance": 26.88,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 23,
+        "image 1": "Campina Grande/-7.195032,-35.962297_2017_04_514040266435991.jpg",
+        "image 2": "Campina Grande/-7.195052,-35.962070_2017_04_1007915119740785.jpg",
+        "distance": 25.17,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 24,
+        "image 1": "Campina Grande/-7.248968,-35.844075_2017_03_475209307233908.jpg",
+        "image 2": "Campina Grande/-7.249067,-35.844250_2017_09_490449562377609.jpg",
+        "distance": 22.21,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 25,
+        "image 1": "Campina Grande/-7.232050,-35.871044_2018_01_855819271682175.jpg",
+        "image 2": "Campina Grande/-7.232177,-35.871036_2018_07_478365053491639.jpg",
+        "distance": 14.07,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 26,
+        "image 1": "Campina Grande/-7.234959,-35.892837_2023_06_1745379752565434.jpg",
+        "image 2": "Campina Grande/-7.234994,-35.892609_2023_06_821738446271708.jpg",
+        "distance": 25.48,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 27,
+        "image 1": "Campina Grande/-7.251899,-35.931672_2023_06_991784028496375.jpg",
+        "image 2": "Campina Grande/-7.251912,-35.931801_2023_06_950783226139903.jpg",
+        "distance": 14.32,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 28,
+        "image 1": "Campina Grande/-7.246878,-35.848132_2017_03_198464915421561.jpg",
+        "image 2": "Campina Grande/-7.246947,-35.848013_2018_01_740139519928791.jpg",
+        "distance": 15.2,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 29,
+        "image 1": "Campina Grande/-7.240820,-35.869925_2023_06_777591827183605.jpg",
+        "image 2": "Campina Grande/-7.240915,-35.869972_2017_04_204003171313534.jpg",
+        "distance": 11.72,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 30,
+        "image 1": "Campina Grande/-7.216685,-35.916889_2023_06_197716236232773.jpg",
+        "image 2": "Campina Grande/-7.216951,-35.916880_2023_06_1311375972783636.jpg",
+        "distance": 29.43,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 31,
+        "image 1": "Campina Grande/-7.215260,-35.871730_2023_06_196797296679874.jpg",
+        "image 2": "Campina Grande/-7.215397,-35.871667_2023_06_685788086693329.jpg",
+        "distance": 16.67,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 32,
+        "image 1": "Campina Grande/-7.216119,-35.871320_2023_06_821773246218610.jpg",
+        "image 2": "Campina Grande/-7.216266,-35.871252_2023_06_222626270677127.jpg",
+        "distance": 17.91,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 33,
+        "image 1": "Campina Grande/-7.246370,-35.936176_2023_06_132972513150296.jpg",
+        "image 2": "Campina Grande/-7.246530,-35.936098_2017_04_130585819059780.jpg",
+        "distance": 19.68,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 34,
+        "image 1": "Campina Grande/-7.255925,-35.929297_2017_04_146612147428308.jpg",
+        "image 2": "Campina Grande/-7.256038,-35.929163_2017_04_744900549526046.jpg",
+        "distance": 19.37,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 35,
+        "image 1": "Campina Grande/-7.228683,-35.912642_2023_06_6387596001359826.jpg",
+        "image 2": "Campina Grande/-7.228747,-35.912542_2023_06_643714044303665.jpg",
+        "distance": 13.12,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 36,
+        "image 1": "Campina Grande/-7.247827,-35.879157_2017_03_523109028859524.jpg",
+        "image 2": "Campina Grande/-7.247947,-35.879157_2017_03_318555166327353.jpg",
+        "distance": 13.27,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 37,
+        "image 1": "Campina Grande/-7.224457,-35.943115_2017_04_153392480064948.jpg",
+        "image 2": "Campina Grande/-7.224645,-35.943142_2017_04_308458320949174.jpg",
+        "distance": 21.0,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 38,
+        "image 1": "Campina Grande/-7.241737,-35.933623_2023_06_799101228467727.jpg",
+        "image 2": "Campina Grande/-7.241840,-35.933807_2023_06_1325292438385343.jpg",
+        "distance": 23.3,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 39,
+        "image 1": "Campina Grande/-7.229556,-35.877267_2023_06_1596930247465727.jpg",
+        "image 2": "Campina Grande/-7.229655,-35.877281_2023_06_1518239388709105.jpg",
+        "distance": 11.06,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 40,
+        "image 1": "Campina Grande/-7.224563,-35.880107_2023_06_784723206464001.jpg",
+        "image 2": "Campina Grande/-7.224706,-35.880333_2023_06_289050380155220.jpg",
+        "distance": 29.55,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 41,
+        "image 1": "Campina Grande/-7.217727,-35.868558_2023_06_1851272625273439.jpg",
+        "image 2": "Campina Grande/-7.217984,-35.868562_2023_06_221554100798164.jpg",
+        "distance": 28.43,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 42,
+        "image 1": "Campina Grande/-7.233299,-35.942321_2018_01_3754876024639085.jpg",
+        "image 2": "Campina Grande/-7.233507,-35.942223_2017_04_918929505329004.jpg",
+        "distance": 25.42,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 43,
+        "image 1": "Campina Grande/-7.210603,-35.931284_2023_06_2127277627475450.jpg",
+        "image 2": "Campina Grande/-7.210672,-35.931187_2023_06_1399971680735812.jpg",
+        "distance": 13.15,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 44,
+        "image 1": "Campina Grande/-7.217105,-35.866820_2023_06_1249006309135781.jpg",
+        "image 2": "Campina Grande/-7.217117,-35.866971_2023_06_579251560951322.jpg",
+        "distance": 16.73,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 45,
+        "image 1": "Campina Grande/-7.212955,-35.949677_2018_01_3009011249344270.jpg",
+        "image 2": "Campina Grande/-7.213067,-35.949542_2017_04_535701877412191.jpg",
+        "distance": 19.38,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 46,
+        "image 1": "Campina Grande/-7.245867,-35.908804_2023_06_685462716912101.jpg",
+        "image 2": "Campina Grande/-7.245884,-35.908916_2023_06_6751153964935132.jpg",
+        "distance": 12.51,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 47,
+        "image 1": "Campina Grande/-7.245057,-35.873776_2023_06_1462881724455130.jpg",
+        "image 2": "Campina Grande/-7.245308,-35.873704_2023_06_1528526167553868.jpg",
+        "distance": 28.87,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 48,
+        "image 1": "Campina Grande/-7.214807,-35.871952_2023_06_1275766273045015.jpg",
+        "image 2": "Campina Grande/-7.215036,-35.871840_2023_06_756796212889726.jpg",
+        "distance": 28.18,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 49,
+        "image 1": "Campina Grande/-7.223585,-35.868119_2023_06_271212078759227.jpg",
+        "image 2": "Campina Grande/-7.223801,-35.868123_2023_06_985559679555501.jpg",
+        "distance": 23.89,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 50,
+        "image 1": "Campina Grande/-7.239783,-35.939280_2023_06_6347570055362583.jpg",
+        "image 2": "Campina Grande/-7.240005,-35.939195_2017_04_500866791058605.jpg",
+        "distance": 26.28,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 51,
+        "image 1": "Campina Grande/-7.240187,-35.888175_2023_06_3534201780190779.jpg",
+        "image 2": "Campina Grande/-7.240374,-35.888155_2023_06_1385807931999893.jpg",
+        "distance": 20.8,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 52,
+        "image 1": "Campina Grande/-7.252672,-35.878843_2017_03_1388577341501816.jpg",
+        "image 2": "Campina Grande/-7.252797,-35.878847_2017_03_2854434914770352.jpg",
+        "distance": 13.83,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 53,
+        "image 1": "Campina Grande/-7.212197,-35.857518_2023_06_274520825128092.jpg",
+        "image 2": "Campina Grande/-7.212331,-35.857630_2023_06_996054474915354.jpg",
+        "distance": 19.3,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 54,
+        "image 1": "Campina Grande/-7.216907,-35.866297_2023_06_990113005339000.jpg",
+        "image 2": "Campina Grande/-7.216947,-35.866389_2023_06_600221578950498.jpg",
+        "distance": 11.08,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 55,
+        "image 1": "Campina Grande/-7.232613,-35.888989_2023_06_823547106073964.jpg",
+        "image 2": "Campina Grande/-7.232868,-35.888964_2023_06_2049208428744865.jpg",
+        "distance": 28.34,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 56,
+        "image 1": "Campina Grande/-7.218289,-35.868563_2023_06_244234704989120.jpg",
+        "image 2": "Campina Grande/-7.218470,-35.868563_2023_06_1215025739195947.jpg",
+        "distance": 20.02,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 57,
+        "image 1": "Campina Grande/-7.244014,-35.872302_2023_06_280864054607397.jpg",
+        "image 2": "Campina Grande/-7.244187,-35.872164_2023_06_6992971624049842.jpg",
+        "distance": 24.46,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 58,
+        "image 1": "Campina Grande/-7.231076,-35.876603_2023_06_1260715767982124.jpg",
+        "image 2": "Campina Grande/-7.231168,-35.876712_2023_06_637319165028115.jpg",
+        "distance": 15.76,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 59,
+        "image 1": "Campina Grande/-7.200783,-35.952525_2017_04_468589264354004.jpg",
+        "image 2": "Campina Grande/-7.200903,-35.952460_2017_04_126487036110463.jpg",
+        "distance": 15.09,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 60,
+        "image 1": "Campina Grande/-7.268789,-35.914316_2020_10_177163474293728.jpg",
+        "image 2": "Campina Grande/-7.268898,-35.914233_2017_04_5639856696085448.jpg",
+        "distance": 15.14,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 61,
+        "image 1": "Campina Grande/-7.244116,-35.885362_2023_06_997765818032279.jpg",
+        "image 2": "Campina Grande/-7.244167,-35.885471_2023_06_6323196964414859.jpg",
+        "distance": 13.29,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 62,
+        "image 1": "Campina Grande/-7.232100,-35.880160_2017_03_126308812795482.jpg",
+        "image 2": "Campina Grande/-7.232307,-35.880106_2023_06_2830532240411215.jpg",
+        "distance": 23.66,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 63,
+        "image 1": "Campina Grande/-7.222587,-35.877067_2017_03_4084118961646874.jpg",
+        "image 2": "Campina Grande/-7.222637,-35.877205_2017_03_2809289892719578.jpg",
+        "distance": 16.21,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 64,
+        "image 1": "Campina Grande/-7.244591,-35.887650_2023_06_303718421996879.jpg",
+        "image 2": "Campina Grande/-7.244793,-35.887642_2023_06_1159883018736466.jpg",
+        "distance": 22.36,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 65,
+        "image 1": "Campina Grande/-7.221065,-35.868102_2023_06_246925221403022.jpg",
+        "image 2": "Campina Grande/-7.221223,-35.868104_2023_06_1295757738006301.jpg",
+        "distance": 17.47,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 66,
+        "image 1": "Campina Grande/-7.239365,-35.872657_2023_06_169529336110962.jpg",
+        "image 2": "Campina Grande/-7.239561,-35.872475_2023_06_824568145872548.jpg",
+        "distance": 29.56,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 67,
+        "image 1": "Campina Grande/-7.216605,-35.871096_2023_06_679513907348765.jpg",
+        "image 2": "Campina Grande/-7.216805,-35.870998_2023_06_931359684616075.jpg",
+        "distance": 24.62,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 68,
+        "image 1": "Campina Grande/-7.226579,-35.879712_2018_07_300542011510974.jpg",
+        "image 2": "Campina Grande/-7.226619,-35.879879_2018_07_919257451976065.jpg",
+        "distance": 18.97,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 69,
+        "image 1": "Campina Grande/-7.235265,-35.891861_2023_06_477063151303085.jpg",
+        "image 2": "Campina Grande/-7.235321,-35.891710_2023_06_1729589210889087.jpg",
+        "distance": 17.79,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 70,
+        "image 1": "Campina Grande/-7.227127,-35.881176_2018_07_544008183254780.jpg",
+        "image 2": "Campina Grande/-7.227200,-35.881289_2018_07_745383912809444.jpg",
+        "distance": 14.86,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 71,
+        "image 1": "Campina Grande/-7.226857,-35.899499_2023_06_1058335062241797.jpg",
+        "image 2": "Campina Grande/-7.226969,-35.899740_2023_06_1727323944368779.jpg",
+        "distance": 29.36,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 72,
+        "image 1": "Campina Grande/-7.228791,-35.903935_2023_06_125278880593430.jpg",
+        "image 2": "Campina Grande/-7.228822,-35.904038_2023_06_651254190198497.jpg",
+        "distance": 11.88,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 73,
+        "image 1": "Campina Grande/-7.226482,-35.877379_2022_11_672884317550063.jpg",
+        "image 2": "Campina Grande/-7.226659,-35.877326_2022_11_125741896975068.jpg",
+        "distance": 20.43,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 74,
+        "image 1": "Campina Grande/-7.251522,-35.839135_2017_03_461005415190267.jpg",
+        "image 2": "Campina Grande/-7.251602,-35.838960_2017_03_269864094816315.jpg",
+        "distance": 21.25,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 75,
+        "image 1": "Campina Grande/-7.248425,-35.887386_2023_06_221890957422784.jpg",
+        "image 2": "Campina Grande/-7.248561,-35.887377_2023_06_6331585603554009.jpg",
+        "distance": 15.07,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 76,
+        "image 1": "Campina Grande/-7.254052,-35.887227_2023_06_1726836224429421.jpg",
+        "image 2": "Campina Grande/-7.254146,-35.887222_2023_06_251802990818953.jpg",
+        "distance": 10.41,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 77,
+        "image 1": "Campina Grande/-7.254528,-35.968293_2020_10_329507891920926.jpg",
+        "image 2": "Campina Grande/-7.254543,-35.968439_2020_10_506424347374956.jpg",
+        "distance": 16.21,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 78,
+        "image 1": "Campina Grande/-7.238662,-35.898801_2023_06_937173214179218.jpg",
+        "image 2": "Campina Grande/-7.238745,-35.898870_2023_06_994182062018961.jpg",
+        "distance": 11.93,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 79,
+        "image 1": "Campina Grande/-7.221205,-35.912977_2023_06_644834277275565.jpg",
+        "image 2": "Campina Grande/-7.221291,-35.912880_2023_06_1689221364871846.jpg",
+        "distance": 14.33,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 80,
+        "image 1": "Campina Grande/-7.270131,-35.912772_2020_10_137600715074657.jpg",
+        "image 2": "Campina Grande/-7.270288,-35.912615_2017_04_2584595428511876.jpg",
+        "distance": 24.54,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 81,
+        "image 1": "Campina Grande/-7.231825,-35.871524_2023_06_1553166678765121.jpg",
+        "image 2": "Campina Grande/-7.231976,-35.871712_2023_06_959748358586521.jpg",
+        "distance": 26.65,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 82,
+        "image 1": "Campina Grande/-7.238114,-35.879564_2023_06_297278429389075.jpg",
+        "image 2": "Campina Grande/-7.238134,-35.879740_2023_06_138712899232386.jpg",
+        "distance": 19.56,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 83,
+        "image 1": "Campina Grande/-7.264770,-35.881700_2017_03_896174411232604.jpg",
+        "image 2": "Campina Grande/-7.264938,-35.881784_2017_09_221586563068617.jpg",
+        "distance": 20.77,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 84,
+        "image 1": "Campina Grande/-7.238472,-35.926355_2023_06_826389948497262.jpg",
+        "image 2": "Campina Grande/-7.238536,-35.926499_2023_06_1013775502954523.jpg",
+        "distance": 17.41,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 85,
+        "image 1": "Campina Grande/-7.226628,-35.914951_2023_06_1759410231187808.jpg",
+        "image 2": "Campina Grande/-7.226766,-35.914987_2023_06_962913488369908.jpg",
+        "distance": 15.77,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 86,
+        "image 1": "Campina Grande/-7.217296,-35.869987_2023_06_653911569941279.jpg",
+        "image 2": "Campina Grande/-7.217309,-35.870164_2023_06_566720189001768.jpg",
+        "distance": 19.6,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 87,
+        "image 1": "Campina Grande/-7.256587,-35.879771_2020_12_192525849405832.jpg",
+        "image 2": "Campina Grande/-7.256608,-35.879947_2020_12_1132496000600444.jpg",
+        "distance": 19.57,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 88,
+        "image 1": "Campina Grande/-7.229058,-35.892361_2018_07_374603993887939.jpg",
+        "image 2": "Campina Grande/-7.229081,-35.892503_2018_07_149017470524142.jpg",
+        "distance": 15.89,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 89,
+        "image 1": "Campina Grande/-7.237832,-35.878160_2023_06_562770596066390.jpg",
+        "image 2": "Campina Grande/-7.237979,-35.878199_2023_06_1307782063475338.jpg",
+        "distance": 16.82,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 90,
+        "image 1": "Campina Grande/-7.217620,-35.868007_2023_06_1449190132566965.jpg",
+        "image 2": "Campina Grande/-7.217814,-35.868013_2023_06_642220384527646.jpg",
+        "distance": 21.47,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 91,
+        "image 1": "Campina Grande/-7.223338,-35.943085_2023_06_798954195160115.jpg",
+        "image 2": "Campina Grande/-7.223482,-35.943063_2017_04_314700206758360.jpg",
+        "distance": 16.11,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 92,
+        "image 1": "Campina Grande/-7.195010,-35.962750_2017_04_1206940146431550.jpg",
+        "image 2": "Campina Grande/-7.195022,-35.962518_2017_04_272402701130478.jpg",
+        "distance": 25.66,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 93,
+        "image 1": "Campina Grande/-7.236573,-35.940788_2017_04_955013815328978.jpg",
+        "image 2": "Campina Grande/-7.236689,-35.940733_2023_06_1226280554716254.jpg",
+        "distance": 14.19,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 94,
+        "image 1": "Campina Grande/-7.223281,-35.918094_2023_06_1222504081747567.jpg",
+        "image 2": "Campina Grande/-7.223309,-35.918322_2023_06_1295455734420935.jpg",
+        "distance": 25.37,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 95,
+        "image 1": "Campina Grande/-7.251291,-35.839565_2018_01_511677210021674.jpg",
+        "image 2": "Campina Grande/-7.251400,-35.839392_2017_09_3952101148217893.jpg",
+        "distance": 22.59,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 96,
+        "image 1": "Campina Grande/-7.238279,-35.875590_2023_06_303460032022045.jpg",
+        "image 2": "Campina Grande/-7.238371,-35.875574_2020_12_513401630021167.jpg",
+        "distance": 10.33,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 97,
+        "image 1": "Campina Grande/-7.256237,-35.876632_2017_03_781422035909112.jpg",
+        "image 2": "Campina Grande/-7.256260,-35.876885_2017_03_1591454464379187.jpg",
+        "distance": 28.06,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 98,
+        "image 1": "Campina Grande/-7.222378,-35.888492_2023_06_936931257412577.jpg",
+        "image 2": "Campina Grande/-7.222528,-35.888694_2023_06_790513449376136.jpg",
+        "distance": 27.8,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 99,
+        "image 1": "Campina Grande/-7.227403,-35.881630_2018_07_305720294348040.jpg",
+        "image 2": "Campina Grande/-7.227512,-35.881797_2018_07_304236917925094.jpg",
+        "distance": 22.03,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "A) Yes"
+      },
+      {
+        "id": 100,
+        "image 1": "Campina Grande/-7.222587,-35.877067_2017_03_4084118961646874.jpg",
+        "image 2": "Campina Grande/-7.247947,-35.879157_2017_03_318555166327353.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 101,
+        "image 1": "Campina Grande/-7.240820,-35.869925_2023_06_777591827183605.jpg",
+        "image 2": "Campina Grande/-7.221291,-35.912880_2023_06_1689221364871846.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 102,
+        "image 1": "Campina Grande/-7.214807,-35.871952_2023_06_1275766273045015.jpg",
+        "image 2": "Campina Grande/-7.251912,-35.931801_2023_06_950783226139903.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 103,
+        "image 1": "Campina Grande/-7.223585,-35.868119_2023_06_271212078759227.jpg",
+        "image 2": "Campina Grande/-7.228747,-35.912542_2023_06_643714044303665.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 104,
+        "image 1": "Campina Grande/-7.232050,-35.871044_2018_01_855819271682175.jpg",
+        "image 2": "Campina Grande/-7.210672,-35.931187_2023_06_1399971680735812.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 105,
+        "image 1": "Campina Grande/-7.232158,-35.893178_2023_06_1266624707619577.jpg",
+        "image 2": "Campina Grande/-7.250659,-35.934181_2018_01_297065205370669.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 106,
+        "image 1": "Campina Grande/-7.225933,-35.877873_2018_07_2083826828423590.jpg",
+        "image 2": "Campina Grande/-7.217117,-35.866971_2023_06_579251560951322.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 107,
+        "image 1": "Campina Grande/-7.229556,-35.877267_2023_06_1596930247465727.jpg",
+        "image 2": "Campina Grande/-7.268898,-35.914233_2017_04_5639856696085448.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 108,
+        "image 1": "Campina Grande/-7.246878,-35.848132_2017_03_198464915421561.jpg",
+        "image 2": "Campina Grande/-7.217309,-35.870164_2023_06_566720189001768.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 109,
+        "image 1": "Campina Grande/-7.222587,-35.877067_2017_03_4084118961646874.jpg",
+        "image 2": "Campina Grande/-7.227512,-35.881797_2018_07_304236917925094.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 110,
+        "image 1": "Campina Grande/-7.226579,-35.879712_2018_07_300542011510974.jpg",
+        "image 2": "Campina Grande/-7.232177,-35.871036_2018_07_478365053491639.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 111,
+        "image 1": "Campina Grande/-7.217105,-35.866820_2023_06_1249006309135781.jpg",
+        "image 2": "Campina Grande/-7.246556,-35.871243_2023_06_1884466961937599.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 112,
+        "image 1": "Campina Grande/-7.226482,-35.877379_2022_11_672884317550063.jpg",
+        "image 2": "Campina Grande/-7.222528,-35.888694_2023_06_790513449376136.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 113,
+        "image 1": "Campina Grande/-7.236923,-35.866980_2018_10_294534728891459.jpg",
+        "image 2": "Campina Grande/-7.239561,-35.872475_2023_06_824568145872548.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 114,
+        "image 1": "Campina Grande/-7.254528,-35.968293_2020_10_329507891920926.jpg",
+        "image 2": "Campina Grande/-7.238371,-35.875574_2020_12_513401630021167.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 115,
+        "image 1": "Campina Grande/-7.247827,-35.879157_2017_03_523109028859524.jpg",
+        "image 2": "Campina Grande/-7.251400,-35.839392_2017_09_3952101148217893.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 116,
+        "image 1": "Campina Grande/-7.254528,-35.968293_2020_10_329507891920926.jpg",
+        "image 2": "Campina Grande/-7.232868,-35.888964_2023_06_2049208428744865.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 117,
+        "image 1": "Campina Grande/-7.224614,-35.888333_2023_06_810537367171628.jpg",
+        "image 2": "Campina Grande/-7.254468,-35.930993_2017_04_1715534121972760.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 118,
+        "image 1": "Campina Grande/-7.226482,-35.877379_2022_11_672884317550063.jpg",
+        "image 2": "Campina Grande/-7.232177,-35.871036_2018_07_478365053491639.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 119,
+        "image 1": "Campina Grande/-7.236923,-35.866980_2018_10_294534728891459.jpg",
+        "image 2": "Campina Grande/-7.252797,-35.878847_2017_03_2854434914770352.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 120,
+        "image 1": "Campina Grande/-7.244014,-35.872302_2023_06_280864054607397.jpg",
+        "image 2": "Campina Grande/-7.233507,-35.942223_2017_04_918929505329004.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 121,
+        "image 1": "Campina Grande/-7.246370,-35.936176_2023_06_132972513150296.jpg",
+        "image 2": "Campina Grande/-7.224706,-35.880333_2023_06_289050380155220.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 122,
+        "image 1": "Campina Grande/-7.225933,-35.877873_2018_07_2083826828423590.jpg",
+        "image 2": "Campina Grande/-7.232671,-35.912963_2018_07_3051847398377653.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 123,
+        "image 1": "Campina Grande/-7.226482,-35.877379_2022_11_672884317550063.jpg",
+        "image 2": "Campina Grande/-7.234994,-35.892609_2023_06_821738446271708.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 124,
+        "image 1": "Campina Grande/-7.239783,-35.939280_2023_06_6347570055362583.jpg",
+        "image 2": "Campina Grande/-7.254543,-35.968439_2020_10_506424347374956.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 125,
+        "image 1": "Campina Grande/-7.248425,-35.887386_2023_06_221890957422784.jpg",
+        "image 2": "Campina Grande/-7.254543,-35.968439_2020_10_506424347374956.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 126,
+        "image 1": "Campina Grande/-7.239783,-35.939280_2023_06_6347570055362583.jpg",
+        "image 2": "Campina Grande/-7.227512,-35.881797_2018_07_304236917925094.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 127,
+        "image 1": "Campina Grande/-7.251899,-35.931672_2023_06_991784028496375.jpg",
+        "image 2": "Campina Grande/-7.224706,-35.880333_2023_06_289050380155220.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 128,
+        "image 1": "Campina Grande/-7.221065,-35.868102_2023_06_246925221403022.jpg",
+        "image 2": "Campina Grande/-7.251602,-35.838960_2017_03_269864094816315.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 129,
+        "image 1": "Campina Grande/-7.223338,-35.943085_2023_06_798954195160115.jpg",
+        "image 2": "Campina Grande/-7.244793,-35.887642_2023_06_1159883018736466.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 130,
+        "image 1": "Campina Grande/-7.238114,-35.879564_2023_06_297278429389075.jpg",
+        "image 2": "Campina Grande/-7.216947,-35.866389_2023_06_600221578950498.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 131,
+        "image 1": "Campina Grande/-7.216605,-35.871096_2023_06_679513907348765.jpg",
+        "image 2": "Campina Grande/-7.241840,-35.933807_2023_06_1325292438385343.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 132,
+        "image 1": "Campina Grande/-7.217296,-35.869987_2023_06_653911569941279.jpg",
+        "image 2": "Campina Grande/-7.223801,-35.868123_2023_06_985559679555501.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 133,
+        "image 1": "Campina Grande/-7.221205,-35.912977_2023_06_644834277275565.jpg",
+        "image 2": "Campina Grande/-7.226969,-35.899740_2023_06_1727323944368779.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 134,
+        "image 1": "Campina Grande/-7.247827,-35.879157_2017_03_523109028859524.jpg",
+        "image 2": "Campina Grande/-7.229081,-35.892503_2018_07_149017470524142.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 135,
+        "image 1": "Campina Grande/-7.226857,-35.899499_2023_06_1058335062241797.jpg",
+        "image 2": "Campina Grande/-7.216951,-35.916880_2023_06_1311375972783636.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 136,
+        "image 1": "Campina Grande/-7.248185,-35.935330_2017_04_498605498157224.jpg",
+        "image 2": "Campina Grande/-7.235321,-35.891710_2023_06_1729589210889087.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 137,
+        "image 1": "Campina Grande/-7.246878,-35.848132_2017_03_198464915421561.jpg",
+        "image 2": "Campina Grande/-7.224706,-35.880333_2023_06_289050380155220.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 138,
+        "image 1": "Campina Grande/-7.229711,-35.915379_2023_06_1036431480682243.jpg",
+        "image 2": "Campina Grande/-7.217984,-35.868562_2023_06_221554100798164.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 139,
+        "image 1": "Campina Grande/-7.256587,-35.879771_2020_12_192525849405832.jpg",
+        "image 2": "Campina Grande/-7.228822,-35.904038_2023_06_651254190198497.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 140,
+        "image 1": "Campina Grande/-7.252672,-35.878843_2017_03_1388577341501816.jpg",
+        "image 2": "Campina Grande/-7.239775,-35.862102_2018_10_600432611351479.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 141,
+        "image 1": "Campina Grande/-7.270131,-35.912772_2020_10_137600715074657.jpg",
+        "image 2": "Campina Grande/-7.254543,-35.968439_2020_10_506424347374956.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 142,
+        "image 1": "Campina Grande/-7.238114,-35.879564_2023_06_297278429389075.jpg",
+        "image 2": "Campina Grande/-7.229655,-35.877281_2023_06_1518239388709105.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 143,
+        "image 1": "Campina Grande/-7.216685,-35.916889_2023_06_197716236232773.jpg",
+        "image 2": "Campina Grande/-7.247947,-35.879157_2017_03_318555166327353.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 144,
+        "image 1": "Campina Grande/-7.238114,-35.879564_2023_06_297278429389075.jpg",
+        "image 2": "Campina Grande/-7.213067,-35.949542_2017_04_535701877412191.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 145,
+        "image 1": "Campina Grande/-7.241737,-35.933623_2023_06_799101228467727.jpg",
+        "image 2": "Campina Grande/-7.238745,-35.898870_2023_06_994182062018961.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 146,
+        "image 1": "Campina Grande/-7.249720,-35.878948_2017_03_159655639496043.jpg",
+        "image 2": "Campina Grande/-7.245308,-35.873704_2023_06_1528526167553868.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 147,
+        "image 1": "Campina Grande/-7.245057,-35.873776_2023_06_1462881724455130.jpg",
+        "image 2": "Campina Grande/-7.256038,-35.929163_2017_04_744900549526046.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 148,
+        "image 1": "Campina Grande/-7.221205,-35.912977_2023_06_644834277275565.jpg",
+        "image 2": "Campina Grande/-7.216266,-35.871252_2023_06_222626270677127.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 149,
+        "image 1": "Campina Grande/-7.227127,-35.881176_2018_07_544008183254780.jpg",
+        "image 2": "Campina Grande/-7.270288,-35.912615_2017_04_2584595428511876.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 150,
+        "image 1": "Campina Grande/-7.241737,-35.933623_2023_06_799101228467727.jpg",
+        "image 2": "Campina Grande/-7.246530,-35.936098_2017_04_130585819059780.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 151,
+        "image 1": "Campina Grande/-7.251522,-35.839135_2017_03_461005415190267.jpg",
+        "image 2": "Campina Grande/-7.244793,-35.887642_2023_06_1159883018736466.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 152,
+        "image 1": "Campina Grande/-7.239365,-35.872657_2023_06_169529336110962.jpg",
+        "image 2": "Campina Grande/-7.218651,-35.883027_2023_06_1465138084318955.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 153,
+        "image 1": "Campina Grande/-7.231076,-35.876603_2023_06_1260715767982124.jpg",
+        "image 2": "Campina Grande/-7.240915,-35.869972_2017_04_204003171313534.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 154,
+        "image 1": "Campina Grande/-7.227127,-35.881176_2018_07_544008183254780.jpg",
+        "image 2": "Campina Grande/-7.222637,-35.877205_2017_03_2809289892719578.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 155,
+        "image 1": "Campina Grande/-7.245867,-35.908804_2023_06_685462716912101.jpg",
+        "image 2": "Campina Grande/-7.210672,-35.931187_2023_06_1399971680735812.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 156,
+        "image 1": "Campina Grande/-7.235248,-35.896166_2023_06_295108856419301.jpg",
+        "image 2": "Campina Grande/-7.254468,-35.930993_2017_04_1715534121972760.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 157,
+        "image 1": "Campina Grande/-7.244557,-35.937030_2017_04_304932457705791.jpg",
+        "image 2": "Campina Grande/-7.229869,-35.915434_2023_06_931207167968675.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 158,
+        "image 1": "Campina Grande/-7.217105,-35.866820_2023_06_1249006309135781.jpg",
+        "image 2": "Campina Grande/-7.229081,-35.892503_2018_07_149017470524142.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 159,
+        "image 1": "Campina Grande/-7.256587,-35.879771_2020_12_192525849405832.jpg",
+        "image 2": "Campina Grande/-7.217117,-35.866971_2023_06_579251560951322.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 160,
+        "image 1": "Campina Grande/-7.235265,-35.891861_2023_06_477063151303085.jpg",
+        "image 2": "Campina Grande/-7.254543,-35.968439_2020_10_506424347374956.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 161,
+        "image 1": "Campina Grande/-7.226482,-35.877379_2022_11_672884317550063.jpg",
+        "image 2": "Campina Grande/-7.246530,-35.936098_2017_04_130585819059780.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 162,
+        "image 1": "Campina Grande/-7.254528,-35.968293_2020_10_329507891920926.jpg",
+        "image 2": "Campina Grande/-7.195052,-35.962070_2017_04_1007915119740785.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 163,
+        "image 1": "Campina Grande/-7.250500,-35.934259_2018_01_531995464468959.jpg",
+        "image 2": "Campina Grande/-7.217309,-35.870164_2023_06_566720189001768.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 164,
+        "image 1": "Campina Grande/-7.251291,-35.839565_2018_01_511677210021674.jpg",
+        "image 2": "Campina Grande/-7.256260,-35.876885_2017_03_1591454464379187.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 165,
+        "image 1": "Campina Grande/-7.235248,-35.896166_2023_06_295108856419301.jpg",
+        "image 2": "Campina Grande/-7.240005,-35.939195_2017_04_500866791058605.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 166,
+        "image 1": "Campina Grande/-7.273398,-35.886392_2023_06_954423402276980.jpg",
+        "image 2": "Campina Grande/-7.237096,-35.867062_2020_10_310118293943312.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 167,
+        "image 1": "Campina Grande/-7.232158,-35.893178_2023_06_1266624707619577.jpg",
+        "image 2": "Campina Grande/-7.233507,-35.942223_2017_04_918929505329004.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 168,
+        "image 1": "Campina Grande/-7.221205,-35.912977_2023_06_644834277275565.jpg",
+        "image 2": "Campina Grande/-7.250659,-35.934181_2018_01_297065205370669.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 169,
+        "image 1": "Campina Grande/-7.200783,-35.952525_2017_04_468589264354004.jpg",
+        "image 2": "Campina Grande/-7.240915,-35.869972_2017_04_204003171313534.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 170,
+        "image 1": "Campina Grande/-7.248425,-35.887386_2023_06_221890957422784.jpg",
+        "image 2": "Campina Grande/-7.244793,-35.887642_2023_06_1159883018736466.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 171,
+        "image 1": "Campina Grande/-7.246878,-35.848132_2017_03_198464915421561.jpg",
+        "image 2": "Campina Grande/-7.231168,-35.876712_2023_06_637319165028115.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 172,
+        "image 1": "Campina Grande/-7.236573,-35.940788_2017_04_955013815328978.jpg",
+        "image 2": "Campina Grande/-7.254543,-35.968439_2020_10_506424347374956.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 173,
+        "image 1": "Campina Grande/-7.240187,-35.888175_2023_06_3534201780190779.jpg",
+        "image 2": "Campina Grande/-7.245884,-35.908916_2023_06_6751153964935132.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 174,
+        "image 1": "Campina Grande/-7.248185,-35.935330_2017_04_498605498157224.jpg",
+        "image 2": "Campina Grande/-7.224784,-35.888159_2023_06_3147265062236925.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 175,
+        "image 1": "Campina Grande/-7.216685,-35.916889_2023_06_197716236232773.jpg",
+        "image 2": "Campina Grande/-7.223482,-35.943063_2017_04_314700206758360.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 176,
+        "image 1": "Campina Grande/-7.210603,-35.931284_2023_06_2127277627475450.jpg",
+        "image 2": "Campina Grande/-7.233507,-35.942223_2017_04_918929505329004.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 177,
+        "image 1": "Campina Grande/-7.256237,-35.876632_2017_03_781422035909112.jpg",
+        "image 2": "Campina Grande/-7.224784,-35.888159_2023_06_3147265062236925.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 178,
+        "image 1": "Campina Grande/-7.239365,-35.872657_2023_06_169529336110962.jpg",
+        "image 2": "Campina Grande/-7.217984,-35.868562_2023_06_221554100798164.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 179,
+        "image 1": "Campina Grande/-7.229058,-35.892361_2018_07_374603993887939.jpg",
+        "image 2": "Campina Grande/-7.238371,-35.875574_2020_12_513401630021167.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 180,
+        "image 1": "Campina Grande/-7.235265,-35.891861_2023_06_477063151303085.jpg",
+        "image 2": "Campina Grande/-7.226000,-35.878013_2018_07_1359795554400395.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 181,
+        "image 1": "Campina Grande/-7.245057,-35.873776_2023_06_1462881724455130.jpg",
+        "image 2": "Campina Grande/-7.237096,-35.867062_2020_10_310118293943312.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 182,
+        "image 1": "Campina Grande/-7.251899,-35.931672_2023_06_991784028496375.jpg",
+        "image 2": "Campina Grande/-7.224217,-35.913873_2023_06_236547992475335.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 183,
+        "image 1": "Campina Grande/-7.251522,-35.839135_2017_03_461005415190267.jpg",
+        "image 2": "Campina Grande/-7.224706,-35.880333_2023_06_289050380155220.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 184,
+        "image 1": "Campina Grande/-7.232158,-35.893178_2023_06_1266624707619577.jpg",
+        "image 2": "Campina Grande/-7.218651,-35.883027_2023_06_1465138084318955.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 185,
+        "image 1": "Campina Grande/-7.195032,-35.962297_2017_04_514040266435991.jpg",
+        "image 2": "Campina Grande/-7.232315,-35.893158_2023_06_801252008106057.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 186,
+        "image 1": "Campina Grande/-7.251106,-35.874966_2020_12_1368891786830359.jpg",
+        "image 2": "Campina Grande/-7.246556,-35.871243_2023_06_1884466961937599.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 187,
+        "image 1": "Campina Grande/-7.254318,-35.931180_2018_01_157162686280962.jpg",
+        "image 2": "Campina Grande/-7.231976,-35.871712_2023_06_959748358586521.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 188,
+        "image 1": "Campina Grande/-7.254052,-35.887227_2023_06_1726836224429421.jpg",
+        "image 2": "Campina Grande/-7.223309,-35.918322_2023_06_1295455734420935.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 189,
+        "image 1": "Campina Grande/-7.216119,-35.871320_2023_06_821773246218610.jpg",
+        "image 2": "Campina Grande/-7.250659,-35.934181_2018_01_297065205370669.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 190,
+        "image 1": "Campina Grande/-7.222378,-35.888492_2023_06_936931257412577.jpg",
+        "image 2": "Campina Grande/-7.238371,-35.875574_2020_12_513401630021167.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 191,
+        "image 1": "Campina Grande/-7.251630,-35.929266_2023_06_792734308994732.jpg",
+        "image 2": "Campina Grande/-7.270288,-35.912615_2017_04_2584595428511876.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 192,
+        "image 1": "Campina Grande/-7.224614,-35.888333_2023_06_810537367171628.jpg",
+        "image 2": "Campina Grande/-7.229655,-35.877281_2023_06_1518239388709105.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 193,
+        "image 1": "Campina Grande/-7.236923,-35.866980_2018_10_294534728891459.jpg",
+        "image 2": "Campina Grande/-7.240005,-35.939195_2017_04_500866791058605.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 194,
+        "image 1": "Campina Grande/-7.244116,-35.885362_2023_06_997765818032279.jpg",
+        "image 2": "Campina Grande/-7.226659,-35.877326_2022_11_125741896975068.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 195,
+        "image 1": "Campina Grande/-7.234989,-35.908581_2023_06_601292035317483.jpg",
+        "image 2": "Campina Grande/-7.237979,-35.878199_2023_06_1307782063475338.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 196,
+        "image 1": "Campina Grande/-7.238114,-35.879564_2023_06_297278429389075.jpg",
+        "image 2": "Campina Grande/-7.212331,-35.857630_2023_06_996054474915354.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 197,
+        "image 1": "Campina Grande/-7.218289,-35.868563_2023_06_244234704989120.jpg",
+        "image 2": "Campina Grande/-7.222637,-35.877205_2017_03_2809289892719578.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 198,
+        "image 1": "Campina Grande/-7.226628,-35.914951_2023_06_1759410231187808.jpg",
+        "image 2": "Campina Grande/-7.224520,-35.913712_2023_06_729425772273545.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      },
+      {
+        "id": 199,
+        "image 1": "Campina Grande/-7.216605,-35.871096_2023_06_679513907348765.jpg",
+        "image 2": "Campina Grande/-7.222637,-35.877205_2017_03_2809289892719578.jpg",
+        "distance": -1,
+        "city_name": "Campina Grande",
+        "image_type": "SingleViewData",
+        "GT": "B) No"
+      }
+  ]

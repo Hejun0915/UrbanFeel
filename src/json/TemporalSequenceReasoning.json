@@ -1,0 +1,3068 @@
+[
+  {
+    "id": 38,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.16745313,0.12165212_2021-05_waiqaKJVUYTSST3GzmKKyg_d37_z3.jpg",
+    "Time B": "Cambridge/52.16745782,0.12158216_2014-08_ufrIkQcU7YJKn0-fS813ow_d218_z3.jpg",
+    "Time C": "Cambridge/52.16742239,0.12162131_2012-04_BoyNix6YzYyGnd6rhfJtFg_d216_z3.jpg",
+    "Time D": "Cambridge/52.16745166,0.12166415_2018-10_AoiPT0IKaHmqo67GSqak1A_d36_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 70,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.16952799,0.13382905_2021-05_k-MavcRe-ZWA--KbtYlMUA_d325_z3.jpg",
+    "Time B": "Cambridge/52.16929932,0.13351044_2014-08_i-CZcMDNIpeZWCN3e5WEAg_d315_z3.jpg",
+    "Time C": "Cambridge/52.16954563,0.13377511_2018-10_i_6U25CYEvh2tqI8hSwBNQ_d144_z3.jpg",
+    "Time D": "Cambridge/52.16931540,0.13354635_2012-04_bZWvjAERthu_lr8BMzN2FQ_d315_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 35,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.16720326,0.12631679_2012-04_W4ACTsCos346pl1csBVY_Q_d305_z3.jpg",
+    "Time B": "Cambridge/52.16722932,0.12625161_2018-10_GGy4cGckMHZlTzT_uopPKw_d127_z3.jpg",
+    "Time C": "Cambridge/52.16722908,0.12625261_2021-05_UAE8sioY-TKUZGKRCQq6Hw_d127_z3.jpg",
+    "Time D": "Cambridge/52.16723690,0.12628765_2014-08_qrCLFZqxDhE5e1itajtl2w_d128_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 106,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.17106207,0.13696532_2021-04_j92NmKwGQP3GK509a5O9lg_d296_z3.jpg",
+    "Time B": "Cambridge/52.17110503,0.13686280_2014-08_WLb0A5AG9nGpXj8afiVFpw_d121_z3.jpg",
+    "Time C": "Cambridge/52.17111435,0.13685706_2019-04_JN987oTUmBEC9Yynd_JflQ_d122_z3.jpg",
+    "Time D": "Cambridge/52.17148435,0.13697337_2024-10_tiaEyHh9CxwHQzgKE9ihoA_d204_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 167,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.17299324,0.13897522_2024-10_9owlv8Vfc825n8g9s7Ddqw_d114_z3.jpg",
+    "Time B": "Cambridge/52.17297110,0.13899845_2012-04_1SBAkJCCWzEmhTOg42DICA_d295_z3.jpg",
+    "Time C": "Cambridge/52.17297457,0.13900959_2010-08_GRV6yBz0mVOrgLBI6vWTLw_d294_z3.jpg",
+    "Time D": "Cambridge/52.17295906,0.13897128_2017-06_jN2A_lwnL7uCSxj40VBp9g_d295_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 163,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.17287960,0.11398974_2012-08_Z5X6uxhU3Kdg4cpiEim6Fg_d266_z3.jpg",
+    "Time B": "Cambridge/52.17288202,0.11399288_2008-08_WivVNFx-AH1CsvWMAUv1hQ_d268_z3.jpg",
+    "Time C": "Cambridge/52.17289148,0.11400880_2016-09_hyIDy-uGhVgIHLM2rWbdFg_d87_z3.jpg",
+    "Time D": "Cambridge/52.17288540,0.11393604_2024-10_iEn2L8ZnSDzvuWt88sJMOg_d267_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 179,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.17354224,0.13345937_2024-10_B4zu29sFLwHv95Z2FkaXmg_d185_z3.jpg",
+    "Time B": "Cambridge/52.17354947,0.13351435_2016-09_hNOeCje_hx15m4sAk6lklQ_d5_z3.jpg",
+    "Time C": "Cambridge/52.17336308,0.13354102_2019-04__JNKlNEHMoyOnhyb0GGNRA_d5_z3.jpg",
+    "Time D": "Cambridge/52.17337488,0.13349008_2012-04_mKfU2L3OXTlPvfcs8SIjqA_d185_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 211,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.17442566,0.13352123_2016-09_qhiLy5QQ6HvCWjaV212vNQ_d349_z3.jpg",
+    "Time B": "Cambridge/52.17420845,0.13343252_2012-04_Cvqzr2705OmCmvaDHDE_1w_d177_z3.jpg",
+    "Time C": "Cambridge/52.17431035,0.13349292_2019-04_nUdAntLJRz4fbP-saePwbg_d353_z3.jpg",
+    "Time D": "Cambridge/52.17457710,0.13353693_2024-10_V5iPkhlKaPumcrrwzIibrg_d165_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 231,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.17476979,0.13839680_2014-08_M3jGYiFmUoTLgzIc_I4azQ_d297_z3.jpg",
+    "Time B": "Cambridge/52.17476307,0.13839235_2024-10_IvNkhFap3SYAI8QdYchWDw_d115_z3.jpg",
+    "Time C": "Cambridge/52.17476486,0.13838841_2017-06_55gt1zU-tmxCx1von9Agmg_d297_z3.jpg",
+    "Time D": "Cambridge/52.17474855,0.13834155_2010-08_aWg5zFDKqiC11zvOIk4Ijg_d299_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 239,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.17529615,0.13590644_2010-08_KnfGZSe4l5n7h73w-y0Niw_d210_z3.jpg",
+    "Time B": "Cambridge/52.17551789,0.13571105_2012-04_IKx551gOOErwCGugAzbriA_d210_z3.jpg",
+    "Time C": "Cambridge/52.17527825,0.13597399_2018-10_2Dc4ybJh5pD_Z1r2fBhWuw_d29_z3.jpg",
+    "Time D": "Cambridge/52.17550492,0.13572027_2024-10_eRWnaM90e-RZ6NOUmWHraQ_d210_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 574,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.18706911,0.13298095_2019-04_qS1yOf6GnQO-hsJ3uX7AYQ_d14_z3.jpg",
+    "Time B": "Cambridge/52.18705257,0.13298841_2016-09_oV9XJM0gr9QJ0qshwO63Bw_d284_z3.jpg",
+    "Time C": "Cambridge/52.18706384,0.13298166_2015-04_K0EVaEgVS4ZfINV1ibKeXg_d132_z3.jpg",
+    "Time D": "Cambridge/52.18705807,0.13300167_2008-09_rSs7JmmL5IjY6LSDT8XKSA_d215_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time B",
+      "Time A"
+    ]
+  },
+  {
+    "id": 578,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.18716770,0.17591648_2021-07_ij51HQqs_J9VKJW08cps7w_d256_z3.jpg",
+    "Time B": "Cambridge/52.18717301,0.17588449_2017-06_rCkWOtgm_boqX7Em740Xng_d256_z3.jpg",
+    "Time C": "Cambridge/52.18717960,0.17592115_2008-07_mxg69KEoFMsmG2H6nVZEaw_d254_z3.jpg",
+    "Time D": "Cambridge/52.18716848,0.17593056_2015-04_Y27InDHpzqGZSRLdR6ugeg_d255_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time B",
+      "Time A"
+    ]
+  },
+  {
+    "id": 696,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.19099512,0.13244784_2017-06_CtOHGfAFbAMrkXQQPTEj6A_d189_z3.jpg",
+    "Time B": "Cambridge/52.19101488,0.13245612_2024-10_QYFVCMD3CMXk1sDKYt_8GA_d190_z3.jpg",
+    "Time C": "Cambridge/52.19094268,0.13246460_2010-08_Pc5mZZ2o3GCCaCr5Vt1Nsg_d186_z3.jpg",
+    "Time D": "Cambridge/52.19090548,0.13248033_2015-04_MLf1FMbzm4DZfIwfYLoCNg_d9_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 683,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.19081190,0.14709326_2015-04_3L7SzZv15lPNRaGBWfoHuA_d39_z3.jpg",
+    "Time B": "Cambridge/52.19075800,0.14711394_2008-08_UwB7MX4z4UypRAUHnQxJbA_d329_z3.jpg",
+    "Time C": "Cambridge/52.19078903,0.14711521_2019-04_iKKkXum_sLPrGcm-uwsVmA_d133_z3.jpg",
+    "Time D": "Cambridge/52.19079584,0.14710779_2012-08_MdxOzMYIIp8ZMVNnBnG7nA_d358_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 782,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.19388694,0.13910996_2017-06_yI6G1QTXRCpzcgdAT-wY2w_d341_z3.jpg",
+    "Time B": "Cambridge/52.19388363,0.13909698_2020-09__7YveWT2f0PEmQblQU_ruA_d350_z3.jpg",
+    "Time C": "Cambridge/52.19388579,0.13911878_2019-04_0x7s7FVxpFhiRwxuSK-6gg_d163_z3.jpg",
+    "Time D": "Cambridge/52.19385807,0.13912757_2010-08_nL80aOAQlSvTnLh37ppukA_d341_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 823,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.19498896,0.13977810_2020-09_m-XE6Vq7JpVXppmbCodJcw_d335_z3.jpg",
+    "Time B": "Cambridge/52.19499037,0.13975742_2017-06_zQX4S7GSoFmaEIs6LlVGMA_d156_z3.jpg",
+    "Time C": "Cambridge/52.19499829,0.13977024_2010-08_r8HtK0UtLnaGZeEJfpJt0A_d156_z3.jpg",
+    "Time D": "Cambridge/52.19498793,0.13976026_2019-04_b-wPCv7Mg5NJ_UD9jwEX0A_d156_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 953,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.19748338,0.12113758_2015-04_bT3pAfiDnjQCsByBoQTYVg_d93_z3.jpg",
+    "Time B": "Cambridge/52.19745339,0.12115051_2017-06_ZxDsN1iod7mP5d0gNtI6lQ_d274_z3.jpg",
+    "Time C": "Cambridge/52.19745270,0.12111115_2022-11_Vbpn6rIFwuS1jsNLY2GLYg_d275_z3.jpg",
+    "Time D": "Cambridge/52.19745616,0.12113755_2021-04_nU_Hl_1kAKdlxiuxuFre9w_d275_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 1012,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.19893042,0.14246628_2016-09_8vyKHAK_E_MnCUcLcX92gg_d155_z3.jpg",
+    "Time B": "Cambridge/52.19901220,0.14244030_2008-09_x2H1_cFBnd5pk5L-AfPjsw_d342_z3.jpg",
+    "Time C": "Cambridge/52.19913483,0.14260807_2020-09_bSuNw4rNKtUEhsY16-T3pA_d162_z3.jpg",
+    "Time D": "Cambridge/52.19892887,0.14247538_2014-08_q1ZmQTVZ0MQhuNDCaJ4O5w_d155_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 1060,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.20012823,0.15746024_2021-04_f_AL994bNdOinY0YezU2Hg_d160_z3.jpg",
+    "Time B": "Cambridge/52.20010675,0.15746969_2012-08_xXKua6aGyrXutshcqfCcfA_d149_z3.jpg",
+    "Time C": "Cambridge/52.20012579,0.15746630_2017-06_MbrHX0lR43fY64bAYC8Cdg_d158_z3.jpg",
+    "Time D": "Cambridge/52.20015535,0.15747540_2008-07_amQux9_L04cw4NPJhsCxEA_d163_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 1127,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.20208748,0.12115152_2019-04_1tyzbxL7gyGEXECWAdvoMQ_d12_z3.jpg",
+    "Time B": "Cambridge/52.20211580,0.12111394_2008-08_KJsSf7lllCf0x89PdwntYg_d193_z3.jpg",
+    "Time C": "Cambridge/52.20219370,0.12107842_2024-10_VX6-0Ytci3AuBKDy0XA54w_d194_z3.jpg",
+    "Time D": "Cambridge/52.20218697,0.12108924_2014-11_qRf8Bqasf6p9y8p6I9a75w_d194_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 1315,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.20733249,0.13869831_2019-04_Ci9ftCfC7FWwoJtwAwl1Dg_d121_z3.jpg",
+    "Time B": "Cambridge/52.20733781,0.13878666_2015-04_SSG9VHszARPr1mypAUPWQg_d234_z3.jpg",
+    "Time C": "Cambridge/52.20733370,0.13869887_2024-10_G4paDtGDODrqduiid5NyXQ_d129_z3.jpg",
+    "Time D": "Cambridge/52.20739970,0.13873664_2008-09_MHl4sLu8bFMVHArsFuEzVg_d168_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 1452,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.21047037,0.16311440_2021-09_8f5vLEZF8KTIWhVogysiOw_d6_z3.jpg",
+    "Time B": "Cambridge/52.21048528,0.16311569_2008-07_N5G1zuPrBMYrUTQWvzr46Q_d6_z3.jpg",
+    "Time C": "Cambridge/52.21044145,0.16311101_2014-10_1I-e0-FZCzuA0zOvMJqTBw_d7_z3.jpg",
+    "Time D": "Cambridge/52.21047281,0.16311331_2018-10_nzAP-m4Qz1rqYKrGHUOFhw_d6_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 1662,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.21434209,0.15503759_2018-10_AnHvwasR2rwSbpaje4_RWA_d336_z3.jpg",
+    "Time B": "Cambridge/52.21435078,0.15502475_2008-07_g-00Uqg0Six-JX83fJo2Sw_d159_z3.jpg",
+    "Time C": "Cambridge/52.21459533,0.15523555_2014-08_ZC-wltSuQgX7dVsKDWD5pA_d333_z3.jpg",
+    "Time D": "Cambridge/52.21460870,0.15523867_2021-04_N3_hZXDwf8upBMicgpVqvw_d150_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 1738,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.21536519,0.13369526_2015-04_C4WY1got4ksVU8rvQFl4gg_d286_z3.jpg",
+    "Time B": "Cambridge/52.21536293,0.13368458_2014-08_gfW7OgA0LhYlM1txo_gzkg_d108_z3.jpg",
+    "Time C": "Cambridge/52.21535368,0.13369530_2020-09_vYgVF7qsQvrSUqyC_9Nr-w_d109_z3.jpg",
+    "Time D": "Cambridge/52.21535734,0.13368602_2008-07__mzg3lMiSGW2yO80Wv2f1w_d105_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 1795,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.21690461,0.12578863_2024-10_E02vVhcoLBhZ7TGdIaYJww_d220_z3.jpg",
+    "Time B": "Cambridge/52.21660871,0.12625057_2014-08_D0c33Zc0vqS65PJeRM_17Q_d41_z3.jpg",
+    "Time C": "Cambridge/52.21657560,0.12621021_2018-10_nonzMXpvV6Mt7bg8BKT21A_d218_z3.jpg",
+    "Time D": "Cambridge/52.21661221,0.12623752_2008-07_XAA0gX8mW59OLD5TTbHkyg_d39_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 1846,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.21772663,0.11866273_2020-09_nkPCf17sD6motowmmXs_aA_d346_z3.jpg",
+    "Time B": "Cambridge/52.21765420,0.11863482_2014-08_IGvMsOYK3L5z-4t3OiUzpg_d347_z3.jpg",
+    "Time C": "Cambridge/52.21764180,0.11863348_2008-07_QH-3XRePcGrI2UI6cjLFww_d346_z3.jpg",
+    "Time D": "Cambridge/52.21769762,0.11865258_2015-04_R0UsrIK0mvZOpj5hWeKHgw_d346_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 1899,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.21875705,0.14709464_2008-08_GC1QoO88iLo52et1HWl8tw_d46_z3.jpg",
+    "Time B": "Cambridge/52.21878622,0.14703514_2014-08_Ax8Y66q7ibdx8AL2e8NKRw_d47_z3.jpg",
+    "Time C": "Cambridge/52.21877338,0.14706361_2021-04_Rwg6UdT9PFwRgvl3DF1j0Q_d48_z3.jpg",
+    "Time D": "Cambridge/52.21874885,0.14704222_2018-10_5yU-K9ZpntUIH-oly3C2wg_d225_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 2206,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.22783718,0.15694409_2021-09_lSGfwT15WE892oTLgUD3pA_d231_z3.jpg",
+    "Time B": "Cambridge/52.22784294,0.15700233_2012-08_WywgM_DmoEtQlKLGQp-WHg_d237_z3.jpg",
+    "Time C": "Cambridge/52.22786076,0.15695343_2008-08_03w5Kw6Fda-1fNDxZSIRBw_d51_z3.jpg",
+    "Time D": "Cambridge/52.22782223,0.15697219_2018-10_idNbV3_lgqDOGRTDDWcHig_d231_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 2272,
+    "city_name": "Cambridge",
+    "Time A": "Cambridge/52.22999654,0.14907192_2021-09_f7c57XlGQ2Z4ehuE1xj5fA_d324_z3.jpg",
+    "Time B": "Cambridge/52.23003219,0.14902459_2015-04_D0PzUY_GA1Zoa6TJrf8OZg_d318_z3.jpg",
+    "Time C": "Cambridge/52.22997784,0.14905257_2018-10_3o92yEeX4AOpObMW2pa5Xg_d322_z3.jpg",
+    "Time D": "Cambridge/52.23001551,0.14900939_2008-09_GhYdeeUJXl2ZF7qwxe3JNw_d148_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 2400,
+    "city_name": "Capetown",
+    "Time A": "Capetown/-33.54190867,18.52316832_2024-05_MxE8pSN7TseeVKXLgX1hXg_d101_z3.jpg",
+    "Time B": "Capetown/-33.54187731,18.52337367_2024-05_BxUNMCGu2U0pXC_4pM2rYw_d135_z3.jpg",
+    "Time C": "Capetown/-33.54184672,18.52354731_2010-03_LdhGu1lU2emOGESBluVJ6g_d103_z3.jpg",
+    "Time D": "Capetown/-33.54187722,18.52347367_2019-10_3HbZwO87UvknncpY2WEXjw_d270_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 2837,
+    "city_name": "Capetown",
+    "Time A": "Capetown/-33.72828111,18.44263420_2023-10_ESpX36LewwHle2KcnxsA3Q_d322_z3.jpg",
+    "Time B": "Capetown/-33.72850168,18.44242537_2023-10_4maB4itkshCea0VxBBlgWg_d321_z3.jpg",
+    "Time C": "Capetown/-33.72846594,18.44242700_2019-10_kVSZp1GWBli5LZkFI0Objw_d141_z3.jpg",
+    "Time D": "Capetown/-33.72851837,18.44240473_2009-12_hisLH5CAo0ddSqW_2P7Zrg_d322_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 2926,
+    "city_name": "Capetown",
+    "Time A": "Capetown/-33.75957626,18.44295568_2009-12_kz3U9azRqBq-nkMdP_8g9Q_d191_z3.jpg",
+    "Time B": "Capetown/-33.75961219,18.44316008_2023-10_utTiLHvN64mJWHL0wWaOWA_d176_z3.jpg",
+    "Time C": "Capetown/-33.75993644,18.44318788_2019-10_IhEXkPP_MWTHg12B7bcVeQ_d360_z3.jpg",
+    "Time D": "Capetown/-33.75995302,18.44310963_2023-10_TGvMyhvX3S2gBvjfQ5x8pw_d202_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 3334,
+    "city_name": "Capetown",
+    "Time A": "Capetown/-33.90823649,18.50333646_2022-07_WcY4syRIlF5EGz0_0ermJw_d141_z3.jpg",
+    "Time B": "Capetown/-33.90829272,18.50328909_2009-12_vLbjTCObBsMOrHMD_-jRiQ_d156_z3.jpg",
+    "Time C": "Capetown/-33.90831670,18.50328229_2024-01_ovzyThU9KFYinpIaQTouSQ_d160_z3.jpg",
+    "Time D": "Capetown/-33.90832086,18.50330421_2020-03_3F-VoJelEOlT8MTGg5O49g_d337_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 3667,
+    "city_name": "Capetown",
+    "Time A": "Capetown/-33.92047635,18.50062305_2020-03_fgQr3zjmOdVNUxdD93CyVA_d16_z3.jpg",
+    "Time B": "Capetown/-33.92050354,18.50065067_2024-01_5z8L-qVO3aXo0JdCGAY24g_d50_z3.jpg",
+    "Time C": "Capetown/-33.92012439,18.50050095_2024-01_13bdTQx6-M0wsAsiz6NyoA_d192_z3.jpg",
+    "Time D": "Capetown/-33.92048986,18.50062603_2009-12_kmP_NfcydTk11h0nkuzO2w_d11_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 3969,
+    "city_name": "Capetown",
+    "Time A": "Capetown/-33.95309819,18.52861345_2024-10_txxh2U9Z0PR486Rb0xBpOg_d159_z3.jpg",
+    "Time B": "Capetown/-33.95279985,18.52864769_2024-10_fgh1nbNRSKaVHbBUFMsaNw_d248_z3.jpg",
+    "Time C": "Capetown/-33.95288381,18.52887758_2022-09_7B6S7ue_dzBqdT7qts9oBA_d248_z3.jpg",
+    "Time D": "Capetown/-33.95287517,18.52883646_2010-01_ptm9RpBH149OFNTSo3x7sQ_d248_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 5148,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.88882982,-3.33713984_2016-10_h868KJXyuUGmEIgPBrZg4Q_d113_z3.jpg",
+    "Time B": "Edinburgh/55.88881442,-3.33717808_2008-09_HwkxCaEt6AQWfJGhu2Sm5A_d112_z3.jpg",
+    "Time C": "Edinburgh/55.88879958,-3.33713271_2023-03_OJPllNcBo2DIgBa8GVvhHw_d292_z3.jpg",
+    "Time D": "Edinburgh/55.88883536,-3.33712374_2011-04_-mnmbq63vsCO2naS15kYcQ_d112_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 5233,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.89267268,-3.15110354_2008-07_9j3XOttTu232SbBEs9XCeg_d141_z3.jpg",
+    "Time B": "Edinburgh/55.89266338,-3.15103166_2016-11_raaPAwLpDo8jOxt5pq5fBg_d321_z3.jpg",
+    "Time C": "Edinburgh/55.89268811,-3.15106843_2022-07_bQ4jL4HRyA5_ssNdiRzkng_d141_z3.jpg",
+    "Time D": "Edinburgh/55.89267598,-3.15103083_2011-09_HOya48KW2JHeIg7jhUzWFQ_d320_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 5247,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.89365698,-3.14675979_2016-11_XG4gRVbGwCIAPCTZrnWC3A_d301_z3.jpg",
+    "Time B": "Edinburgh/55.89372326,-3.14673780_2008-07_T2Me0EQo_Ms-FSgKpG6cGA_d122_z3.jpg",
+    "Time C": "Edinburgh/55.89368081,-3.14673544_2011-09_g1BzACxpcVpqK7tx9sxxAg_d302_z3.jpg",
+    "Time D": "Edinburgh/55.89369420,-3.14676376_2022-07_Vcc-VC7esJnq-CODeZNVUw_d120_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 5343,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.89678085,-3.14136437_2011-09_SXLJloaaN7XVLb0N1nn9tw_d314_z3.jpg",
+    "Time B": "Edinburgh/55.89678092,-3.14144858_2008-07_xspKB_rpMA4GZFMeL3rlhA_d141_z3.jpg",
+    "Time C": "Edinburgh/55.89678161,-3.14143479_2022-07_Cfl5D-aBvVCBA7O0vEiYRQ_d140_z3.jpg",
+    "Time D": "Edinburgh/55.89675059,-3.14141416_2016-11_yU4W6wUnvoRYVlVq12zpHQ_d317_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 5282,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.89471717,-3.14419234_2011-09_tHOvJuPFndxp6i7XnHKmbA_d308_z3.jpg",
+    "Time B": "Edinburgh/55.89471192,-3.14417807_2019-06_UwM2AGqVdRIYN_Q12EE84w_d309_z3.jpg",
+    "Time C": "Edinburgh/55.89472263,-3.14422138_2022-07_X97AHw245w59cWdZ_jL9Ng_d126_z3.jpg",
+    "Time D": "Edinburgh/55.89471486,-3.14421625_2009-04_0roelxHdjDB_J5GOgU7L0w_d309_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 5378,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.89733258,-3.15486049_2008-07_6X0nrOXNZIDNeAMU-QkQTw_d352_z3.jpg",
+    "Time B": "Edinburgh/55.89731320,-3.15486052_2011-05_2Gx3PRnyHtlj-idlZODNtA_d166_z3.jpg",
+    "Time C": "Edinburgh/55.89731523,-3.15486065_2022-08_EcCGnQYsXLPRz14h6mjZ6Q_d165_z3.jpg",
+    "Time D": "Edinburgh/55.89732780,-3.15482497_2019-07_ML3mtUUPeHOwH13TdCxflg_d350_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 5382,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.89745906,-3.13018564_2023-05_A6akmX-569avI6v8LeFVNA_d328_z3.jpg",
+    "Time B": "Edinburgh/55.89746409,-3.13024547_2011-05_LIlOBIPJkbQLy1sG3rdBsA_d148_z3.jpg",
+    "Time C": "Edinburgh/55.89748928,-3.13021427_2020-09__nzGLa_ceufonuXse53q1Q_d149_z3.jpg",
+    "Time D": "Edinburgh/55.89742711,-3.13021516_2008-07_b3tUm7-v-GxtvWGFvjO_0Q_d329_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 5395,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.89782606,-3.12978798_2020-09_wd22xfWNtwz2WVzaMiHxYA_d329_z3.jpg",
+    "Time B": "Edinburgh/55.89784248,-3.12977106_2023-05_FbaACCsFpx_vLunHruptaA_d329_z3.jpg",
+    "Time C": "Edinburgh/55.89783477,-3.12978003_2008-07_0IQor8InhZxwuu9-NnrtvQ_d329_z3.jpg",
+    "Time D": "Edinburgh/55.89788175,-3.12978778_2012-08_N7BBkUPqPmeEubBbn9C1rw_d149_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 5519,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.89977627,-3.12770232_2008-07_xlFxY6BquQETYfs-XOjyrg_d329_z3.jpg",
+    "Time B": "Edinburgh/55.89978081,-3.12776120_2023-03_BNdPuAIloJAWNkfe1YPjrg_d149_z3.jpg",
+    "Time C": "Edinburgh/55.89976912,-3.12770902_2020-09_YQUBaenmkJbBSRSQ2Jr6bg_d329_z3.jpg",
+    "Time D": "Edinburgh/55.89975472,-3.12779750_2011-05_p5BClvJ68z6v7s3S9nrq8A_d147_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 5578,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.90060021,-3.12682696_2020-09_CuHiXFILTf7HHzN8M_1s_A_d329_z3.jpg",
+    "Time B": "Edinburgh/55.90060465,-3.12681584_2008-07_tvTy6nFHaNSYdFOvE7j6Ig_d329_z3.jpg",
+    "Time C": "Edinburgh/55.90061849,-3.12686705_2023-03_6wVboI7FPGwgkuZABKTC0w_d149_z3.jpg",
+    "Time D": "Edinburgh/55.90062382,-3.12686135_2011-05_6P9dhY5jHStXxF5KnsVyEg_d148_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 5618,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.90167100,-3.16280276_2016-04_GjWUQLHv68IRvCjIPPiXiQ_d295_z3.jpg",
+    "Time B": "Edinburgh/55.90166720,-3.16277523_2011-05_hy6Ki7CYJOLr_hAw4PlzKg_d289_z3.jpg",
+    "Time C": "Edinburgh/55.90165937,-3.16280882_2020-11_0niqUU1Qj9mefwEMDmsasA_d296_z3.jpg",
+    "Time D": "Edinburgh/55.90166992,-3.16278543_2008-06_gJI1OKpivEUa3MzTP4UYnQ_d115_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 5662,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.90212285,-3.12553260_2023-03_-o6Jnt-s_bwe139l-mYm7A_d163_z3.jpg",
+    "Time B": "Edinburgh/55.90209626,-3.12548810_2008-07_KVGUmjZ-khHF0ONUMscCAw_d342_z3.jpg",
+    "Time C": "Edinburgh/55.90210479,-3.12548012_2020-09_sFHA8SKe9lBORZasQMJxfw_d343_z3.jpg",
+    "Time D": "Edinburgh/55.90212823,-3.12551815_2011-05_3c7lsSbbt8bxQe4MekSP1A_d162_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 5680,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.90234481,-3.27968703_2022-07_LlV2gyarK7niIhNGP_tUNw_d112_z3.jpg",
+    "Time B": "Edinburgh/55.90234426,-3.27968529_2014-05_wzTZpI2W19cC9Y50RL9Ddg_d293_z3.jpg",
+    "Time C": "Edinburgh/55.90235147,-3.27965705_2015-05_m-8RtP8h_7huyC9jziejhg_d293_z3.jpg",
+    "Time D": "Edinburgh/55.90234477,-3.27967891_2008-09_uJwdxSY70ZhlMhE1jwleug_d292_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 5687,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.90248220,-3.27908342_2022-07_0Pso_FWhhls8qLax0R60uw_d111_z3.jpg",
+    "Time B": "Edinburgh/55.90247609,-3.27909267_2014-05_Un3dFS4W-bl3qdZi9D3tJQ_d292_z3.jpg",
+    "Time C": "Edinburgh/55.90247717,-3.27910637_2015-05_B9q-ieiH2eP8im7MO_WdJQ_d291_z3.jpg",
+    "Time D": "Edinburgh/55.90248799,-3.27904154_2008-09_nH1NUsoXUqkbLJMyn-rZ1g_d111_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 5798,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.90493602,-3.10028296_2017-05_x0XaAvSuxlhz6hVsJ5hXQg_d224_z3.jpg",
+    "Time B": "Edinburgh/55.90491644,-3.10025018_2008-06_MvS0AQjMFLg2iDtuKlShsg_d227_z3.jpg",
+    "Time C": "Edinburgh/55.90491806,-3.10027709_2023-05_lrNwhJvLJPPabMFlv0jh2w_d229_z3.jpg",
+    "Time D": "Edinburgh/55.90491023,-3.10024380_2012-07_Ta1OHR7mYl_WEeTrkxMiTQ_d232_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 5819,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.90515790,-3.13757545_2008-07_jaz18MClJxwvWphNXoQDpQ_d209_z3.jpg",
+    "Time B": "Edinburgh/55.90514056,-3.13757851_2019-07_PLRo2dWMeCSx0gO7z00KJg_d9_z3.jpg",
+    "Time C": "Edinburgh/55.90516700,-3.13749830_2009-04_DQCLTGsqKSr0fLgNm9NI3Q_d278_z3.jpg",
+    "Time D": "Edinburgh/55.90515494,-3.13760473_2022-07_sUq6uE2X1OoRuJVsRGxeWA_d188_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 6002,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.90847597,-3.22025550_2008-07_JVH9MaOvsOudV-YlIeNxXA_d6_z3.jpg",
+    "Time B": "Edinburgh/55.90842183,-3.22024127_2014-05_OfIPZQUVIWqUAhwj2I36NQ_d184_z3.jpg",
+    "Time C": "Edinburgh/55.90846433,-3.22025498_2011-05_FHpSL2RF6kYUgYznVMzj-A_d3_z3.jpg",
+    "Time D": "Edinburgh/55.90844989,-3.22024123_2022-07_frXsf_W2KL3e-rAai7UiWg_d4_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 6079,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.90998213,-3.16860958_2023-05_ANE_8-ObpVTm_p5FHiHuaQ_d359_z3.jpg",
+    "Time B": "Edinburgh/55.90996032,-3.16862774_2008-06_A87M8yOVI35_9OfxwKbwhA_d357_z3.jpg",
+    "Time C": "Edinburgh/55.90998944,-3.16861290_2012-08_tZ8Qaa3dMvzbEcpg6ljdvA_d358_z3.jpg",
+    "Time D": "Edinburgh/55.90995351,-3.16861494_2020-11_IbWbGwzhJGCZ5Y4X7-bUnw_d359_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 6185,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.91168145,-3.23782520_2018-05_lb0G6ipIlumgI9PW01Zuow_d201_z3.jpg",
+    "Time B": "Edinburgh/55.91169213,-3.23774902_2008-09_vgAmfbgekWVnc-s6T4Xgfw_d22_z3.jpg",
+    "Time C": "Edinburgh/55.91168645,-3.23774832_2014-06_Iz94S4LfgYB16xYCvtxLvg_d22_z3.jpg",
+    "Time D": "Edinburgh/55.91167503,-3.23783331_2023-06_V6KsIc-7KNHzJoTPmupGbQ_d202_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 6496,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.91673590,-3.28050850_2022-07_UDgbflEUTuUYHJTgT4pgCg_d330_z3.jpg",
+    "Time B": "Edinburgh/55.91678270,-3.28038620_2023-06_4clolWNfDiChK3D4wRnOEw_d238_z3.jpg",
+    "Time C": "Edinburgh/55.91672295,-3.28052537_2014-06_0fb_jelNV9DPysNMHfI2Yw_d336_z3.jpg",
+    "Time D": "Edinburgh/55.91674662,-3.28048256_2010-11_-CFNOnf3wWYiCHgZbYghxg_d220_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 6632,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.91952334,-3.27319867_2008-07_u-ePZcdDfFwYdLqHi6v2nw_d332_z3.jpg",
+    "Time B": "Edinburgh/55.91946623,-3.27325160_2011-10_REHKrdWXBbzsxj6aPD64mw_d332_z3.jpg",
+    "Time C": "Edinburgh/55.91949042,-3.27323088_2023-06_b_QqAyxEqUlhtAeLeYL_Jw_d333_z3.jpg",
+    "Time D": "Edinburgh/55.91946609,-3.27325659_2016-11_kOWVloP_vfB7U46mEzRrYA_d332_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 6660,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.91972992,-3.28180317_2019-06_o3cC8sB2SE7SIF-oBAtf7A_d307_z3.jpg",
+    "Time B": "Edinburgh/55.91971992,-3.28182408_2008-07_LarzQAAjhISjP_-q0D26jQ_d308_z3.jpg",
+    "Time C": "Edinburgh/55.91973851,-3.28179355_2022-05_Q62JL1T5N1gdC4haBKxqiQ_d305_z3.jpg",
+    "Time D": "Edinburgh/55.91973346,-3.28179126_2012-08_0sgpLt3qqzktktUZZCEotw_d309_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 6738,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92137081,-3.13146316_2008-07_LwrPOBS51AfpZ9Oc9GxLRg_d312_z3.jpg",
+    "Time B": "Edinburgh/55.92138061,-3.13144910_2016-11_NN0_pogKjnx_pImzWseYRA_d312_z3.jpg",
+    "Time C": "Edinburgh/55.92139185,-3.13141823_2015-06_ybm9XTuKyVsUrh-UXsVzYQ_d312_z3.jpg",
+    "Time D": "Edinburgh/55.92138441,-3.13144678_2021-03_FPAUaZFU7GMGG0FyPi-IWg_d310_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 6829,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92326017,-3.29941773_2019-06_5I_NT10cF8EvofmYA4NdFQ_d286_z3.jpg",
+    "Time B": "Edinburgh/55.92326048,-3.29939985_2014-06_s2NBtfCG7NnIl3Vy7cRVBg_d285_z3.jpg",
+    "Time C": "Edinburgh/55.92327075,-3.29938164_2023-03_-Usx5hUhjKSueQvVOVPAgQ_d284_z3.jpg",
+    "Time D": "Edinburgh/55.92325440,-3.29942047_2009-05_yED4oAJ9RoKDKDVEVqf0iA_d284_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 6854,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92432917,-3.29906231_2009-05_IF7TFPiua7Hb8_rGYIaJhw_d104_z3.jpg",
+    "Time B": "Edinburgh/55.92430517,-3.29908171_2016-05_ofcTQ3T4v8aPBW0lDZaSpQ_d283_z3.jpg",
+    "Time C": "Edinburgh/55.92432276,-3.29905684_2018-05_cIe0QLtnO6SHCT1RVI2apw_d106_z3.jpg",
+    "Time D": "Edinburgh/55.92431680,-3.29904140_2023-03_V5EA-GwJpLqajaFpo6KVrQ_d283_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 6862,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92441225,-3.11834165_2016-04_2OUD2LRHyFwKNG-_6IPs1g_d211_z3.jpg",
+    "Time B": "Edinburgh/55.92438067,-3.11829609_2019-08_CcdFJ3wIHj2b3Lip1RnG_w_d215_z3.jpg",
+    "Time C": "Edinburgh/55.92440087,-3.11829746_2014-06_jDwMhcFhmbmo6ArkOX-oEQ_d216_z3.jpg",
+    "Time D": "Edinburgh/55.92439418,-3.11831322_2022-08_KGfamnu2qL0ISD0DI_MB2g_d212_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 6865,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92441670,-3.28155429_2021-03_0pURxPoUol0fExLLvqXcVg_d26_z3.jpg",
+    "Time B": "Edinburgh/55.92442483,-3.28155240_2008-06_NTlyNMREFLrmpUaKt58_AQ_d213_z3.jpg",
+    "Time C": "Edinburgh/55.92440154,-3.28150400_2014-06_kmbJ9iwtMR1T2oQydR06fw_d48_z3.jpg",
+    "Time D": "Edinburgh/55.92440751,-3.28149705_2016-10_EfhMazhOxGTKlqFAb3pe5A_d47_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 6907,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92497006,-3.28604484_2019-06_ShCAU-le6vBIcWjA9ouLrA_d283_z3.jpg",
+    "Time B": "Edinburgh/55.92496794,-3.28600284_2023-06_s6DbHycXPEg_NRsqJhTebw_d101_z3.jpg",
+    "Time C": "Edinburgh/55.92499373,-3.28600536_2008-06_zBAOzTx4yx79b7vtJmdMdA_d280_z3.jpg",
+    "Time D": "Edinburgh/55.92498065,-3.28604003_2011-05_4ERWCV3WmqPKq7EMSJY-GA_d280_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 6939,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92591443,-3.12005400_2022-08_0IO-cDmtNcxP4DxSYZwapA_d41_z3.jpg",
+    "Time B": "Edinburgh/55.92592200,-3.12009785_2016-04_qDeY0ObCfFdXkQNCBF_6_w_d217_z3.jpg",
+    "Time C": "Edinburgh/55.92592079,-3.12007850_2019-08_xVFRcp8klxruD9_KLBlSxw_d217_z3.jpg",
+    "Time D": "Edinburgh/55.92590816,-3.12010710_2023-05_wvZB7I8hBzvskn_m5_kwug_d218_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 6988,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92688312,-3.12789986_2023-05_OlRbKvmg4dQdb89I1yzHpw_d228_z3.jpg",
+    "Time B": "Edinburgh/55.92688629,-3.12788558_2008-06_IhHRAgEvcyBVATKUK0pGUw_d226_z3.jpg",
+    "Time C": "Edinburgh/55.92688957,-3.12789019_2012-08_KNbkHTyo9te_ae22Mczjaw_d226_z3.jpg",
+    "Time D": "Edinburgh/55.92690090,-3.12790962_2016-04_Z9nUL1i6INFXTbluXsr25A_d227_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 6970,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92620803,-3.37640815_2020-12_95-3kx6ZY0pcqP0b3ZlXIg_d76_z3.jpg",
+    "Time B": "Edinburgh/55.92617323,-3.37680286_2010-11_QNVT9C5jJ8vZ1Se7G5LELQ_d120_z3.jpg",
+    "Time C": "Edinburgh/55.92614709,-3.37682262_2009-03_GsDF1nVWEVF-PYEj1FUkTg_d301_z3.jpg",
+    "Time D": "Edinburgh/55.92620511,-3.37639028_2012-06_Rkg4lE2nQ38ZESfDXaxaXg_d76_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 7000,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92740012,-3.12886175_2012-08_lO-p1iQ_XGytdsrga9_x3Q_d227_z3.jpg",
+    "Time B": "Edinburgh/55.92738191,-3.12885883_2023-05_Ql0YucMcaBbDLk0X2Ku_Sg_d227_z3.jpg",
+    "Time C": "Edinburgh/55.92738607,-3.12883578_2016-04_qlt4xuEXk7FjihLocTSvbg_d227_z3.jpg",
+    "Time D": "Edinburgh/55.92740987,-3.12887311_2008-06_0PVHMz19gMRrE0OlLxuQ8w_d226_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 7031,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92769410,-3.12942600_2012-08_qGqTVAfwOfMLvhHruSniuQ_d226_z3.jpg",
+    "Time B": "Edinburgh/55.92770752,-3.12938639_2008-06_vxb6X9dSLVTBs1xqYTnGdw_d48_z3.jpg",
+    "Time C": "Edinburgh/55.92769992,-3.12943102_2016-04_bVj7sfpZBqBL4erckZPocg_d227_z3.jpg",
+    "Time D": "Edinburgh/55.92769759,-3.12945595_2023-05_VYjPP3pyzuSFiQ0Fnw9_6w_d227_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 7053,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.92857159,-3.13107515_2016-04_On3LFR7kMFZuxVvWuE3Qnw_d219_z3.jpg",
+    "Time B": "Edinburgh/55.92858079,-3.13105802_2012-08_sihx_liXp1OV5Eq3trpKog_d39_z3.jpg",
+    "Time C": "Edinburgh/55.92853545,-3.13101493_2023-05_JFiZvlmaZwUdPZP6ZoJDfg_d204_z3.jpg",
+    "Time D": "Edinburgh/55.92856510,-3.13099921_2008-06_KQa_ghzjORWhE2Er0MgljA_d44_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 7309,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.93497053,-3.13447934_2012-08_cz3hU84ur2s4SQ5yha0qVg_d229_z3.jpg",
+    "Time B": "Edinburgh/55.93499652,-3.13452073_2016-04_vAlftmzmA9SA7yd_oaBwFw_d80_z3.jpg",
+    "Time C": "Edinburgh/55.93498554,-3.13455775_2008-06_9XnsNF5KP_uqPVUVRPpNCA_d266_z3.jpg",
+    "Time D": "Edinburgh/55.93500301,-3.13450317_2022-08_MnvMFAJHOx76lG1yIh47kQ_d81_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 7276,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.93397220,-3.08794316_2014-06_XIrlpPnuyKSuRjHUKgOgfA_d285_z3.jpg",
+    "Time B": "Edinburgh/55.93396789,-3.08797950_2008-06_sNQNsXuaq9fCkeVrWvIZ9w_d284_z3.jpg",
+    "Time C": "Edinburgh/55.93396490,-3.08798992_2022-08_pesB8Zk3r-08L3jYeD0DnQ_d105_z3.jpg",
+    "Time D": "Edinburgh/55.93396268,-3.08799033_2009-03_cAnOYbjLpws33eTA-dpmhQ_d283_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 7463,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.94009609,-3.31991670_2023-06_KK5V2JP4GxgbiMLadNxOoA_d103_z3.jpg",
+    "Time B": "Edinburgh/55.94008805,-3.31986800_2016-05_qcnRZQtzjTy9koOMU_rGbg_d104_z3.jpg",
+    "Time C": "Edinburgh/55.94010508,-3.31987993_2019-07_Ynu2kaBmZIsT_1UO7ovcyg_d99_z3.jpg",
+    "Time D": "Edinburgh/55.94011037,-3.31994244_2008-07_jRYWwgFEDlU-QX-IkgOkvg_d100_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 7527,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.94200268,-3.40832174_2017-05_hBIUhJGSrY7M2Bdfdzof7w_d3_z3.jpg",
+    "Time B": "Edinburgh/55.94198398,-3.40832112_2010-09_lT_TGw3J4dJz1JXAwx7z6g_d1_z3.jpg",
+    "Time C": "Edinburgh/55.94198641,-3.40837177_2012-04_PXXdjVjfa111MzFUjvBEIA_d181_z3.jpg",
+    "Time D": "Edinburgh/55.94200218,-3.40829064_2023-04_1r-gnee4T5p0LHCMdIKhHw_d27_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 8047,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.95337912,-3.12243747_2018-05_0eqOxx0QNVvKhiUr4t1H0g_d22_z3.jpg",
+    "Time B": "Edinburgh/55.95337456,-3.12244960_2014-06_d5E-z8R2ZmoWR3y9w-RKBA_d23_z3.jpg",
+    "Time C": "Edinburgh/55.95335319,-3.12255132_2023-05_3pDn02RoQ3LcGRonkQqVfw_d201_z3.jpg",
+    "Time D": "Edinburgh/55.95336571,-3.12256057_2008-06_tGTqOksO6cTKlqfhkNh0gQ_d200_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 8144,
+    "city_name": "Edinburgh",
+    "Time A": "Edinburgh/55.95484097,-3.12151278_2023-05_-J-VT3iyKpLpoIQbijjptA_d106_z3.jpg",
+    "Time B": "Edinburgh/55.95485161,-3.12148214_2011-05_jkYzJ3zdMjP7mr6kzgIIJA_d107_z3.jpg",
+    "Time C": "Edinburgh/55.95484020,-3.12152980_2008-06_b4_eyZvyPadb5YKW31bZnA_d106_z3.jpg",
+    "Time D": "Edinburgh/55.95485941,-3.12151028_2015-05_RC_GUpJOZQFoWMkMuOU77A_d109_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 9879,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.04541504,101.66954011_2019-09_N81GkSFyBp4Hwva77UVZSA_d268_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.04541814,101.66951015_2021-10_WksBjcqqg8Hf3_P8ySnGtA_d267_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.04541677,101.66951224_2014-02_gJre_QwZoW4P8aN6c1qjlg_d268_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.04543919,101.66950381_2018-10_X0tb-91KHjUbgEoKQECb9A_d264_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 9882,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.04573314,101.66316331_2024-08_8poDPYFbBuYVqo6rHoO2GQ_d88_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.04573484,101.66315202_2014-02_7E8gWKYxbRv0S-20smwSxA_d88_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.04570569,101.66313882_2018-02_ABiZuHj6OeOMuzwc4zWhYA_d88_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.04570926,101.66313387_2021-02_xh3qfuvK9skTr-65qAXGkw_d86_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 9864,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.03986510,101.73265795_2014-04_wrVO6xact2jirGlcM-V42Q_d173_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.03985701,101.73258957_2019-06_kdlofBVjpo98PBmzO88dOw_d179_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.03986330,101.73258331_2021-01_8DYF-cgZkZ8ylSBNEgtbmQ_d180_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.03987025,101.73260460_2015-12_2r3y48YnlAXcUyL6IFLquA_d168_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 9917,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.04921106,101.66329825_2018-04_q0GRixKJzo_TG8-7MhdU8g_d133_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.04918176,101.66331137_2024-08_KdjW7I8k9Eot1Pg2kbZP-Q_d312_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.04919641,101.66328063_2014-02_8UTb0gS_761ONR2XBEZnWA_d133_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.04920559,101.66329747_2019-09_33KnLifnlWEgUPF3Qx2jDQ_d133_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 9929,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.04943513,101.70626524_2015-12_DnabDYt0X5E0Wv52WLln3A_d16_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.04940905,101.70627324_2019-04_pC2-t_nYhFRj13VrqKg13A_d17_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.04941381,101.70627593_2024-02_yNI5r5Ff7xdcIYc-7V5IPA_d16_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.04943118,101.70627037_2019-08_IPzzxzMqOZM5GngVufj9_A_d16_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 9896,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.04793697,101.67332662_2024-08_7O9yjrk3xlyYLOOyxkzWsg_d187_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.04794205,101.67332810_2020-09_w0D-E-KZlO1dVN1pHP0Dgg_d188_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.04762280,101.67349562_2018-09_rtGRm6_RDbult1WS80aCrw_d8_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.04763606,101.67349614_2014-02_Mp5VqUcNWTCbti86qC_7uQ_d9_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time B",
+      "Time A"
+    ]
+  },
+  {
+    "id": 9944,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.05085183,101.70617212_2018-03_JBDwxsLwnRHPOd7AKCJIAw_d52_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.05083397,101.70618150_2020-10_0ch1Wogn5bVnSKio9AWW6Q_d56_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.05082280,101.70618159_2013-10_LBDZBrRzXF0P8TCxJQ_gqg_d58_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.05083288,101.70618515_2024-02_zdo-O7dL3KzS_Nx_b9CVgA_d56_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 9979,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.05371945,101.67691161_2018-04_ikp3ZNxznbD3SSNWTItHiA_d39_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.05369334,101.67691413_2013-10_Ced8HAylSBJMcD-ts5ibIg_d35_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.05372858,101.67690605_2020-09_qyfPwDS5uIalk2CkSxP3xA_d34_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.05373950,101.67692203_2024-08_G08vEZcU7QJlrPoZiGIVsg_d33_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 9975,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.05289953,101.66839998_2020-10_7kbMPILJJPihanlX6RIzXQ_d209_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.05291214,101.66844618_2013-10_Bp8bTWNDiHzTC6cTG8ERoQ_d209_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.05290727,101.66843211_2018-10_Ld7MuYauxB0-dYK59LwGcw_d208_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.05286436,101.66842273_2024-08_6XfOS0YTNk0BdvDl9hGBrQ_d209_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 9991,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.05435100,101.66943747_2013-10_AxCHDqC-YUosdkIIKIeR0A_d294_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.05435749,101.66946031_2018-10_ea4jcJYKymAXyd2XxygW8w_d294_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.05432913,101.66945683_2024-08_KFbAYLLETdAJnJ9ftIZ0ew_d294_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.05434568,101.66945145_2019-09_Imy4VtaBoHq7Jbd-Dcj58Q_d295_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10003,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.05569196,101.66624811_2019-09_EUqWnmrw0xrOKAFuCCorkg_d66_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.05570368,101.66622484_2024-08_m_20tLs0c5XdgeBSjH3-cg_d66_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.05570009,101.66620399_2013-09_fP5HSErO0Nl3JK8Z_K5a9g_d67_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.05568782,101.66625011_2017-09_BKm7pEXQ8DungTcLDGEb-g_d67_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 10002,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.05566143,101.67562967_2021-04_8O8bD-iZr-2Y6U2DGTj4-Q_d34_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.05567164,101.67559398_2013-10_oaasqN1S6kdkdO7A8MkPpg_d34_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.05566151,101.67562932_2024-08_x6o6gLLBwmdjIt3t73-Yaw_d34_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.05565755,101.67563479_2018-03_fPYru0qu9urH83UzOwBsiQ_d34_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10018,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.05584374,101.66955340_2020-09_YuB3h1G2H609wr-_D2Rs6g_d206_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.05583403,101.66956365_2024-08_MEw7t2Yq17vmo31bb_xv4A_d24_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.05583073,101.66956443_2013-10_lsxW3XbxA74A7J5yfqrUGg_d23_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.05583818,101.66955487_2018-04_565Ak5DHYQ-Pdzj8Zn4Guw_d200_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 10024,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.05593339,101.70720216_2019-08_aWE6Xcfxfd27DBNGKrrjoQ_d178_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.05592889,101.70722310_2024-02_T3Q8mBBjf4FQmNZugdb9lw_d176_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.05593173,101.70712128_2018-04_W6OJJzE14eiQkR7rarVaOQ_d178_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.05592059,101.70721432_2014-06_2MAIUbLeU0VnzVJxLJiwQg_d177_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 10193,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06376558,101.74308259_2021-01__SQXy1nN4AWze178LvEMhw_d18_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06377539,101.74307633_2013-09_gTEX402weAiwcRzrBa8qfw_d18_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06377778,101.74308381_2024-03_jQ_XXtL6dH2KvVOXCsdMZQ_d18_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06379666,101.74307720_2018-03_1OEMYF_si1E4qFVeS5AF_g_d13_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10234,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06533306,101.70156203_2018-03_GM-OLYvCZPvokUIcT_HKBA_d95_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06533796,101.70157975_2024-02_KPTwngXnqwu4s6f6sNqDhA_d275_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06533265,101.70158566_2018-10_ANpRY5w29ULrwyhtSb6NPg_d274_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06532935,101.70158566_2013-10_pva5UXXa_7z33Gcnr83E9Q_d274_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 10236,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06536069,101.70630755_2013-10__KB3ZMUiipbmkqquC62CaA_d238_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06536524,101.70628852_2015-12_X6mFkCTjlSNBzktkDeAd5A_d245_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06536913,101.70628939_2024-02_R2ju-UCwKizWhe-8nHwyXQ_d245_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06536110,101.70630416_2019-08_X64Py984WXHIajv7VthIlA_d242_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10223,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06442001,101.65963446_2018-05_qAvjaQ2_q9H_oiKrcKcoNQ_d203_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06443645,101.65963255_2024-08_bdpZSPP_dglXbW8U0nXzRQ_d203_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06440088,101.65967640_2018-10_l7THU5hDoEk9NqPMFQOwYg_d22_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06444993,101.65962647_2013-10_hArY1UoKqmFGn4aC3uHBaw_d203_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 10203,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06384317,101.65987403_2024-08_NwFrdf_AtXr86sYPj8D4nQ_d200_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06383064,101.65986812_2018-05_DiNu3UzpLU-GRqnavTH10g_d199_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06383682,101.65987212_2013-10_Wy6IeTq89Ml_GLIcAl3B-w_d202_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06385365,101.65989556_2018-10_Mkly-Fm9UFKqWFwsUbT-kQ_d21_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10244,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06545707,101.70907827_2024-02_xMluLbI_hAM2bI0f9teSVQ_d356_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06545630,101.70906602_2013-10_iWAZjekoDWKXX-N8AwodRQ_d353_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06544613,101.70907046_2019-02_qMwU-Ik9w8qbFAv5Tnm43Q_d354_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06544223,101.70906420_2015-12_FCCxtI8mHTTLMFlY0y6o4A_d352_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10198,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06383342,101.74451292_2018-03_hiYkWhfFreyjP78SQ6-vTQ_d1_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06383248,101.74448268_2019-02_2eOpWJ4Z_qv-kwXAFlEJkQ_d360_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06379896,101.74451145_2013-09_FGatj2BJ0kZ69FrhDkMFeg_d1_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06382899,101.74448598_2024-03_SXVKbmc-9bfZ19z6RLm1Hg_d0_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 10325,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06864195,101.67277013_2018-03_GRO_HIpWOenFusiOyXKAhQ_d22_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06860370,101.67275849_2013-10_IlWN1aN5yg2HI6XobmnGkQ_d23_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06861252,101.67278150_2024-02_-iVxK4Phoo-s19PjUDN1vA_d23_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06862818,101.67277490_2020-09_KrJZlIu2qBG3Q5CHAF6okw_d22_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10327,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06867944,101.65836332_2013-10_D7ysybfMKDnf7CnEQ1wEpg_d56_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06870063,101.65834474_2017-09_tFidzSviMubQ1KqcHldooA_d51_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06862214,101.65827032_2024-08_uqNk6yk0CowhO-rCbV-RGQ_d248_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06860966,101.65823203_2018-03_QtKVZNE7j1pKZxI6KIwXmw_d249_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10336,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.06869790,101.69352672_2024-02_A1RfzH2wAfrCnpiLHNM0Jg_d89_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.06870904,101.69353601_2013-10_b3aKrZIzTdlcnrLT5aFrCw_d270_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.06869240,101.69353523_2019-08_HXNGdrYFHRr52XHQr90l5g_d90_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.06868985,101.69354244_2020-09_2LyxdJ34DT_dw6bTNVcuZQ_d89_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10356,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.07005310,101.69056784_2024-02_yL2BuKUyG1VQXhhBXUVLqQ_d325_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.07003600,101.69057522_2017-09_IebnvtlPfWF3Lr5Ae0Vonw_d323_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.07004991,101.69055768_2020-09_EXLpLIMcL9iXPoCFQv8heQ_d144_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.07007422,101.69059711_2013-10_oQOrH6Dz4O_RnkZfhWE7Tw_d323_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10384,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.07065402,101.66509082_2017-09_ocFWp0WhKSuI0XLiCsk4mw_d227_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.07067526,101.66508874_2024-08_f24HGozHV_4ZqvuJAclpvA_d47_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.07066922,101.66509985_2020-09_V50H3jn6oiLfkfnGnQ53qw_d49_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.07067496,101.66506894_2013-10_EgI5xRNp45JhifIQC-Ohag_d227_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 10438,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.07335434,101.65196724_2014-01_2kf0Nfan9DEYKbsd9xJEyQ_d119_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.07334173,101.65200909_2017-09_A7XKra6mAFpf-94jbONIxw_d303_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.07334734,101.65196203_2018-05_iOrmliqkdwRDXZ82l9xSKA_d124_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.07329691,101.65201369_2024-07_5mx9Fj_eW1yPhFKHNOFAlw_d353_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 10446,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.07343394,101.67270308_2024-03_2yDrnpAmanPL5KCY1s_IoA_d183_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.07342359,101.67270395_2017-09_q2iUN8E7R2n3KweghjABkQ_d192_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.07344754,101.67270083_2018-10_iUVcUSpVSEAaatvU3VoEwA_d192_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.07341549,101.67270395_2013-10_fRashkbLxjRj4wFkscXdLQ_d190_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10515,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.07623266,101.66192383_2017-09_TQXPKVZWtNXm546HFEubkA_d133_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.07623690,101.66189969_2024-07_ih3h-gj_cM56DVkm2L1vDw_d132_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.07625155,101.66189057_2013-10_UdP6dvZsN3B-KdWyKJjXTA_d131_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.07623730,101.66191749_2018-11_uaV9xEjFQq02Gi7d9E7Emw_d132_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 10531,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.07658316,101.74475052_2013-09_inrRjHB3rOctccvcQfRveQ_d91_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.07659534,101.74475373_2018-03_M5eCEZjDtJy047xFZ0xvZQ_d91_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.07657643,101.74473557_2015-12_1ho5ssMNyweszrTXw0VDSA_d88_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.07659165,101.74474226_2024-04_wVYBtvIjsHIkHtCkpfcoVw_d91_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 10648,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.07989170,101.66939335_2018-11_KekNP3pFZXQxmI6t5SYtNw_d138_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.07988173,101.66939926_2017-09_g1Pndqfjje9Qbdhehmuyyg_d138_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.07990525,101.66940872_2018-04_sLREPwQXYpCCBhwjt3JGbw_d314_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.07988171,101.66940777_2024-03_dcBC9LXghioXmkHFdxlEQg_d319_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 10669,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08138049,101.66313770_2024-03_ElI-Ot2Nqet976L-XwlHng_d178_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08136709,101.66313509_2015-10_X0rK1SgCY7LWYewa38ZV8Q_d11_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08138725,101.66312971_2018-10_lwE5ATdpWwTkr5cyoUg5zw_d23_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08141369,101.66311217_2014-01_5VETK0ryumtSjE8wUKofLw_d224_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10708,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08248153,101.66456641_2013-10_dT8gO3jaZbElBvpRND5zyQ_d67_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08248487,101.66452899_2020-09_QQQB54I0hTxN3p1R1TNZvw_d68_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08250175,101.66454809_2024-08_vOGMclZVuRZV7IHsUTzmLA_d67_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08245893,101.66453498_2017-05_RonH7p714a_WfxzRIwXWNQ_d61_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10705,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08211563,101.66501501_2021-03_8JSokpVvnYDgI110fS47uw_d245_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08212174,101.66500546_2018-10_fgIPa4883YA8MaBvAhNJ7g_d245_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08214504,101.66502100_2024-08_aBOnl-hZOufuthAo6HXjEQ_d245_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08208347,101.66498071_2016-05_GJaRFAkUTifKVIiv4HcuUw_d245_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10737,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08303915,101.66641275_2020-09_JQ49gsvMUI7akCLKqIHOlA_d45_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08304326,101.66641388_2017-09_VvUNQIOWVGryutSXtQupPQ_d48_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08305677,101.66639955_2024-03_8m_VUQ-Tzw7jzYe98XwAHw_d44_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08306244,101.66639530_2015-12_B3Oh32EK3_C760dgp19thg_d45_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10738,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08305908,101.66320777_2017-09_XvnLmc4SVr5foeBxP8dWAg_d63_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08308496,101.66320083_2013-10_Hik1AjX2j9F8g7WX28PYfA_d65_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08307880,101.66320143_2024-03_O5ZHWBpX6Cx-aIGyLbPLhA_d65_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08306503,101.66321941_2018-12_31_MY9W-Dfi3TAa1TS85MQ_d65_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10760,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08453480,101.68913720_2013-10_30XaVQOuxC109GTPQKozWQ_d278_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08454863,101.68916838_2018-10_1SGAExU7V0Gg9hiL8CYlOg_d286_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08454893,101.68914120_2019-08_fa0GGc5_AiJhbrEhTPwqTg_d275_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08453627,101.68912652_2024-03__v8USl4rW4E4IILGQ-LSqA_d277_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 10767,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08460460,101.66143417_2024-08_nMHfvcxArBnFWEEhTs3kvQ_d19_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08462405,101.66142540_2018-10_o344T1AX9vXTd9U39tf9RA_d19_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08460212,101.66142158_2015-10_u3KZQgrS6wE3He3fSdgYtg_d200_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08463670,101.66142027_2017-09_ETFhJpBdjLXJPzg65u2Abg_d201_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time B",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10815,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08622289,101.69846619_2013-10_2GfyRNer6vkbfGUOk4PV8w_d355_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08623068,101.69848713_2020-09_lbyGpOPXLKTHN7DkkTXHeQ_d355_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08620164,101.69846889_2018-03_Z270Y-JIK47lYiOFnuPH3g_d177_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08621348,101.69847618_2019-08__8dObITVT6sX5dcNKm-iuQ_d354_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 10813,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08619045,101.74159179_2013-11_baDkavkEvCetrQglBjDnkw_d186_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08617610,101.74164871_2021-01_ErGkMVrG2IFedvD3Zepg6Q_d186_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08621917,101.74164584_2018-09_Lw6ivkMb76CkdCRIq3xGaQ_d186_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08618172,101.74164888_2015-05_fCdCrb_bwbHWRUxECGnA-Q_d187_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 10869,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08792804,101.72075541_2024-03_iOqbRlyFCV-FroToWSRq6w_d86_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08790320,101.72077722_2013-09_X6AdrpietJp5kOa0NGDj2w_d85_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08785894,101.72075228_2017-10_VKtFOYqZmB3W68Lwt1Nq9g_d265_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08786667,101.72072457_2019-08_TZRjkyNWFimtrX960IUoZA_d265_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10851,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08780625,101.72234896_2024-03_eMh5lQPRpuDNNYpNhB2iFQ_d86_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08773445,101.72235947_2019-08_jES3sm7NISperIhQerJ3Yg_d265_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08778567,101.72234583_2013-09_MTFQmi4n9EUa7G29Z7LWKA_d88_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08773776,101.72236590_2017-10_qC0LI46-QGhpHQ4ESdzSLQ_d266_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time B",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10892,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08923816,101.69540615_2020-09_8gK7m95wVrMSujTiHd34rA_d139_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08923992,101.69542274_2013-10_-pJKeW4wpFc-t5Factc4eQ_d140_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08923455,101.69540711_2018-11_qIsuX1hA55COnd9jjAaJIA_d139_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08924998,101.69540815_2024-02_5RsXrB0iwwNF0rYZ5eWLCg_d139_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 10899,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.08940915,101.67436181_2013-09_BScUQl_mRPuUNC3yOr3s2g_d348_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.08937924,101.67432655_2018-05_IS2yp63pcgD30bMEMAi_3w_d349_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.08940780,101.67433454_2024-08_sHE4slsonmhTj0pV_PMXww_d348_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.08940864,101.67436077_2020-09_UzKN4DDRO4SBBqVsIRsVDg_d347_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 10962,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.09109826,101.67585964_2024-03_f9q1tBMSihDtDmTX3vySfg_d268_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.09109116,101.67589056_2013-10_YwnC3_6JQ15B91e49zxvag_d86_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.09109688,101.67584835_2017-09_XSqilBOLYBXsFAQ0zzOG_A_d265_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.09110290,101.67588065_2020-09_btjAAeWFCknzXJ_cY0uD4g_d263_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 11110,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.09671387,101.68845685_2017-09_3EHFYkltGP44ri3gPeGn7w_d281_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.09671629,101.68845555_2024-03_qePRUg_toue4k0HmfCIpMQ_d275_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.09672111,101.68846041_2020-09_VqrN5mCmZFsroDkEHcETNQ_d278_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.09670737,101.68844139_2015-12_Q7rJ-kirSaxttwzsnIPntQ_d275_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 11362,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.10568064,101.74483820_2024-05_YymNlJ29WIvsrUUIoiaBVg_d255_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.10569356,101.74483681_2018-04_odAVwj5iHjwHNDoBLOPyag_d74_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.10569695,101.74483516_2013-10_BIvAXAW2vgYuT3tqUrHUOg_d80_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.10568947,101.74486028_2020-10_4tUf-okvDK6osG77RPy8Jg_d74_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 11407,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.10731383,101.69062161_2013-10_ArVSPlex4Fk0N-GIcsRIbA_d51_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.10732621,101.69060849_2019-07_74zlx6u7rVUhDz09jA7hBQ_d227_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.10731325,101.69061987_2018-12_YLhU8tNbTmacuDgiOLAqIA_d48_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.10728690,101.69060875_2024-03_EkQdSEdgK4wssan4XToDzg_d228_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 11399,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.10721640,101.70475820_2018-04_Yuuf8HZz-XifnKUGHmz6tQ_d258_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.10713307,101.70473735_2013-10_VXBNxkTxePEhq__pBbUkDA_d56_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.10710166,101.70472797_2024-03_IyvuPvAWTWQPy-LgN_ScMg_d82_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.10705619,101.70472928_2019-07_G8NPfuUX883GRiWnDLb2aA_d261_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 11422,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.10819719,101.73054446_2013-10_AXmCvVDy-zxSRbU_pauQlw_d16_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.10823406,101.73059399_2021-03_CG9wubKxZgrewdNXKbd49w_d17_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.10822227,101.73060198_2018-04_1x3Npj45XHB4QgkuWnfqBg_d17_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.10858988,101.73032453_2015-07_NLpp2obBvvIOcPpXrdul3A_d196_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 11429,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.10847107,101.66472967_2020-09_bVfaPunIKYpjx_rROMnsTg_d92_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.10848809,101.66476379_2018-05_i10SluAMBsunl6JThZrZZA_d94_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.10848363,101.66472628_2013-09_mCeAAXG7InGmKtWdngG6vw_d95_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.10847012,101.66474069_2024-08_JblHQA2u4LHj0YizpE18Jg_d93_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 11439,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.10864026,101.74472184_2013-10_lyeq7lEcLxEAla8tUArWjA_d52_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.10864581,101.74472149_2018-08_ccLU22-REfvB4oXf54bnsA_d238_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.10863338,101.74471350_2018-04_R0WbJ-egkFTvJClWRMWnHw_d233_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.10862084,101.74474122_2024-05_cljelCIN592DHuBm7G6JYw_d231_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 11443,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.10866549,101.71746804_2019-06_IwIbnByBQuqrBwplh54_mw_d142_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.10867595,101.71744476_2024-04_gKOSFpqzk6_s7H5CJhqZCQ_d143_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.10868476,101.71745536_2013-10_mgIyATpRPQ1eb5e8gpjSKg_d144_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.10871213,101.71746952_2018-04_gBZma8gjjI2UebR94l7WsQ_d143_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 11464,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.10963039,101.67087191_2018-03_jyycld4FTNzgN5rJvgMyDA_d250_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.10962976,101.67087461_2013-10_2PbT1kcg3ZgUOUkiIaSssg_d249_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.10963621,101.67085446_2019-07_pJuc7AAIRC0INqjbCmuFCg_d249_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.10962430,101.67087947_2024-03_pBrnNuKoMJyg5JV8h4hbRQ_d249_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 11493,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.11037728,101.70789558_2024-05_CY9a0WqII_D12Ud7EOIWZw_d276_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.11040921,101.70791808_2020-10_F-GKqFQKpc7nSPsjwg4vXQ_d88_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.11040673,101.70786517_2017-06_g3bdzhcXSfcqWKeSX-iMvA_d95_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.11037614,101.70788281_2013-10_mWGhZw27l-WyCJa1bAsIag_d276_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time B",
+      "Time A"
+    ]
+  },
+  {
+    "id": 11547,
+    "city_name": "Kuala_Lumpur",
+    "Time A": "Kuala_Lumpur/3.11286462,101.66630759_2013-09_z7-BzqlbKOGPlfCTx9Idvg_d271_z3.jpg",
+    "Time B": "Kuala_Lumpur/3.11297553,101.66634693_2019-07_qhMWMXPOo6bmoNWxvGu2AA_d90_z3.jpg",
+    "Time C": "Kuala_Lumpur/3.11299589,101.66632487_2024-08_h-gpfT4V0d76hE39VhEZiQ_d90_z3.jpg",
+    "Time D": "Kuala_Lumpur/3.11294649,101.66631358_2018-05_caDf-LGi9kxvepkI1vgnMA_d269_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 15627,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.69883581,-9.19554784_2009-06_x4Qq0DSFjDLCUoRLu0ko9A_d19_z3.jpg",
+    "Time B": "Lisbon/38.69883522,-9.19555536_2020-12_vfgn_HTzqYptCr4zYuKM_Q_d198_z3.jpg",
+    "Time C": "Lisbon/38.69884251,-9.19556034_2024-08_1pIV88kcFItFqGdXrZPcTg_d18_z3.jpg",
+    "Time D": "Lisbon/38.69883768,-9.19555029_2018-04_E1jGye1RTSnffT9BWxekMw_d17_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 15611,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.69737331,-9.19254017_2022-08_rUjcBkfMu4jArfWHZn40aQ_d14_z3.jpg",
+    "Time B": "Lisbon/38.69738140,-9.19254017_2019-09_aH1F_bID8lhWKTZ-ljH8rg_d14_z3.jpg",
+    "Time C": "Lisbon/38.69738800,-9.19254600_2024-08_8GNL58qiKqHeuKo_vg8mYA_d14_z3.jpg",
+    "Time D": "Lisbon/38.69738984,-9.19255479_2014-08_G0lnoLf6huoNs_RhTAJ3bQ_d196_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 15686,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.70100525,-9.20725170_2009-07_t33OyPKF2AloPI1W3UO7jg_d260_z3.jpg",
+    "Time B": "Lisbon/38.70095604,-9.20726336_2024-08_0TnTCax54DxYzSJYjblLiw_d82_z3.jpg",
+    "Time C": "Lisbon/38.70101043,-9.20723826_2018-09_oddPn0m28NExNiU8XFz9xQ_d261_z3.jpg",
+    "Time D": "Lisbon/38.70100342,-9.20724274_2022-08_TtnybVVVrDIQnzfB2XtK9g_d260_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 15696,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.70185432,-9.19248085_2024-08_u5lAxzI4VBQVwKTPBnC37Q_d40_z3.jpg",
+    "Time B": "Lisbon/38.70187097,-9.19245567_2009-09_zivIs_sHxXR5KRQz34dzGQ_d218_z3.jpg",
+    "Time C": "Lisbon/38.70185178,-9.19247679_2018-09_5-4ku_n3PN6mu03QYUtThA_d39_z3.jpg",
+    "Time D": "Lisbon/38.70184497,-9.19245964_2020-12_ySp6hR1ZhTEjJRq0e91_aQ_d40_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 16142,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.71562934,-9.21759127_2014-08_cjN_p5E22_Ie-hfyuj2dHQ_d210_z3.jpg",
+    "Time B": "Lisbon/38.71564863,-9.21760894_2009-07_cAspItij3ku9iSzcUhVCLQ_d208_z3.jpg",
+    "Time C": "Lisbon/38.71562017,-9.21759000_2024-08_w9JLl2y_BzdY9mon2-qGpg_d217_z3.jpg",
+    "Time D": "Lisbon/38.71564298,-9.21761021_2019-09_fZO6OBnNA5KoQzrPX5QyYg_d212_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 16349,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.72146519,-9.15038569_2009-07_Gp7oOZvKqnlxK9HzW_bw7w_d34_z3.jpg",
+    "Time B": "Lisbon/38.72146663,-9.15038045_2020-11_i8qGTJdKjMsr4VIIBezKrg_d35_z3.jpg",
+    "Time C": "Lisbon/38.72144282,-9.15035866_2024-07_r-DgAxsBDZdcr8xgNQkU3g_d34_z3.jpg",
+    "Time D": "Lisbon/38.72143480,-9.15034067_2018-08_zpkZuwCh65RySTAwxHROCw_d34_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 16363,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.72169782,-9.13053729_2022-08_pzb_2vKyEamLzcDSTVLfxg_d230_z3.jpg",
+    "Time B": "Lisbon/38.72166209,-9.13052505_2018-09_ZhKmoAh51MjePvljzwt0Rw_d52_z3.jpg",
+    "Time C": "Lisbon/38.72167253,-9.13053847_2009-07_FSCmgUnUfp2LCYjzhRHHQA_d54_z3.jpg",
+    "Time D": "Lisbon/38.72167639,-9.13054177_2024-08_HeQI1NXmnJH9EiKPuP25Cg_d51_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 16454,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.72440826,-9.13405443_2009-06_LPWwedIWUiXFJwhgsjacuA_d176_z3.jpg",
+    "Time B": "Lisbon/38.72443779,-9.13404776_2018-08_AING96FYIkun2QaAiUsxYg_d174_z3.jpg",
+    "Time C": "Lisbon/38.72442559,-9.13405071_2024-08_pgI7gemJIb50tSNxgLF94w_d175_z3.jpg",
+    "Time D": "Lisbon/38.72441910,-9.13405266_2020-11_ctpIKRzzH2F9McrQJMAPrw_d174_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 16508,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.72590531,-9.12495222_2022-08_jS2Tum_kdCmmwDi7sLqVKg_d14_z3.jpg",
+    "Time B": "Lisbon/38.72591882,-9.12494876_2014-05_qzweoII3IxTDsCoyWjhLDA_d12_z3.jpg",
+    "Time C": "Lisbon/38.72592621,-9.12495864_2020-11_YaGyhwLPG1CcmjtvLVDBew_d14_z3.jpg",
+    "Time D": "Lisbon/38.72590374,-9.12493584_2009-05_7XThR2eHujSo9iRc_59VZw_d15_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 16724,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.73187429,-9.14732946_2020-11_MDYVNk97EH-sXluaZSTGhg_d334_z3.jpg",
+    "Time B": "Lisbon/38.73188239,-9.14732524_2024-08_xv5iYz_TsTZvHI1MB5Uugg_d336_z3.jpg",
+    "Time C": "Lisbon/38.73187716,-9.14733428_2009-06_Na5AWbblo8Cq-fI1_FGjrQ_d155_z3.jpg",
+    "Time D": "Lisbon/38.73188597,-9.14731789_2022-08_8L5UnM2m2QPRE0TuE9PWmA_d334_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 16923,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.73764688,-9.10739795_2009-05_rXKVv6WbouJTnGf1HfodBA_d166_z3.jpg",
+    "Time B": "Lisbon/38.73765455,-9.10743357_2018-09_HnymRmexZwkUM0kI6-ItXA_d344_z3.jpg",
+    "Time C": "Lisbon/38.73800467,-9.10729471_2024-08_GqLHvWmjfKlnNyNHXNIUdw_d341_z3.jpg",
+    "Time D": "Lisbon/38.73799764,-9.10728627_2019-11_q2EX2E6G6tXk91fD66ikDA_d161_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 16935,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.73780829,-9.16229212_2014-06_xNbWbYrwCMwNOUSIsbpbCA_d255_z3.jpg",
+    "Time B": "Lisbon/38.73786937,-9.16230733_2024-07_TCogZVei3Q2godSOSfOOwQ_d245_z3.jpg",
+    "Time C": "Lisbon/38.73781525,-9.16232346_2020-11_eWFLIKa_kPAVc67ymYifjw_d256_z3.jpg",
+    "Time D": "Lisbon/38.73784855,-9.16229998_2009-08_3bMIG0xCdbuycWGuKmXvvQ_d264_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 17196,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.74399735,-9.15212115_2020-11_RFQFCygEuzm3MLjUkT9u6Q_d176_z3.jpg",
+    "Time B": "Lisbon/38.74397708,-9.15210485_2024-07_T6ms2KPbzbzpDnsoVdtU4A_d172_z3.jpg",
+    "Time C": "Lisbon/38.74397135,-9.15207698_2018-07_5pTThqS0bYxLfw6OsOsspA_d171_z3.jpg",
+    "Time D": "Lisbon/38.74400884,-9.15204353_2009-07_pX6JcrI6lk92UnnUhH9JIQ_d179_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 18258,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.77094880,-9.16832702_2020-11_7uis9h193OEdLIHF_TYW_w_d29_z3.jpg",
+    "Time B": "Lisbon/38.77095114,-9.16833445_2024-12_k7_rlmgjDIOwtu-iaBosTQ_d30_z3.jpg",
+    "Time C": "Lisbon/38.77097300,-9.16833149_2009-06_76TmpDbgs7QSF5g0CqioxQ_d198_z3.jpg",
+    "Time D": "Lisbon/38.77095733,-9.16830919_2014-07_tIz11l_ZYmpGCVFzaE3QOg_d182_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 18354,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.77397749,-9.16978874_2009-06_dxh4jLU3Q3MF5I-bqxyxUg_d273_z3.jpg",
+    "Time B": "Lisbon/38.77394372,-9.16977522_2018-09_8qaRUaNgl7Fxs9d3dIEjcQ_d91_z3.jpg",
+    "Time C": "Lisbon/38.77395094,-9.16978907_2024-12_7Etm3Hl8BocdknYzwhImaA_d273_z3.jpg",
+    "Time D": "Lisbon/38.77394577,-9.16978933_2021-02_WyS29lSpb7KcYL995OA6GQ_d98_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 18396,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.77549050,-9.15786953_2024-10_K8F_2tAfz_KjNwaZE67bxQ_d93_z3.jpg",
+    "Time B": "Lisbon/38.77549125,-9.15790222_2020-11_PPDvAMz_0iyL7-m4jHoFFA_d93_z3.jpg",
+    "Time C": "Lisbon/38.77549244,-9.15782975_2018-09_EpT5NvpmaekkgJsc1CTisQ_d93_z3.jpg",
+    "Time D": "Lisbon/38.77550029,-9.15782966_2009-06_DnLTK4SIZOpukCRidAuPSA_d93_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time B",
+      "Time A"
+    ]
+  },
+  {
+    "id": 18400,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.77555945,-9.15632129_2022-07_Xok2YCW5FWDfw8xYnVVnNw_d91_z3.jpg",
+    "Time B": "Lisbon/38.77553781,-9.15630237_2014-07_j23B5CcixDR_zIwy1iyR4Q_d89_z3.jpg",
+    "Time C": "Lisbon/38.77554306,-9.15633438_2024-10_XA2SsMFq6Vkl4ufw7XgyDA_d90_z3.jpg",
+    "Time D": "Lisbon/38.77555152,-9.15631242_2019-10_vPDMgbP5DxGc5sIkmgcO5Q_d90_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 18625,
+    "city_name": "Lisbon",
+    "Time A": "Lisbon/38.78574732,-9.14256872_2020-11_n_eqdW41so0zDTj6Ry1oaA_d161_z3.jpg",
+    "Time B": "Lisbon/38.78576682,-9.14254330_2009-05_5SnWN2UOSQPDvBegHuXyRQ_d158_z3.jpg",
+    "Time C": "Lisbon/38.78575906,-9.14259667_2018-04_eiakxQvQxPGktzzTc1iZuQ_d337_z3.jpg",
+    "Time D": "Lisbon/38.78571478,-9.14257969_2018-08_C3KGaxvorDvoZXtSaOz_QQ_d159_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 18749,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.25067101,-99.10310374_2019-01_YedTgGQSJraN_5KAVMLQMw_d315_z3.jpg",
+    "Time B": "Mexico/19.25068052,-99.10308415_2009-10_va9oX-f4-AdtLuTtWmvIvQ_d318_z3.jpg",
+    "Time C": "Mexico/19.25068333,-99.10308019_2024-07_p0cE0LlU6fF4E7z9FcglrQ_d317_z3.jpg",
+    "Time D": "Mexico/19.25067578,-99.10310897_2019-08_euoxeH8pa_7uk16WiUWZ1A_d319_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 18843,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.27077487,-99.16453612_2019-04_rBlWYc_kQi8pQ6urUGBJTw_d247_z3.jpg",
+    "Time B": "Mexico/19.27078155,-99.16453020_2022-09_9PfmKZxRvVlSz78bfqjLNg_d247_z3.jpg",
+    "Time C": "Mexico/19.27076793,-99.16454904_2022-02_OK4j4xokPYmgEalKDFOErg_d250_z3.jpg",
+    "Time D": "Mexico/19.27078334,-99.16455183_2024-07_oXQfDf8cuSdEoc5Js5zzGg_d252_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 19114,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.29564737,-99.10242400_2024-09_1y_TOlQMgFMPoCFAolCDeg_d355_z3.jpg",
+    "Time B": "Mexico/19.29566660,-99.10243666_2008-09_QGSrpg3p1GI90JSe2QcNAQ_d355_z3.jpg",
+    "Time C": "Mexico/19.29566728,-99.10241784_2019-08_Zg8xpS9ykogY7jGEIHDyZg_d354_z3.jpg",
+    "Time D": "Mexico/19.29564812,-99.10242147_2015-02_WKsHsMrBng7Ac9mzn8xSoA_d354_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 18977,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.28368234,-99.16089322_2024-07_dn02x8dGZZTh9WDzdhXeVQ_d136_z3.jpg",
+    "Time B": "Mexico/19.28368169,-99.16092929_2017-01_Aot1xwnQZeb2npjXkbbHkA_d136_z3.jpg",
+    "Time C": "Mexico/19.28365643,-99.16090977_2009-11_hXzh-wrMa-23CfR3dNhjsw_d138_z3.jpg",
+    "Time D": "Mexico/19.28371140,-99.16090166_2019-06_6c9uWnzUgsGNzqaHA8jGdQ_d136_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 19185,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.30348408,-99.17700344_2017-07_TEb-Tp91XigtC3pfnle1Vw_d264_z3.jpg",
+    "Time B": "Mexico/19.30350673,-99.17702304_2022-11_0f46-xKOaHg9NqT5_HVq1g_d269_z3.jpg",
+    "Time C": "Mexico/19.30344940,-99.17706554_2011-01_A7532GdTt-zCEEPNkMsh3w_d261_z3.jpg",
+    "Time D": "Mexico/19.30349473,-99.17699896_2019-08_ey0aRQcQHIW2CXwL0IukEg_d263_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 19143,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.29958594,-99.01925658_2009-09_IGQPC-5hRjLVU5lLA2ZHIw_d346_z3.jpg",
+    "Time B": "Mexico/19.29955301,-99.01928229_2019-07_27_vNXytavzbs5I3MXezCA_d345_z3.jpg",
+    "Time C": "Mexico/19.29958210,-99.01925961_2022-06_yjwKNssOGLMEBCFtInO4UQ_d165_z3.jpg",
+    "Time D": "Mexico/19.29956591,-99.01928137_2015-07_EQlM2V8auNzUUCf1F9HaAg_d344_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 19336,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.31625760,-99.10199631_2009-10_NPpeiV4KOkKDf-U8uRhCFA_d176_z3.jpg",
+    "Time B": "Mexico/19.31624614,-99.10199884_2008-09_5rMWv_UQPUgOJYoLexi87A_d175_z3.jpg",
+    "Time C": "Mexico/19.31630526,-99.10200323_2014-11_YLy_MYkpUFUqwlSBU7j5Xw_d176_z3.jpg",
+    "Time D": "Mexico/19.31627387,-99.10199454_2024-06_s4y1pRRi1-s2Q6gjsFRijA_d176_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 19254,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.30808272,-99.07788734_2011-09_8eDc-K9o8fn8ErwTXyWKDg_d143_z3.jpg",
+    "Time B": "Mexico/19.30809457,-99.07787679_2017-09_lubIPCI7wsScdQ_uao_AVQ_d143_z3.jpg",
+    "Time C": "Mexico/19.30808832,-99.07788675_2024-06_XFCxj04CwUX0MsyDhHnI8g_d141_z3.jpg",
+    "Time D": "Mexico/19.30808029,-99.07788008_2008-09_AoWQbmXzy3E3IGKbzAifww_d142_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 19358,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.31655772,-99.07344368_2024-12_F4E1TmG0c7AHmqKyT2acMA_d49_z3.jpg",
+    "Time B": "Mexico/19.31654606,-99.07342327_2017-09_GwurCwa9FmZB1Glv9km9mA_d50_z3.jpg",
+    "Time C": "Mexico/19.31660103,-99.07335036_2009-09_qkcxaLK4_Mk8MVuakNZCWg_d49_z3.jpg",
+    "Time D": "Mexico/19.31655854,-99.07344520_2021-07_8daJE_Ps5M8OVBbNc-MHdA_d48_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 19355,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.31652324,-99.21345632_2021-07_yp9ZrbnmM22m0MV9Bf_u0A_d17_z3.jpg",
+    "Time B": "Mexico/19.31646158,-99.21342251_2008-09_ZuPkQA3gkbJJNAY3UZ60uw_d18_z3.jpg",
+    "Time C": "Mexico/19.31649600,-99.21344575_2014-10_QWhzsVkFKksbXpq9OJdWDQ_d16_z3.jpg",
+    "Time D": "Mexico/19.31649051,-99.21344592_2024-08_AXneCmGVM5XuIIYmX0IKVg_d19_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 19554,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.33288559,-99.06954279_2019-03_wh1QBVc7RwtjQWKQfOrhcw_d259_z3.jpg",
+    "Time B": "Mexico/19.33288450,-99.06954659_2014-12_3X3ZAAlwa3bNJ5L2qX23uw_d261_z3.jpg",
+    "Time C": "Mexico/19.33288037,-99.06957350_2008-11_qwTufKXnBD8sP5rA4xwqGw_d262_z3.jpg",
+    "Time D": "Mexico/19.33288422,-99.06955950_2023-03_DzXdi6i6u8S611hc1EdjzQ_d259_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 19574,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.33661976,-99.02394755_2018-01_BqatlMUG97k_ntg-OWCOFQ_d113_z3.jpg",
+    "Time B": "Mexico/19.33660196,-99.02396931_2009-09_ybHVZfpG5m1Y6HhT2uJ30A_d308_z3.jpg",
+    "Time C": "Mexico/19.33663034,-99.02397909_2019-01_aXjI7d6fjXf9l-_GskcrlA_d37_z3.jpg",
+    "Time D": "Mexico/19.33659068,-99.02398643_2022-06_8p5uh5hF0uLbEN9DzMua8Q_d349_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 19716,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.34522957,-99.23886363_2015-07_Nv9aViUYrFc4-OOk0PhvpQ_d300_z3.jpg",
+    "Time B": "Mexico/19.34523696,-99.23888984_2019-01_hVPQvp1xUi-YnJSHexCpDQ_d301_z3.jpg",
+    "Time C": "Mexico/19.34521559,-99.23892129_2008-10_7pQi-zO0QJ567U7mHBnvew_d302_z3.jpg",
+    "Time D": "Mexico/19.34522530,-99.23885745_2022-03_icZxuFt0j9s2MWSPdlg1IA_d300_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 19684,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.34393059,-99.29209452_2024-06_y3869m0qdYr-nVT7exD6hA_d289_z3.jpg",
+    "Time B": "Mexico/19.34394224,-99.29211990_2014-05_UV4mKwGiMqcwknVwkNNPZg_d289_z3.jpg",
+    "Time C": "Mexico/19.34396565,-99.29208919_2019-08_l4WKS-goGk-7AosqyPg57g_d289_z3.jpg",
+    "Time D": "Mexico/19.34390209,-99.29207895_2009-01_UlJeCZtWoFGdK_gVGeiP7A_d291_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 19868,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.35366178,-99.28028209_2015-07_Iarxr-k3JGD2pQwTKBxGAA_d133_z3.jpg",
+    "Time B": "Mexico/19.35368503,-99.28030899_2022-11_FjwS9Q1CCUV_Mx3EOn12Ew_d135_z3.jpg",
+    "Time C": "Mexico/19.35367862,-99.28031483_2019-03_GwkoeC_wAR0nU8Y1hN_1-g_d132_z3.jpg",
+    "Time D": "Mexico/19.35367379,-99.28024749_2008-10_k1ZjVawTaidToMmdtSM-fQ_d135_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 19880,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.35720169,-99.28343016_2014-03_YM7PC5BIpFjpMhabAjkqeA_d335_z3.jpg",
+    "Time B": "Mexico/19.35719301,-99.28342771_2015-09_G9QLaknZ_GcqjmlfGJV-DQ_d337_z3.jpg",
+    "Time C": "Mexico/19.35719308,-99.28343498_2021-10_9BUJ3PXwqaurgafSZY-Ccg_d334_z3.jpg",
+    "Time D": "Mexico/19.35721404,-99.28342771_2008-10_4wvHDM451kCg8a8K0MGkFQ_d336_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 19987,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.36169754,-99.18930210_2021-07_IZjoPhK9xyJMsby_oCGrsg_d355_z3.jpg",
+    "Time B": "Mexico/19.36171224,-99.18927996_2010-02_nY-l7afnCqV-pK2UEffEzg_d354_z3.jpg",
+    "Time C": "Mexico/19.36168536,-99.18930303_2018-04_JtNCYinfa7e6Ox86K1JOUA_d355_z3.jpg",
+    "Time D": "Mexico/19.36171731,-99.18930582_2024-10_IwfVmV_SsNm5gQOCzw4BtQ_d353_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 19989,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.36172475,-99.15217808_2024-08_66hoKVexQqNINXTZrhd_eg_d351_z3.jpg",
+    "Time B": "Mexico/19.36172866,-99.15217723_2009-03_hS_ADPFHNv_5Rs5VThJkAg_d354_z3.jpg",
+    "Time C": "Mexico/19.36170102,-99.15218332_2019-03_mpF09SaxLGje35ESd5nrRg_d351_z3.jpg",
+    "Time D": "Mexico/19.36169928,-99.15218213_2015-08_aMRRVkfUrPq6hNK0GXB7sw_d350_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 20021,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.36524978,-99.16470777_2009-09_NtVl5moLaWivUQWD810YKw_d28_z3.jpg",
+    "Time B": "Mexico/19.36535827,-99.16473125_2017-08__tPl8OHCeNRiLGRpF6r04w_d91_z3.jpg",
+    "Time C": "Mexico/19.36538541,-99.16468876_2024-11_I5wZRels19wTdotSk6zasA_d70_z3.jpg",
+    "Time D": "Mexico/19.36532128,-99.16469653_2021-04_iFMxGGXh2Cqiui8ClnMOPg_d70_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 20089,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.36959125,-99.25102721_2009-08_IVQncUPe5x4mFdjeYFt9lA_d245_z3.jpg",
+    "Time B": "Mexico/19.36957651,-99.25104488_2019-02_vNxVoYMJwq7VwHYtZCk8Qw_d260_z3.jpg",
+    "Time C": "Mexico/19.36956669,-99.25101706_2011-08_5h5wH2RBNXgfrrzKPCy2xQ_d234_z3.jpg",
+    "Time D": "Mexico/19.36956568,-99.25104218_2022-05_pQx4Zd0FkiTgHl0U8g985g_d249_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 20228,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.37818145,-99.25540672_2024-11_q5CqrIHEZIJydtrKprrbpg_d297_z3.jpg",
+    "Time B": "Mexico/19.37819389,-99.25539885_2016-11_BCICc2KH25QfY0Dj9PMvRg_d298_z3.jpg",
+    "Time C": "Mexico/19.37818879,-99.25539496_2019-09_nz9x9oArsACXTaVlOcnRtw_d297_z3.jpg",
+    "Time D": "Mexico/19.37818024,-99.25542853_2008-11_clHNm6v7S9YHZkL4iXkP1g_d298_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 20256,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.37835943,-99.25119549_2018-12_gCiXkk8wylRQqDfRPE3RoA_d49_z3.jpg",
+    "Time B": "Mexico/19.37833706,-99.25123236_2009-08_VtHWm4eL_ASQ6TplTP3gyw_d342_z3.jpg",
+    "Time C": "Mexico/19.37833990,-99.25121190_2022-05_v9DNuhcDQwc-MGB9P9pgxw_d303_z3.jpg",
+    "Time D": "Mexico/19.37836888,-99.25119887_2008-10_tYimKdZDh6y848LO3ouAgQ_d304_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 20258,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.37837902,-99.03626859_2015-07_Q48XJa1H15PKL63Z8QMAcQ_d31_z3.jpg",
+    "Time B": "Mexico/19.37838072,-99.03623452_2023-01_x_1xpgkbWA_61dl_RXLPJg_d213_z3.jpg",
+    "Time C": "Mexico/19.37839025,-99.03626514_2019-05_5e5E2SHgDH_U3trR1UuP_g_d33_z3.jpg",
+    "Time D": "Mexico/19.37834568,-99.03623739_2009-01_-jjqqcBPRAq7wYnM5N_XdA_d37_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 20351,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.38650748,-99.16036799_2009-03_eCSlunlmZ3w9qqs0TlCrfQ_d348_z3.jpg",
+    "Time B": "Mexico/19.38648302,-99.16036985_2015-05_JEY5TIFycPe_IyJGcCtiEw_d347_z3.jpg",
+    "Time C": "Mexico/19.38652896,-99.16036284_2019-02_53conB_3qKcCslxPf0PPkQ_d347_z3.jpg",
+    "Time D": "Mexico/19.38650652,-99.16036757_2024-09_hSR7-icyP8WB0Pll99gwbQ_d347_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 20570,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.40690638,-99.12324395_2019-08_3zSGN4BC20HPqrdgOwRmDg_d93_z3.jpg",
+    "Time B": "Mexico/19.40690305,-99.12323314_2017-08_gATeExz7NVDEpuE4eKoW9A_d91_z3.jpg",
+    "Time C": "Mexico/19.40691423,-99.12323618_2022-08_B9nCXaNrh9FA22hu6IkzBg_d93_z3.jpg",
+    "Time D": "Mexico/19.40690557,-99.12320274_2011-03_zlQRXNgWvt0AAYCeBN0UyQ_d92_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 20531,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.40298264,-99.17698562_2015-02_ue9Oz0qxwQVTb0Ex3gD23A_d348_z3.jpg",
+    "Time B": "Mexico/19.40298665,-99.17698097_2009-10_hk3vhLKn-SiZF1JFnyCaVg_d343_z3.jpg",
+    "Time C": "Mexico/19.40298869,-99.17698148_2021-03_AIWv70_YX-Fp25XtyG8x6Q_d341_z3.jpg",
+    "Time D": "Mexico/19.40298980,-99.17697556_2024-10_OySNfiZIdX-3XPp9aJvCsw_d341_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 21235,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.46481752,-99.17684985_2009-01_L_l-OuSG3Gp6QFUQgz3wQg_d85_z3.jpg",
+    "Time B": "Mexico/19.46484066,-99.17687587_2022-05_njUOyNl8svLoJC9veY6YVg_d262_z3.jpg",
+    "Time C": "Mexico/19.46483908,-99.17686970_2011-07_DEeUGaXC5qzwunupn_9nRQ_d265_z3.jpg",
+    "Time D": "Mexico/19.46484196,-99.17688913_2018-01_BdyP3YzyJOyh16fLNfNm5Q_d266_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 21541,
+    "city_name": "Mexico",
+    "Time A": "Mexico/19.50202565,-99.09406456_2016-05_KYEtic-CNNIhyFWVY4fNKw_d344_z3.jpg",
+    "Time B": "Mexico/19.50201343,-99.09403924_2024-09_XK_vGeXdXSB7FNYqYc735Q_d344_z3.jpg",
+    "Time C": "Mexico/19.50208188,-99.09407671_2008-11_yMM3-H4V1afUSycmYJqqcg_d345_z3.jpg",
+    "Time D": "Mexico/19.50204772,-99.09398700_2020-02__Vi_cJ2FkrZX0-eLDKWQXg_d10_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 25020,
+    "city_name": "Paris",
+    "Time A": "Paris/48.81755881,2.36003655_2017-08_r4AVPELcnNIvqV11y2leGw_d192_z3.jpg",
+    "Time B": "Paris/48.81756862,2.35998844_2020-09_M-m-qbrNxi2gX6gpizbNRA_d192_z3.jpg",
+    "Time C": "Paris/48.81755052,2.36004023_2023-03_XDyLG8L5Zt4sXFRiNY-zvA_d192_z3.jpg",
+    "Time D": "Paris/48.81757387,2.36002435_2012-06_vPEbu65tMidoMSd2NxSzgg_d193_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 25034,
+    "city_name": "Paris",
+    "Time A": "Paris/48.81945149,2.37217950_2019-10_e2hHEHFTin7btj7ZQ6z76g_d296_z3.jpg",
+    "Time B": "Paris/48.81945676,2.37218089_2023-03_zhFNPbxayIO-YSWC6LzeBg_d298_z3.jpg",
+    "Time C": "Paris/48.81946565,2.37211418_2009-02_LMONyr8FFE6E6Md4purgGw_d296_z3.jpg",
+    "Time D": "Paris/48.81947449,2.37219223_2014-05_oMFE98ufHl6n4pekUFZHiQ_d296_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 25108,
+    "city_name": "Paris",
+    "Time A": "Paris/48.82553520,2.37820512_2018-06_REXbqfZPjLkWEnMsvt470g_d176_z3.jpg",
+    "Time B": "Paris/48.82552561,2.37820131_2008-06_4aTdrGxfmN5pFWEBo3CS_w_d176_z3.jpg",
+    "Time C": "Paris/48.82553418,2.37817666_2022-08_1JDuDwVe3255JbWsi8dtTw_d357_z3.jpg",
+    "Time D": "Paris/48.82556508,2.37819339_2015-06_PBw-SxVpPK2LSC4xmXMH-w_d356_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 25124,
+    "city_name": "Paris",
+    "Time A": "Paris/48.82574928,2.38399472_2019-06_zN2v8awEk_WqC4-hdqUZzA_d290_z3.jpg",
+    "Time B": "Paris/48.82575526,2.38399136_2008-05_1xuFGp2poQal-rBJ0wwX-Q_d292_z3.jpg",
+    "Time C": "Paris/48.82577378,2.38395356_2014-07_sVr9uvFzWinTCEp3ojdQhA_d292_z3.jpg",
+    "Time D": "Paris/48.82574818,2.38398862_2023-03_Jh5dIw1E2Lc5xryskxWYlw_d286_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 25145,
+    "city_name": "Paris",
+    "Time A": "Paris/48.82745889,2.37983018_2015-06_nnO2K-UGvvptDx49NCRM0g_d212_z3.jpg",
+    "Time B": "Paris/48.82745721,2.37975862_2009-02_ZlnZKeQ0tG0SsVfFi7k1jg_d212_z3.jpg",
+    "Time C": "Paris/48.82746510,2.37982316_2019-06_k6luNHyqJ_1kDqFBSz45sQ_d212_z3.jpg",
+    "Time D": "Paris/48.82744867,2.37984158_2023-03_AKezy0ooRAwe4cWol76o7A_d212_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 25152,
+    "city_name": "Paris",
+    "Time A": "Paris/48.82751770,2.30425161_2022-11_fsak4zXovZZY09F6uGu7lw_d321_z3.jpg",
+    "Time B": "Paris/48.82750960,2.30424598_2015-06_uTpj8igKdHmPdl3QHVvkrw_d322_z3.jpg",
+    "Time C": "Paris/48.82751980,2.30425794_2008-05_paIeoegzJpQAoqkWYEJPuA_d321_z3.jpg",
+    "Time D": "Paris/48.82751369,2.30424854_2020-08_32F2Oz45WJMcDMpLgdKabA_d322_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 25171,
+    "city_name": "Paris",
+    "Time A": "Paris/48.82766316,2.37821370_2019-06_9P45whAzLJe-BDIxpe-9bw_d214_z3.jpg",
+    "Time B": "Paris/48.82762399,2.37824026_2012-06_9tBwu5vSrkBfMRLZiCsdBA_d215_z3.jpg",
+    "Time C": "Paris/48.82764849,2.37822156_2022-08_C3gHQn2pnuT1-IjFtjO03A_d213_z3.jpg",
+    "Time D": "Paris/48.82765827,2.37821227_2016-06_PoX3gCe7XZbCYCdExwxNDg_d213_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 25211,
+    "city_name": "Paris",
+    "Time A": "Paris/48.82954877,2.37573321_2010-09_nRARalqOz-_ch0WMLbCKOw_d29_z3.jpg",
+    "Time B": "Paris/48.82954338,2.37574493_2022-08_Z4NZQUEfDVQQuE5lYoBIRw_d29_z3.jpg",
+    "Time C": "Paris/48.82954072,2.37578115_2019-06_4dIf_HGmWmMRAeUsywjSXQ_d31_z3.jpg",
+    "Time D": "Paris/48.82954358,2.37576552_2015-07_QcHJr5pfABArpDQaFiyWeQ_d28_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 25281,
+    "city_name": "Paris",
+    "Time A": "Paris/48.83184546,2.30729207_2008-05_tJP1F5TyR70q2bjouuwSnQ_d149_z3.jpg",
+    "Time B": "Paris/48.83186277,2.30730957_2015-07_SK2iL_0CAT_587zahcl7yA_d148_z3.jpg",
+    "Time C": "Paris/48.83187512,2.30730989_2019-07_FruFC4syySxGP2GfF2U_MA_d149_z3.jpg",
+    "Time D": "Paris/48.83184685,2.30728764_2023-05_3p01iURvrkmA3_nRsYaMvg_d150_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 25425,
+    "city_name": "Paris",
+    "Time A": "Paris/48.83762157,2.34198985_2015-06__kz6I0a8swlu6vWDTOWrFg_d176_z3.jpg",
+    "Time B": "Paris/48.83763066,2.34199206_2022-06_8S0-5vdbfAHbbIgAnS-0fg_d176_z3.jpg",
+    "Time C": "Paris/48.83763621,2.34198721_2018-05_pEYJ-XShhafBTu_lCBw4PQ_d175_z3.jpg",
+    "Time D": "Paris/48.83765063,2.34199594_2008-08_Iv8PRyEtda6xVHz9p_fseg_d175_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 25428,
+    "city_name": "Paris",
+    "Time A": "Paris/48.83766330,2.29633239_2015-07_7vEz69Sqn2C5OCDzEZRoPA_d45_z3.jpg",
+    "Time B": "Paris/48.83770412,2.29629169_2009-02_VWmxIlZorBc-CcQeBA1fbg_d41_z3.jpg",
+    "Time C": "Paris/48.83769650,2.29628482_2018-05_SxH0vhxFhjIQvIdAcjr6wg_d45_z3.jpg",
+    "Time D": "Paris/48.83768061,2.29631145_2022-05_NidMqej0EfyFYj5qRM5aYA_d44_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 25461,
+    "city_name": "Paris",
+    "Time A": "Paris/48.83936890,2.36967890_2015-06_L16rF-GSlmtnaent258mQQ_d210_z3.jpg",
+    "Time B": "Paris/48.83938565,2.36966014_2008-05_DxBJgfPXMKu_OUnAVYrUXg_d207_z3.jpg",
+    "Time C": "Paris/48.83938087,2.36963865_2022-06_C-HSvRJfg36xMi8k7M91xg_d209_z3.jpg",
+    "Time D": "Paris/48.83936961,2.36969328_2018-05_eIvpatR6siCdPAB3yzKMRg_d210_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 25559,
+    "city_name": "Paris",
+    "Time A": "Paris/48.84168993,2.39842711_2012-06_mnW19nslridUHBb6PrylzQ_d211_z3.jpg",
+    "Time B": "Paris/48.84171488,2.39840528_2016-04_w7ZOfGAxGYjO6MmB4Y2esg_d205_z3.jpg",
+    "Time C": "Paris/48.84171547,2.39841039_2023-04_yZbcgbYb_wFbm4Z3GXMcjw_d211_z3.jpg",
+    "Time D": "Paris/48.84170077,2.39838589_2020-03_MfzF4vWmh7OdGf88i29cqQ_d32_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 25733,
+    "city_name": "Paris",
+    "Time A": "Paris/48.84768827,2.38652440_2017-08_-btANbU0IkgLQT7_1oLRNg_d207_z3.jpg",
+    "Time B": "Paris/48.84769981,2.38651602_2014-09_TBBn2tWS03s9IzT8N2y4LQ_d208_z3.jpg",
+    "Time C": "Paris/48.84768760,2.38650847_2022-06_Fomun-IpzNbm9KUJD5WmUA_d208_z3.jpg",
+    "Time D": "Paris/48.84769066,2.38652006_2008-08_xEUGSfSiZzGpQWtzmIGLbQ_d208_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 25773,
+    "city_name": "Paris",
+    "Time A": "Paris/48.84956945,2.40764034_2018-05_YWVy7eLHYTCM-9OTw10Fiw_d188_z3.jpg",
+    "Time B": "Paris/48.84957946,2.40762436_2022-06_FY6FhSj4TOOsVtBEqTFoBQ_d188_z3.jpg",
+    "Time C": "Paris/48.84957566,2.40762987_2014-05_y1yse531u8aGD2A6rJEhZA_d188_z3.jpg",
+    "Time D": "Paris/48.84957640,2.40762728_2008-05_5dZsdI7O00_b09E8dSH1jQ_d185_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 26142,
+    "city_name": "Paris",
+    "Time A": "Paris/48.86343835,2.34419648_2019-04_wfu7urpQ-bmtuVx9bQbBDA_d130_z3.jpg",
+    "Time B": "Paris/48.86344099,2.34420630_2016-05_Y20skpY_BB-9zxY8DOtTEg_d132_z3.jpg",
+    "Time C": "Paris/48.86345773,2.34423694_2023-03_22cQt2NCtrHWdK_TzBGLjg_d127_z3.jpg",
+    "Time D": "Paris/48.86347158,2.34425893_2008-04_4FEsAq-UDmKtJ27vsTqQiw_d129_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 27493,
+    "city_name": "Toluca",
+    "Time A": "Toluca/19.26746021,-99.65262025_2009-06_7Oy85lnBshGXg4HiQPg3ag_d103_z3.jpg",
+    "Time B": "Toluca/19.26746356,-99.65262306_2024-03_EISkqfajwhRk6zADaYi1Qw_d104_z3.jpg",
+    "Time C": "Toluca/19.26743461,-99.65262892_2019-03_BZOj-wMtBHZ1S2xMw6qYPQ_d105_z3.jpg",
+    "Time D": "Toluca/19.26742807,-99.65263206_2013-03_vX9p0qFGpXiYbYNXHqVCtQ_d104_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 27100,
+    "city_name": "Toluca",
+    "Time A": "Toluca/19.22087941,-99.65558260_2009-12_Rq9NafWM5QQiVJYo3ZqykA_d36_z3.jpg",
+    "Time B": "Toluca/19.22085084,-99.65558124_2011-08_Kvf4GSgBI8xl0617scYFAA_d38_z3.jpg",
+    "Time C": "Toluca/19.22091032,-99.65558540_2022-10_IHjJ5pGc7rdIIWFhgA2o2g_d37_z3.jpg",
+    "Time D": "Toluca/19.22089746,-99.65557401_2024-03_ZpBo3dCHPk_gZYyvxlSAeA_d218_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 27686,
+    "city_name": "Toluca",
+    "Time A": "Toluca/19.28339385,-99.61985432_2013-06_9492uz3YKOya70XHn1y44g_d95_z3.jpg",
+    "Time B": "Toluca/19.28338984,-99.61986060_2022-07_Er8Y0owFXqqXKALnqzKZjQ_d94_z3.jpg",
+    "Time C": "Toluca/19.28338985,-99.61988413_2009-06_lE8I3gDD0AcirG-6F0_KEA_d93_z3.jpg",
+    "Time D": "Toluca/19.28339533,-99.61985874_2019-09_dfk-H0TxfbapgX8uJmOlUA_d93_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 27925,
+    "city_name": "Toluca",
+    "Time A": "Toluca/19.29626898,-99.56489262_2017-01_Sk3_wHPS41zr3QfTbHZsgg_d268_z3.jpg",
+    "Time B": "Toluca/19.29625103,-99.56487700_2024-04_FYUBH6QQiYiteFv1Lwm_Ig_d89_z3.jpg",
+    "Time C": "Toluca/19.29624409,-99.56488099_2013-10_KU_qik3WL64mnOCSR7KlGQ_d89_z3.jpg",
+    "Time D": "Toluca/19.29625644,-99.56484414_2009-12_pR9Sxkl6ll_L8HM61h9Nfw_d88_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 28701,
+    "city_name": "Toluca",
+    "Time A": "Toluca/19.33639484,-99.58550957_2013-08_NScbnJZnS5Jaxgo4J4b0WA_d179_z3.jpg",
+    "Time B": "Toluca/19.33641063,-99.58550642_2014-01_qwhppLJQqaKBzYOT6N4Ykw_d356_z3.jpg",
+    "Time C": "Toluca/19.33640586,-99.58551008_2011-12_-2ByN-xncKwT7FCnpHZTmw_d178_z3.jpg",
+    "Time D": "Toluca/19.33642209,-99.58552578_2023-07_vsRL6J9sApmCSbsdlJYGpQ_d172_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 29387,
+    "city_name": "Toluca",
+    "Time A": "Toluca/19.37149317,-99.55419252_2013-09_yQTHS8ppAnAJ6rqTa7pfMw_d193_z3.jpg",
+    "Time B": "Toluca/19.37148649,-99.55418123_2017-02_CaRdTZAC-8Abz94x2jPpXQ_d11_z3.jpg",
+    "Time C": "Toluca/19.37105403,-99.55407581_2023-07_WE-6lJVq7zRMylKbgXIGXQ_d194_z3.jpg",
+    "Time D": "Toluca/19.37149534,-99.55418386_2019-08_0HfSJnxNyNDmdw5lAC0mSQ_d186_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 33755,
+    "city_name": "Washington",
+    "Time A": "Washington/38.84319209,-77.00779371_2024-11_5hOcL0-ijVLc5tc0xqv4Rg_d351_z3.jpg",
+    "Time B": "Washington/38.84316352,-77.00779503_2008-07_Uc_KauWatsn3KyHy7FxqIA_d351_z3.jpg",
+    "Time C": "Washington/38.84318557,-77.00774143_2018-05_5aOlx6q_NgWYzNWY7IMTBw_d350_z3.jpg",
+    "Time D": "Washington/38.84317739,-77.00779626_2019-11_u6MdT6JWB94YjhW96vO2SQ_d352_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 33854,
+    "city_name": "Washington",
+    "Time A": "Washington/38.85635705,-76.98670552_2022-06_LgsOy_vNDyKwC4CxC6MkRw_d128_z3.jpg",
+    "Time B": "Washington/38.85633432,-76.98672090_2012-05_ggqxkLlWJWaQ4HN23lpP4Q_d127_z3.jpg",
+    "Time C": "Washington/38.85635766,-76.98674841_2007-11_CgDv1LaWFHdJ1IZr40XCOg_d305_z3.jpg",
+    "Time D": "Washington/38.85636822,-76.98672178_2018-10_s9FVBnOrxIpeqbbvvCQCEw_d307_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 33884,
+    "city_name": "Washington",
+    "Time A": "Washington/38.85841188,-76.99294601_2011-07_i-MoOEVR7if21Aj_3XxPWg_d92_z3.jpg",
+    "Time B": "Washington/38.85841227,-76.99290778_2007-11_m1pBnCnTxtn7T0X99ULmPg_d92_z3.jpg",
+    "Time C": "Washington/38.85843905,-76.99293027_2018-11_hQWsh-J3QSWwl3zbtDVrog_d268_z3.jpg",
+    "Time D": "Washington/38.85840581,-76.99294847_2024-11_WOdMviEcpPAVRXQqDOKT8A_d91_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 33943,
+    "city_name": "Washington",
+    "Time A": "Washington/38.86305644,-76.98403929_2017-09_8BLbzDAhDnx_wvMlE_zVdQ_d246_z3.jpg",
+    "Time B": "Washington/38.86302072,-76.98403612_2011-07_BU0in45d9B_7T2k1ZOZRXA_d251_z3.jpg",
+    "Time C": "Washington/38.86307735,-76.98405361_2007-12_qdVdxaQ3LBAkpLOZcLBHnA_d257_z3.jpg",
+    "Time D": "Washington/38.86305762,-76.98402479_2022-06_6sG6_CrJIpQ1ujCs1gQr2Q_d254_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 34053,
+    "city_name": "Washington",
+    "Time A": "Washington/38.87113307,-77.00790769_2008-06_8u2nai-WZJrhv7fLv9qUFA_d117_z3.jpg",
+    "Time B": "Washington/38.87118917,-77.00797895_2022-05_2KAQTdQA3-mktxK7YPbnMg_d298_z3.jpg",
+    "Time C": "Washington/38.87118471,-77.00798036_2018-10_IamRh-jASdtsZTQQqP_k7g_d300_z3.jpg",
+    "Time D": "Washington/38.87111806,-77.00792201_2014-06_7hQBe277kSCid5E-sQ-2VA_d119_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 34131,
+    "city_name": "Washington",
+    "Time A": "Washington/38.87549777,-77.00383335_2022-05_FeuKo3A8vGJ933UHppsTuQ_d18_z3.jpg",
+    "Time B": "Washington/38.87549552,-77.00374319_2007-11_Ae5gT6tN_XMmIr5_oqxjbw_d196_z3.jpg",
+    "Time C": "Washington/38.87549847,-77.00374495_2014-06_BWFxyqLxswAiXL2wMSsh5g_d197_z3.jpg",
+    "Time D": "Washington/38.87550804,-77.00385770_2017-08_V4H3TQoSQks7gzLPAzf0Pw_d14_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 34208,
+    "city_name": "Washington",
+    "Time A": "Washington/38.87971319,-76.98433917_2024-12_JvkJR0T9S2PXHRGswjo2aQ_d63_z3.jpg",
+    "Time B": "Washington/38.87976978,-76.98433838_2007-12_cOwaEyjCAe2YHcOXSM3_zg_d63_z3.jpg",
+    "Time C": "Washington/38.87971944,-76.98434664_2012-06_Ce6fcOy3nOgSHKiJEwT2oA_d63_z3.jpg",
+    "Time D": "Washington/38.87971246,-76.98433205_2019-06_aIxW53tmn9h4uSKw9siXIw_d63_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time D",
+      "Time A"
+    ]
+  },
+  {
+    "id": 34222,
+    "city_name": "Washington",
+    "Time A": "Washington/38.87985355,-77.00535405_2018-09_fXZaIxogT8VGHSrsKN524w_d194_z3.jpg",
+    "Time B": "Washington/38.87981585,-77.00538270_2014-06_N3ZsI2dJAGPgJnN9Zaj3ww_d16_z3.jpg",
+    "Time C": "Washington/38.87986725,-77.00537198_2007-11_g-aVvXMfEEv5tKMcA-Xw5w_d196_z3.jpg",
+    "Time D": "Washington/38.87985409,-77.00534289_2024-11_sSdNmGSm51icQWgRdhIqhA_d196_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time B",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 34273,
+    "city_name": "Washington",
+    "Time A": "Washington/38.88222379,-76.92844140_2007-11_dvuxEtkgayJiyXk6ydzyEw_d78_z3.jpg",
+    "Time B": "Washington/38.88223981,-76.92843129_2011-08_JjP8aO7C9Ivt4JE0TW-A7g_d260_z3.jpg",
+    "Time C": "Washington/38.88225039,-76.92845125_2019-06_mzfhx2U3GXyS1h7Y2HeJSQ_d259_z3.jpg",
+    "Time D": "Washington/38.88224478,-76.92842460_2022-07_sH5_S2aOB6V_r852sBv-cQ_d256_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time C",
+      "Time D"
+    ]
+  },
+  {
+    "id": 34758,
+    "city_name": "Washington",
+    "Time A": "Washington/38.90319120,-76.95031289_2022-07_865lJagRJ2DVHusjMoGKAw_d223_z3.jpg",
+    "Time B": "Washington/38.90320328,-76.95032959_2018-08_Ojsu--A2ih17hZPFpD-RvQ_d223_z3.jpg",
+    "Time C": "Washington/38.90317675,-76.95031535_2014-08_WaOeXvrtEU6Zr9JBaxXf6A_d223_z3.jpg",
+    "Time D": "Washington/38.90317340,-76.95031139_2007-11_YG4tZ_GcJdH8PwrtNHVFLg_d223_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time B",
+      "Time A"
+    ]
+  },
+  {
+    "id": 34782,
+    "city_name": "Washington",
+    "Time A": "Washington/38.90344424,-77.00355883_2014-08_U1h_pqSN3svoPRmPyTgOBQ_d178_z3.jpg",
+    "Time B": "Washington/38.90343198,-77.00355575_2019-07_WBdvM6RsM9X7CIAi2B-X1w_d174_z3.jpg",
+    "Time C": "Washington/38.90343680,-77.00360127_2024-12_keRFoDeE8kJ7MXGGycSIWw_d356_z3.jpg",
+    "Time D": "Washington/38.90345599,-77.00356357_2007-11_-YfnqnauULDZA6a5k8Nh9w_d180_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 34822,
+    "city_name": "Washington",
+    "Time A": "Washington/38.90558748,-77.00593411_2018-10_2hdnwbyIrgLKAjJG1KLV4w_d29_z3.jpg",
+    "Time B": "Washington/38.90555465,-77.00587445_2014-08_IOVmHxZoPeHfv0sWYf4zfQ_d180_z3.jpg",
+    "Time C": "Washington/38.90556309,-77.00591663_2024-12_exciJCDDzgOYC59PVOI5sQ_d4_z3.jpg",
+    "Time D": "Washington/38.90556545,-77.00591390_2008-06_KR4VvlP0W1puR9a5usp19g_d355_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 34839,
+    "city_name": "Washington",
+    "Time A": "Washington/38.90562728,-77.00162640_2019-08_jdq_5rQnJJZmj5RXZDPr3A_d90_z3.jpg",
+    "Time B": "Washington/38.90565293,-77.00157939_2024-12_WDC5PC0_RpAhOK6Bqa1RWA_d90_z3.jpg",
+    "Time C": "Washington/38.90564771,-77.00162069_2007-11_2q7ik0eN2ATiILsmEPBs8g_d91_z3.jpg",
+    "Time D": "Washington/38.90564616,-77.00161735_2014-08_ZoXnrP9fAWIcNcrIosaD9g_d89_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 34876,
+    "city_name": "Washington",
+    "Time A": "Washington/38.90760114,-77.00159468_2007-11_m0mi2YRU4m3etsWEevyJiA_d65_z3.jpg",
+    "Time B": "Washington/38.90765081,-77.00153756_2024-12_J3PP86qYRyMaIl2zET7Gaw_d246_z3.jpg",
+    "Time C": "Washington/38.90766939,-77.00156893_2018-10_m4KKVohA4FmFUIpQQgq7rg_d241_z3.jpg",
+    "Time D": "Washington/38.90768932,-77.00154274_2014-07_cDGFzoGsBNEyp07JsqEnSQ_d242_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 34907,
+    "city_name": "Washington",
+    "Time A": "Washington/38.90780014,-76.98242129_2017-06_uE5Q4lnhnrmk6ldPNHJGaQ_d332_z3.jpg",
+    "Time B": "Washington/38.90778477,-76.98243087_2014-07_cNjcaZw1GQsAo5qH2Vty7Q_d151_z3.jpg",
+    "Time C": "Washington/38.90779507,-76.98242841_2021-05_4g0KXV3WxEzKQmhlEn0D-A_d331_z3.jpg",
+    "Time D": "Washington/38.90780883,-76.98241707_2007-11_AuU_v5Egn6DcStKsUgRoTg_d153_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 35008,
+    "city_name": "Washington",
+    "Time A": "Washington/38.91201286,-77.00200797_2014-07_rLcSr5V8m0iTudEmM-1OsA_d179_z3.jpg",
+    "Time B": "Washington/38.91198728,-77.00204031_2024-12_xJwaAunolvDUH_w4xbzocw_d188_z3.jpg",
+    "Time C": "Washington/38.91200443,-77.00201034_2007-11_HqFOnHnoNHz8vVoO3_7zXQ_d182_z3.jpg",
+    "Time D": "Washington/38.91200304,-77.00206685_2019-07_i-lGycxxWnJZj_MWvHEdRQ_d1_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 35120,
+    "city_name": "Washington",
+    "Time A": "Washington/38.91627892,-77.02295969_2018-07_O4Li6idhInlIcFY_vc2uNg_d359_z3.jpg",
+    "Time B": "Washington/38.91630892,-77.02295820_2024-12_Ka0r8RY5fkl3bdBqSDLCAA_d1_z3.jpg",
+    "Time C": "Washington/38.91631013,-77.02292718_2014-05_q92ObcdewRHQIXpGxRLU3g_d181_z3.jpg",
+    "Time D": "Washington/38.91628218,-77.02294062_2007-09_X_4DLo1fChbgyn3L8o8WOA_d178_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time C",
+      "Time A",
+      "Time B"
+    ]
+  },
+  {
+    "id": 35152,
+    "city_name": "Washington",
+    "Time A": "Washington/38.91710872,-77.08747977_2022-03_4auPcad9qKXcZpBDEL69QA_d85_z3.jpg",
+    "Time B": "Washington/38.91710263,-77.08746598_2018-10_Y7nvIor9n_ivjBy7Y62mFA_d93_z3.jpg",
+    "Time C": "Washington/38.91711107,-77.08745395_2011-06_lEHHMCN3PWuD89D-ZUN_xw_d91_z3.jpg",
+    "Time D": "Washington/38.91710851,-77.08746115_2014-07_xTQQ4e66Q4QpDHC-9xTi2Q_d275_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time B",
+      "Time A"
+    ]
+  },
+  {
+    "id": 35185,
+    "city_name": "Washington",
+    "Time A": "Washington/38.91849028,-76.97142769_2018-10_FRMbM_ySMB0_5kBkbIbsow_d148_z3.jpg",
+    "Time B": "Washington/38.91849292,-76.97145793_2012-06_bnuTq4QGB9Kr_2KrBFGriQ_d147_z3.jpg",
+    "Time C": "Washington/38.91850445,-76.97145740_2024-12_SCs7tGY8_IsOy-G08X9EzQ_d147_z3.jpg",
+    "Time D": "Washington/38.91852255,-76.97152807_2007-11_Y-jn9USRwmXCyYnncYzblg_d185_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 35191,
+    "city_name": "Washington",
+    "Time A": "Washington/38.91850806,-77.02296171_2018-10_K6_sNTzV-pA4ow7kZ9Gcfg_d357_z3.jpg",
+    "Time B": "Washington/38.91851392,-77.02294967_2024-12_Qi3LqmcJExii_qPu243Kcw_d178_z3.jpg",
+    "Time C": "Washington/38.91849610,-77.02295011_2007-09_zrZR2Aff0dRsoi1zs-_-aQ_d179_z3.jpg",
+    "Time D": "Washington/38.91852420,-77.02292692_2014-05_0cqD9faHybqnGdlH3JqsUA_d182_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  }
+]

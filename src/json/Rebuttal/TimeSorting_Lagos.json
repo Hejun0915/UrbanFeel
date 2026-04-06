@@ -1,0 +1,282 @@
+[
+  {
+    "id": 0,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.51136347,3.34061052_2016-12_EsXYI9Ypmotszt2hzZP1Hw_d278_z3.jpg",
+    "Time B": "Lagos/6.51137172,3.34064103_2024-04_4Jh4m0hCj5n6qHwy0c1CCA_d278_z3.jpg",
+    "Time C": "Lagos/6.51137217,3.34065833_2021-07_8HI1Lw81_0tsne3aMRNvmQ_d279_z3.jpg",
+    "Time D": "Lagos/6.51139191,3.34065971_2019-10_IbcRvJNoULro7BTked__2w_d280_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 1,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.54088887,3.35644470_2019-10_Ru6-w3aOQYT3fwLmzh5ktA_d162_z3.jpg",
+    "Time B": "Lagos/6.54090730,3.35642386_2021-07_oNovF6zwM6SypQCI71NYbQ_d144_z3.jpg",
+    "Time C": "Lagos/6.54091301,3.35644562_2016-11_Kv3Q6IWP-Shhd0xgT6KFaw_d144_z3.jpg",
+    "Time D": "Lagos/6.54091388,3.35646146_2024-03_9KTu9qVxQApGioTFZ6c5iQ_d144_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time B",
+      "Time D"
+    ]
+  },
+  {
+    "id": 2,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.54728000,3.36441650_2016-11_vgreU82B8u-gli5AQulTTQ_d66_z3.jpg",
+    "Time B": "Lagos/6.54730361,3.36439912_2019-10_vUETK_N7xR3ssHxHa1g8LQ_d245_z3.jpg",
+    "Time C": "Lagos/6.54730959,3.36439266_2024-07_hMWbj1XHWlcRprp0B6ywRA_d247_z3.jpg",
+    "Time D": "Lagos/6.54732792,3.36436228_2021-07___bsWDda7-LOmCQ_3nAppA_d246_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 3,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.55873253,3.39065682_2016-11_qu2hcQrPy-J_hvoyU0jFzQ_d130_z3.jpg",
+    "Time B": "Lagos/6.55874463,3.39068337_2024-03_b5M_t7luzWIFj6j13XUt5w_d133_z3.jpg",
+    "Time C": "Lagos/6.55875944,3.39069391_2019-10_rmzePsBbUFoZlnrjAdFwQg_d128_z3.jpg",
+    "Time D": "Lagos/6.55876145,3.39069783_2021-06_0bnRGJWOQFoYh5IxEmLobg_d134_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 4,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.56232084,3.34668355_2016-11_eFoqAvkHGWzEKT_oHGf5WQ_d110_z3.jpg",
+    "Time B": "Lagos/6.56232153,3.34670107_2024-03_81dKTFcewlJp7kR4Ua60Pw_d104_z3.jpg",
+    "Time C": "Lagos/6.56233079,3.34667832_2021-07_RmPQEuwdgyahp1sEIgQbRQ_d286_z3.jpg",
+    "Time D": "Lagos/6.56233138,3.34671222_2019-10_eVoQNmL1P6bX7nyEb-PMgA_d108_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 5,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.56467703,3.36880168_2016-11_sB224fzuTxcX-uB20xzjCw_d351_z3.jpg",
+    "Time B": "Lagos/6.56468286,3.36879322_2021-06_JTrUMncC9QxSk5rVVgy4lQ_d352_z3.jpg",
+    "Time C": "Lagos/6.56470821,3.36883291_2024-03_neM-PgyBobdVS7o8QEbO2g_d170_z3.jpg",
+    "Time D": "Lagos/6.56472424,3.36880676_2019-10_LSREEHM86DylBk7k_h2dzg_d351_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time D",
+      "Time B",
+      "Time C"
+    ]
+  },
+  {
+    "id": 6,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.58193810,3.35701376_2016-10_zAJbv6r0j1iovmu04IdeVg_d110_z3.jpg",
+    "Time B": "Lagos/6.58194731,3.35703544_2019-10_iWQ7STIcJAiF3vKQtIyF8w_d115_z3.jpg",
+    "Time C": "Lagos/6.58197236,3.35703683_2024-03_4uDoxw0pO5tQlpaHPeN1Fg_d295_z3.jpg",
+    "Time D": "Lagos/6.58197742,3.35706981_2021-06_lgbbP13oho_NejVJiTnmGw_d291_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time B",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 7,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.58821428,3.36219264_2016-11_1CZtgvviJed33UYkhRh2WA_d220_z3.jpg",
+    "Time B": "Lagos/6.58821674,3.36218933_2024-03_XedKc539U9DWqmCyaluf1Q_d223_z3.jpg",
+    "Time C": "Lagos/6.58822524,3.36218425_2019-10_zLt6vW33sWYR6QK3w0QekA_d218_z3.jpg",
+    "Time D": "Lagos/6.58822602,3.36217595_2021-06_0rmOZ9-LQfO77YF0J3Qe5w_d220_z3.jpg",
+    "GT": [
+      "Time A",
+      "Time C",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 8,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.59091263,3.35009832_2021-06_yH3TYRo5Q4oIRbgMhnLQdw_d73_z3.jpg",
+    "Time B": "Lagos/6.59091670,3.35009686_2016-10_T0o2B2mwz5z6OSSHKvtsCQ_d72_z3.jpg",
+    "Time C": "Lagos/6.59093891,3.35003712_2019-10_5ULQa9lrjiwp21PLrzwtAQ_d70_z3.jpg",
+    "Time D": "Lagos/6.59097148,3.35008071_2024-03_yY1hgPfsSZbntyVrjWVRqg_d74_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time C",
+      "Time A",
+      "Time D"
+    ]
+  },
+  {
+    "id": 9,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.59132379,3.34911074_2024-03_TAuesjzLoMGc_P46gWtf3w_d67_z3.jpg",
+    "Time B": "Lagos/6.59133675,3.34912004_2016-10_vCyUTu_TdcjhauxSwmFHwg_d61_z3.jpg",
+    "Time C": "Lagos/6.59134053,3.34912535_2021-06_lGjRb6sA5pYLLiJYwifANA_d62_z3.jpg",
+    "Time D": "Lagos/6.59159241,3.34891739_2019-10_g4QC-tpQ50fONTF3USpqwQ_d239_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 10,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.59248294,3.36489613_2019-10_QU-rDHiF8yj1NPZNER23gQ_d129_z3.jpg",
+    "Time B": "Lagos/6.59248345,3.36490528_2016-10_xsIKbHCLlAxtKN3tJDDQUg_d135_z3.jpg",
+    "Time C": "Lagos/6.59248859,3.36489082_2024-03_Znn0lQRvMBTWIw6KHoscsg_d315_z3.jpg",
+    "Time D": "Lagos/6.59250779,3.36489044_2021-06_mIx5SdJwGP7hpoM3cmsgDg_d311_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 11,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.59260109,3.35861455_2019-10_T8YnbJ8q2fdVQAW3w5C5vQ_d218_z3.jpg",
+    "Time B": "Lagos/6.59261742,3.35859425_2016-10_SySF-YiJyMu2gm8v6M-fTQ_d222_z3.jpg",
+    "Time C": "Lagos/6.59261752,3.35861563_2024-03_fUJsWCK_wEmxoexGxY-Bdg_d224_z3.jpg",
+    "Time D": "Lagos/6.59263733,3.35859741_2021-06_faDkTJ_LWDDnXgbjPk2zeA_d222_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 12,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.59665120,3.35472104_2019-10_4kjChc-dZgNMh5QBT8IbpQ_d209_z3.jpg",
+    "Time B": "Lagos/6.59668339,3.35471335_2024-03_P38vwSY1i1bD4-FEe6yTHQ_d218_z3.jpg",
+    "Time C": "Lagos/6.59669131,3.35472150_2021-06_6kZrZ6ntoyE9x7TSGFUrUA_d216_z3.jpg",
+    "Time D": "Lagos/6.59670111,3.35469182_2016-10_ow9jN7F-q62jPl3XRsqsHw_d211_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 13,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.59860946,3.35555580_2019-10_GRNMuL34iGgwK00hBlC_hg_d325_z3.jpg",
+    "Time B": "Lagos/6.59862399,3.35557302_2024-03_PQYX-IcLkx4mfwPA6X-tng_d141_z3.jpg",
+    "Time C": "Lagos/6.59863161,3.35556525_2021-06_ZBS22VLzy9gP4vk_1DYpOw_d329_z3.jpg",
+    "Time D": "Lagos/6.59864272,3.35559447_2016-10_h3-OnO_ZyGySP3Ae27qMiA_d131_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 14,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.59975857,3.37083464_2021-06_g8yEGW_xyUy9CjoV9ZJ3rw_d91_z3.jpg",
+    "Time B": "Lagos/6.59976468,3.37078549_2016-10_Eh-k7AKOq7PkEaELNtJ2MA_d93_z3.jpg",
+    "Time C": "Lagos/6.59978964,3.37081233_2024-03_LL6LK-4i8YZ00_-36Bi6Tw_d81_z3.jpg",
+    "Time D": "Lagos/6.59980159,3.37085048_2019-10_BW5MHK8JhgD9UI_yaHHvhA_d261_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time D",
+      "Time A",
+      "Time C"
+    ]
+  },
+  {
+    "id": 15,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.60274521,3.39660089_2019-10_ctPZUc3t2w_8Qc7cvi_Vkw_d150_z3.jpg",
+    "Time B": "Lagos/6.60277087,3.39661998_2024-03_RUurgMqCt79XSOVe5I8Y4w_d156_z3.jpg",
+    "Time C": "Lagos/6.60279247,3.39662759_2021-06_zJYIkIVHi75FAxNtEaPqzA_d152_z3.jpg",
+    "Time D": "Lagos/6.60279426,3.39663875_2016-11_wTvK0v2R9R_efuL1LoNDQw_d151_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time A",
+      "Time C",
+      "Time B"
+    ]
+  },
+  {
+    "id": 16,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.61678627,3.34603535_2019-10_UKZyKwJIBfvl0Dh_VKvFjA_d179_z3.jpg",
+    "Time B": "Lagos/6.61678932,3.34604166_2024-03_oRnrkgjeLzhFZpvbCUfNDg_d188_z3.jpg",
+    "Time C": "Lagos/6.61680602,3.34600283_2016-10_34gKSHfvPSz_HCZ_eV5ccg_d1_z3.jpg",
+    "Time D": "Lagos/6.61681075,3.34603781_2021-06_M_q_b3GsVYfALKl9O1rdAA_d181_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time A",
+      "Time D",
+      "Time B"
+    ]
+  },
+  {
+    "id": 17,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.62458309,3.35067199_2024-03_e0tIYYsOG-6DETcMkApOVQ_d75_z3.jpg",
+    "Time B": "Lagos/6.62458570,3.35067015_2019-10_qAn3U5yoZQhMuwCXTbQ5tw_d77_z3.jpg",
+    "Time C": "Lagos/6.62458768,3.35069113_2021-06_Jd8epscWEPt-nxcY5oSsTA_d66_z3.jpg",
+    "Time D": "Lagos/6.62462528,3.35065492_2016-10_Vdx5hFbC8VjrbKYGrX7ijw_d76_z3.jpg",
+    "GT": [
+      "Time D",
+      "Time B",
+      "Time C",
+      "Time A"
+    ]
+  },
+  {
+    "id": 18,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.62459018,3.34282364_2019-10_lNP8FChx7vr8VD1xBIi4_A_d115_z3.jpg",
+    "Time B": "Lagos/6.62466479,3.34276691_2016-10_HrnCXa40VpswDrYHeriAYg_d292_z3.jpg",
+    "Time C": "Lagos/6.62467733,3.34277867_2024-03_Ec5qpFxkdujxoKgmyOerVQ_d300_z3.jpg",
+    "Time D": "Lagos/6.62469501,3.34277598_2021-06_EkqqAYbfHeOLs2Q8iVu9LA_d293_z3.jpg",
+    "GT": [
+      "Time B",
+      "Time A",
+      "Time D",
+      "Time C"
+    ]
+  },
+  {
+    "id": 19,
+    "city_name": "Lagos",
+    "Time A": "Lagos/6.62463494,3.35702314_2021-06_VOJi3OFPkOjPt7M2i0yUpA_d175_z3.jpg",
+    "Time B": "Lagos/6.62465371,3.35702752_2024-03_qFfaO6TTqBYUhQQ-ifsGEQ_d174_z3.jpg",
+    "Time C": "Lagos/6.62466615,3.35701745_2016-10_Son7o3YQkGQpahumUiiSOA_d171_z3.jpg",
+    "Time D": "Lagos/6.62468933,3.35703275_2019-10_83yc_FbhjnUzKt-uoE4aHg_d173_z3.jpg",
+    "GT": [
+      "Time C",
+      "Time D",
+      "Time A",
+      "Time B"
+    ]
+  }
+]

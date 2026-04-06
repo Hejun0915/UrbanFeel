@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "image 1": "Capetown/-33.90689555128868,18.415676951408383_2019-07_147333010701897.jpg",
+    "image 2": "Capetown/-33.90692226432099,18.415730595588684_2019-07_769343817086594.jpg",
+    "distance": 5.78,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 1,
+    "image 1": "Capetown/-33.90723836790108,18.41516733169556_2019-07_565363327766585.jpg",
+    "image 2": "Capetown/-33.907331863101554,18.41509222984314_2019-07_1121829574959542.jpg",
+    "distance": 12.48,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 2,
+    "image 1": "Capetown/-33.90753666175377,18.414711356163025_2019-07_165640032228712.jpg",
+    "image 2": "Capetown/-33.90763015662706,18.414636254310608_2019-07_1232572000494195.jpg",
+    "distance": 12.48,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 3,
+    "image 1": "Capetown/-33.90771029500827,18.423439264297485_2024-04_975283696795338.jpg",
+    "image 2": "Capetown/-33.90780378969111,18.423498272895813_2024-04_1648738902596186.jpg",
+    "distance": 11.72,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 4,
+    "image 1": "Capetown/-33.90786166730053,18.414250016212463_2019-07_234074128518418.jpg",
+    "image 2": "Capetown/-33.9079640660517,18.414153456687927_2019-07_522882489095310.jpg",
+    "distance": 14.45,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 5,
+    "image 1": "Capetown/-33.908191123713294,18.413767218589783_2019-07_1146103472532502.jpg",
+    "image 2": "Capetown/-33.9082668094661,18.413659930229187_2019-07_254229513148216.jpg",
+    "distance": 13.0,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 6,
+    "image 1": "Capetown/-33.90855619554826,18.41332733631134_2019-07_468518421043952.jpg",
+    "image 2": "Capetown/-33.90869866218164,18.41337025165558_2019-07_768748220464961.jpg",
+    "distance": 16.29,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 7,
+    "image 1": "Capetown/-33.90860071639676,18.423460721969604_2024-04_935127508145309.jpg",
+    "image 2": "Capetown/-33.90864968930328,18.42340171337128_2024-04_1404596930179119.jpg",
+    "distance": 7.7,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 8,
+    "image 1": "Capetown/-33.90930414271702,18.42430293560028_2019-07_301959144871838.jpg",
+    "image 2": "Capetown/-33.90935756726364,18.424372673034668_2019-07_580838409561323.jpg",
+    "distance": 8.76,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 9,
+    "image 1": "Capetown/-33.90932640294885,18.42246830463409_2018-07_303071537941874.jpg",
+    "image 2": "Capetown/-33.909375375438415,18.422479033470157_2018-07_393292108381728.jpg",
+    "distance": 5.52,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 10,
+    "image 1": "Capetown/-33.90937982748152,18.42360019683838_2018-07_160329172585574.jpg",
+    "image 2": "Capetown/-33.90947777237112,18.42351973056793_2018-07_927569524726085.jpg",
+    "distance": 13.17,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 11,
+    "image 1": "Capetown/-33.909504484594194,18.41355264186859_2019-07_302770211315390.jpg",
+    "image 2": "Capetown/-33.90959352527735,18.41365456581116_2019-07_301275988238973.jpg",
+    "distance": 13.65,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 12,
+    "image 1": "Capetown/-33.90971373005206,18.423230051994324_2019-07_237893968137681.jpg",
+    "image 2": "Capetown/-33.90983838667639,18.42312812805176_2018-07_591310515173193.jpg",
+    "distance": 16.73,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 13,
+    "image 1": "Capetown/-33.91093357632446,18.41971635818481_2019-07_325406519150082.jpg",
+    "image 2": "Capetown/-33.91100035572584,18.41981828212738_2018-07_167503271963343.jpg",
+    "distance": 11.99,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 14,
+    "image 1": "Capetown/-33.91137431940664,18.42228055000305_2018-07_292861215768192.jpg",
+    "image 2": "Capetown/-33.911485617804324,18.42211425304413_2018-07_178527550816757.jpg",
+    "distance": 19.72,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 15,
+    "image 1": "Capetown/-33.91154349291366,18.42280626296997_2019-07_803819220239631.jpg",
+    "image 2": "Capetown/-33.911721569926705,18.42279016971588_2019-07_1341736026227060.jpg",
+    "distance": 19.81,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 16,
+    "image 1": "Capetown/-33.91156130063171,18.41880977153778_2019-07_812845972987619.jpg",
+    "image 2": "Capetown/-33.91171711800592,18.418756127357483_2019-07_601477347493977.jpg",
+    "distance": 17.98,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 17,
+    "image 1": "Capetown/-33.91205101141994,18.42287600040436_2018-07_318863739754803.jpg",
+    "image 2": "Capetown/-33.91222463547828,18.422929644584656_2018-07_280776343708945.jpg",
+    "distance": 19.89,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 18,
+    "image 1": "Capetown/-33.912318125209346,18.417892456054688_2019-07_536511684421919.jpg",
+    "image 2": "Capetown/-33.912358192205545,18.417983651161197_2019-07_505989127385347.jpg",
+    "distance": 9.53,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 20,
+    "image 1": "Capetown/-33.91408550701989,18.4188848733902_2019-07_924556248342202.jpg",
+    "image 2": "Capetown/-33.914161187538504,18.418917059898376_2019-07_2947857405468512.jpg",
+    "distance": 8.91,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 21,
+    "image 1": "Capetown/-33.91428138587111,18.4176242351532_2019-07_295288622261117.jpg",
+    "image 2": "Capetown/-33.9143837769096,18.417677879333496_2019-07_579962912977439.jpg",
+    "distance": 12.39,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 22,
+    "image 1": "Capetown/-33.91437487334592,18.421443700790405_2019-07_314350970044484.jpg",
+    "image 2": "Capetown/-33.91449061960121,18.421513438224792_2019-07_959199254918653.jpg",
+    "distance": 14.37,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 23,
+    "image 1": "Capetown/-33.914508426703456,18.41907799243927_2019-07_1117046432110134.jpg",
+    "image 2": "Capetown/-33.91462417277735,18.419147729873657_2019-07_308050660872086.jpg",
+    "distance": 14.37,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 24,
+    "image 1": "Capetown/-33.91453068557604,18.423390984535217_2019-07_332414701637589.jpg",
+    "image 2": "Capetown/-33.91460191392921,18.42330515384674_2019-07_1212400665872965.jpg",
+    "distance": 11.2,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 25,
+    "image 1": "Capetown/-33.91457965507524,18.414722084999084_2019-07_1406131289721074.jpg",
+    "image 2": "Capetown/-33.914731015167575,18.41481864452362_2019-07_792571388039658.jpg",
+    "distance": 19.02,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 26,
+    "image 1": "Capetown/-33.91478443631245,18.425686955451965_2018-06_5487641514639890.jpg",
+    "image 2": "Capetown/-33.91478888807301,18.425509929656982_2018-06_756567521696166.jpg",
+    "distance": 16.38,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 27,
+    "image 1": "Capetown/-33.91481114687233,18.426191210746765_2018-06_191361012700674.jpg",
+    "image 2": "Capetown/-33.91484230918161,18.42635750770569_2018-06_1113132855866270.jpg",
+    "distance": 15.76,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 28,
+    "image 1": "Capetown/-33.9148289539076,18.421728014945984_2019-07_270671428143491.jpg",
+    "image 2": "Capetown/-33.91497141005579,18.42181384563446_2019-07_958618864894894.jpg",
+    "distance": 17.68,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 29,
+    "image 1": "Capetown/-33.91484230918161,18.42297255992889_2019-07_1123519314809424.jpg",
+    "image 2": "Capetown/-33.91497141005579,18.42284381389618_2019-07_804391907150588.jpg",
+    "distance": 18.62,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 30,
+    "image 1": "Capetown/-33.91549671504409,18.416626453399655_2019-07_274826094177026.jpg",
+    "image 2": "Capetown/-33.915554587429526,18.41654062271118_2019-07_205009111269331.jpg",
+    "distance": 10.21,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 31,
+    "image 1": "Capetown/-33.91572820435,18.41617584228516_2019-07_840690786542691.jpg",
+    "image 2": "Capetown/-33.91579052828645,18.416202664375305_2019-07_3300121483423771.jpg",
+    "distance": 7.34,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 32,
+    "image 1": "Capetown/-33.91636924837673,18.41588079929352_2019-07_515430396493086.jpg",
+    "image 2": "Capetown/-33.916498346937615,18.41597735881805_2019-07_227280739161832.jpg",
+    "distance": 16.88,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 33,
+    "image 1": "Capetown/-33.91649389526636,18.418761491775516_2019-07_178943594127812.jpg",
+    "image 2": "Capetown/-33.91654286363739,18.41880977153778_2019-07_2922880804663468.jpg",
+    "distance": 7.03,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 34,
+    "image 1": "Capetown/-33.916640800295056,18.41739356517792_2019-07_876714732915182.jpg",
+    "image 2": "Capetown/-33.91669867190349,18.417474031448364_2019-07_382829522964113.jpg",
+    "distance": 9.83,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 35,
+    "image 1": "Capetown/-33.91713048189492,18.427961468696594_2019-07_500575697962599.jpg",
+    "image 2": "Capetown/-33.91720615970929,18.42801511287689_2019-07_1179252035850543.jpg",
+    "distance": 9.75,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 36,
+    "image 1": "Capetown/-33.917210611343336,18.42705488204956_2019-07_4269362273115513.jpg",
+    "image 2": "Capetown/-33.91734416025659,18.42696368694305_2019-07_3332190347007354.jpg",
+    "distance": 17.05,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 37,
+    "image 1": "Capetown/-33.91768693484256,18.428240418434143_2019-07_147653390598243.jpg",
+    "image 2": "Capetown/-33.91778487018528,18.428218960762024_2019-07_192751886030305.jpg",
+    "distance": 11.04,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 38,
+    "image 1": "Capetown/-33.91782493461122,18.42721581459045_2019-07_1151949758622845.jpg",
+    "image 2": "Capetown/-33.91799409531306,18.427146077156067_2019-07_2014763335331115.jpg",
+    "distance": 19.84,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 39,
+    "image 1": "Capetown/-33.91806532077128,18.419646620750427_2019-07_2945034679044866.jpg",
+    "image 2": "Capetown/-33.91818996517988,18.41959297657013_2019-07_639300933704464.jpg",
+    "distance": 14.69,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 40,
+    "image 1": "Capetown/-33.9192360807078,18.42145979404449_2019-07_485717922751870.jpg",
+    "image 2": "Capetown/-33.919329562746846,18.42136859893799_2019-07_274250981108928.jpg",
+    "distance": 13.37,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 41,
+    "image 1": "Capetown/-33.91937407796748,18.415998816490173_2019-07_614405573291026.jpg",
+    "image 2": "Capetown/-33.91949872046154,18.415896892547607_2019-07_932913047505554.jpg",
+    "distance": 16.73,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 42,
+    "image 1": "Capetown/-33.919699038373544,18.428953886032104_2019-07_315075633556087.jpg",
+    "image 2": "Capetown/-33.919748004902615,18.428943157196045_2019-07_311788626984477.jpg",
+    "distance": 5.52,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 43,
+    "image 1": "Capetown/-33.91992606477114,18.425939083099365_2019-07_338814730907650.jpg",
+    "image 2": "Capetown/-33.92005960942833,18.42595517635345_2018-07_929384704525312.jpg",
+    "distance": 14.89,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 44,
+    "image 1": "Capetown/-33.919992837125896,18.419415950775143_2019-07_616385742614882.jpg",
+    "image 2": "Capetown/-33.920006191590566,18.419523239135746_2019-07_3769824753144466.jpg",
+    "distance": 10.03,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 45,
+    "image 1": "Capetown/-33.920006191590566,18.417726159095764_2019-07_316687136535977.jpg",
+    "image 2": "Capetown/-33.920117478714765,18.417677879333496_2019-07_1658372581034971.jpg",
+    "distance": 13.13,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 46,
+    "image 1": "Capetown/-33.92043353335487,18.41729700565338_2019-07_2027976637350527.jpg",
+    "image 2": "Capetown/-33.92051811115827,18.417211174964905_2019-07_327519035404369.jpg",
+    "distance": 12.29,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 47,
+    "image 1": "Capetown/-33.920535917000926,18.41595590114593_2019-07_133924132095442.jpg",
+    "image 2": "Capetown/-33.92066055779532,18.41582179069519_2019-07_297064875418236.jpg",
+    "distance": 18.57,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 48,
+    "image 1": "Capetown/-33.92085197008879,18.41685175895691_2019-07_307199340994682.jpg",
+    "image 2": "Capetown/-33.92095435323204,18.4168142080307_2019-07_927521567804508.jpg",
+    "distance": 11.88,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 49,
+    "image 1": "Capetown/-33.92087422730432,18.41558575630188_2019-07_1827604334074191.jpg",
+    "image 2": "Capetown/-33.920976610420816,18.415483832359318_2019-07_841044329816730.jpg",
+    "distance": 14.76,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 50,
+    "image 1": "Capetown/-33.92234319067261,18.4153550863266_2019-07_1423189621392043.jpg",
+    "image 2": "Capetown/-33.92249898833211,18.41539800167084_2018-07_2877581399156033.jpg",
+    "distance": 17.73,
+    "city_name": "Capetown",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 51,
+    "image 1": "Edinburgh/55.95057248373391,-3.190605640411377_2024-03_1457371411867345.jpg",
+    "image 2": "Edinburgh/55.95058750163071,-3.190729022026062_2024-03_776565277770194.jpg",
+    "distance": 7.89,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 52,
+    "image 1": "Edinburgh/55.95071365173396,-3.191056251525879_2024-03_3212544222223849.jpg",
+    "image 2": "Edinburgh/55.95082478362727,-3.191249370574951_2024-03_389772433815475.jpg",
+    "distance": 17.28,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 53,
+    "image 1": "Edinburgh/55.951155173858666,-3.207836151123047_2019-06_322382216067671.jpg",
+    "image 2": "Edinburgh/55.95120323038475,-3.2075518369674683_2019-06_187016499957986.jpg",
+    "distance": 18.55,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 54,
+    "image 1": "Edinburgh/55.95130835382759,-3.2067471742630005_2019-06_487340962471257.jpg",
+    "image 2": "Edinburgh/55.95134439608512,-3.20651650428772_2019-06_2661652587465852.jpg",
+    "distance": 14.96,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 55,
+    "image 1": "Edinburgh/55.951323371438974,-3.19151222705841_2024-03_1890706451361381.jpg",
+    "image 2": "Edinburgh/55.95143450158221,-3.1915658712387085_2024-03_1149855832863810.jpg",
+    "distance": 12.82,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 56,
+    "image 1": "Edinburgh/55.95136241720133,-3.1950634717941284_2018-10_905469840248744.jpg",
+    "image 2": "Edinburgh/55.95141047347016,-3.1951171159744263_2018-10_560091961637605.jpg",
+    "distance": 6.31,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 57,
+    "image 1": "Edinburgh/55.95138043830912,-3.199896812438965_2019-07_335293724606543.jpg",
+    "image 2": "Edinburgh/55.9514405086079,-3.199864625930786_2024-06_427284800268977.jpg",
+    "distance": 6.98,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 58,
+    "image 1": "Edinburgh/55.95176789009804,-3.191726803779602_2024-03_2171930783146690.jpg",
+    "image 2": "Edinburgh/55.95182795979568,-3.1917428970336914_2024-03_1078881310053802.jpg",
+    "distance": 6.76,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 59,
+    "image 1": "Edinburgh/55.95196912321825,-3.205958604812622_2024-03_4210613242499478.jpg",
+    "image 2": "Edinburgh/55.95203820300344,-3.205733299255371_2024-06_981481093442628.jpg",
+    "distance": 16.04,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 60,
+    "image 1": "Edinburgh/55.95202919260368,-3.196318745613098_2019-07_544517240248764.jpg",
+    "image 2": "Edinburgh/55.9520682376542,-3.1960880756378174_2019-07_270298751502420.jpg",
+    "distance": 15.05,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 61,
+    "image 1": "Edinburgh/55.95203820300344,-3.190798759460449_2024-03_976391790569110.jpg",
+    "image 2": "Edinburgh/55.952101275743104,-3.1905734539031982_2024-03_6922500031209204.jpg",
+    "distance": 15.73,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 62,
+    "image 1": "Edinburgh/55.95205322033175,-3.20550799369812_2024-03_393254363639953.jpg",
+    "image 2": "Edinburgh/55.95211328958666,-3.205288052558899_2024-06_7991679534224383.jpg",
+    "distance": 15.28,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 63,
+    "image 1": "Edinburgh/55.95207424458155,-3.1944143772125244_2019-07_300481758224233.jpg",
+    "image 2": "Edinburgh/55.95211629304697,-3.194253444671631_2019-07_1155186164908044.jpg",
+    "distance": 11.09,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 64,
+    "image 1": "Edinburgh/55.95212830688584,-3.205057382583618_2024-03_342147698292760.jpg",
+    "image 2": "Edinburgh/55.95217936565945,-3.204907178878784_2024-06_505967815118511.jpg",
+    "distance": 10.97,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 65,
+    "image 1": "Edinburgh/55.95220038984076,-3.1919467449188232_2024-03_389115450642000.jpg",
+    "image 2": "Edinburgh/55.95233554501954,-3.192048668861389_2018-04_468581901042991.jpg",
+    "distance": 16.34,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 66,
+    "image 1": "Edinburgh/55.952203393294326,-3.204547762870789_2024-03_2826717760801823.jpg",
+    "image 2": "Edinburgh/55.95222441746259,-3.2044029235839844_2024-03_1429225901302448.jpg",
+    "distance": 9.35,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 67,
+    "image 1": "Edinburgh/55.95233854846259,-3.203571438789368_2024-03_931414808480905.jpg",
+    "image 2": "Edinburgh/55.952368582880354,-3.203389048576355_2024-03_3685192678419765.jpg",
+    "distance": 11.87,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 68,
+    "image 1": "Edinburgh/55.952422644773634,-3.1932663917541504_2018-04_3896312793782414.jpg",
+    "image 2": "Edinburgh/55.95258483000049,-3.193234205245972_2024-06_1036240314730856.jpg",
+    "distance": 18.17,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 69,
+    "image 1": "Edinburgh/55.95304735450841,-3.196967840194702_2024-06_1010351010712056.jpg",
+    "image 2": "Edinburgh/55.953179503352885,-3.19703221321106_2024-06_1523777858207238.jpg",
+    "distance": 15.25,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 70,
+    "image 1": "Edinburgh/55.95311643236974,-3.1992101669311523_2024-03_378235241785101.jpg",
+    "image 2": "Edinburgh/55.953164486461446,-3.19902777671814_2024-06_2751366218371290.jpg",
+    "distance": 12.59,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 71,
+    "image 1": "Edinburgh/55.953209537118255,-3.1987380981445312_2024-03_403073442338409.jpg",
+    "image 2": "Edinburgh/55.95322455399221,-3.1986576318740845_2024-03_1421777875116995.jpg",
+    "distance": 5.3,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 72,
+    "image 1": "Edinburgh/55.95322755736629,-3.189334273338318_2024-06_970827911497042.jpg",
+    "image 2": "Edinburgh/55.95323656748718,-3.1892430782318115_2024-06_1013081603691784.jpg",
+    "distance": 5.78,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 73,
+    "image 1": "Edinburgh/55.95328161806012,-3.198239207267761_2024-03_1131833368010007.jpg",
+    "image 2": "Edinburgh/55.95333267531274,-3.19801926612854_2024-06_978635340937181.jpg",
+    "distance": 14.87,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 74,
+    "image 1": "Edinburgh/55.953305645010914,-3.193797469139099_2024-06_1870607900081967.jpg",
+    "image 2": "Edinburgh/55.95346181982762,-3.1938672065734863_2024-06_1597502214137787.jpg",
+    "distance": 17.93,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 75,
+    "image 1": "Edinburgh/55.95333868204389,-3.1977885961532597_2024-03_923519156094190.jpg",
+    "image 2": "Edinburgh/55.953413766104944,-3.197547197341919_2024-06_26414580298127155.jpg",
+    "distance": 17.24,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 76,
+    "image 1": "Edinburgh/55.95347983995822,-3.188878297805786_2024-03_2793683290803955.jpg",
+    "image 2": "Edinburgh/55.95353990699971,-3.188690543174744_2024-03_625997583043492.jpg",
+    "distance": 13.5,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 77,
+    "image 1": "Edinburgh/55.95356994048549,-3.196345567703247_2024-03_771123411612201.jpg",
+    "image 2": "Edinburgh/55.95364502409802,-3.1961899995803837_2024-06_3703242489941922.jpg",
+    "distance": 12.82,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 78,
+    "image 1": "Edinburgh/55.95362099735786,-3.206414580345154_2018-10_1112285705941653.jpg",
+    "image 2": "Edinburgh/55.95368106418033,-3.206114172935486_2018-10_810057503267495.jpg",
+    "distance": 19.92,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 79,
+    "image 1": "Edinburgh/55.95366304414338,-3.195846676826477_2024-03_952199212621499.jpg",
+    "image 2": "Edinburgh/55.95372611423602,-3.195675015449524_2024-06_990758629023675.jpg",
+    "distance": 12.82,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 80,
+    "image 1": "Edinburgh/55.95415859210331,-3.207814693450928_2018-10_128076326009585.jpg",
+    "image 2": "Edinburgh/55.95423067127817,-3.2076644897460938_2018-10_821252518770910.jpg",
+    "distance": 12.35,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 81,
+    "image 1": "Edinburgh/55.95420664490146,-3.1940603256225586_2024-03_1655186761917033.jpg",
+    "image 2": "Edinburgh/55.95430875689945,-3.194103240966797_2024-03_785432163059608.jpg",
+    "distance": 11.68,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 82,
+    "image 1": "Edinburgh/55.95453700627405,-3.1945109367370605_2018-04_866115203939056.jpg",
+    "image 2": "Edinburgh/55.95466314350898,-3.1945592164993286_2018-04_377082153549226.jpg",
+    "distance": 14.36,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 83,
+    "image 1": "Edinburgh/55.95454000954632,-3.207380175590515_2018-10_355030825972818.jpg",
+    "image 2": "Edinburgh/55.95468116308041,-3.2072943449020386_2018-10_459363435125194.jpg",
+    "distance": 16.61,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 84,
+    "image 1": "Edinburgh/55.95481630959884,-3.2053202390670776_2018-10_170789094922072.jpg",
+    "image 2": "Edinburgh/55.95486436158061,-3.2051002979278564_2018-10_393802358271895.jpg",
+    "distance": 14.74,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 85,
+    "image 1": "Edinburgh/55.95492142323144,-3.20475697517395_2018-10_488088262611442.jpg",
+    "image 2": "Edinburgh/55.95497247832142,-3.2044941186904907_2018-10_1923255024502958.jpg",
+    "distance": 17.38,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 86,
+    "image 1": "Edinburgh/55.95519772056173,-3.203163743019104_2018-10_911469206371893.jpg",
+    "image 2": "Edinburgh/55.95524877528732,-3.2029008865356445_2018-10_516802806157827.jpg",
+    "distance": 17.38,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 87,
+    "image 1": "Edinburgh/55.95562417561371,-3.193352222442627_2024-03_946858786955924.jpg",
+    "image 2": "Edinburgh/55.95564820111065,-3.1932127475738525_2024-03_7677600205617714.jpg",
+    "distance": 9.11,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 88,
+    "image 1": "Edinburgh/55.95625784310576,-3.187612295150757_2019-12_125709809548660.jpg",
+    "image 2": "Edinburgh/55.95632691523858,-3.187682032585144_2018-02_453184682607648.jpg",
+    "distance": 8.84,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 89,
+    "image 1": "Edinburgh/55.95635694656224,-3.19877564907074_2024-06_1587419338488005.jpg",
+    "image 2": "Edinburgh/55.956483077867205,-3.198845386505127_2024-06_2139020279816149.jpg",
+    "distance": 14.7,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 90,
+    "image 1": "Edinburgh/55.957080694415794,-3.205658197402954_2018-10_462684674801050.jpg",
+    "image 2": "Edinburgh/55.957113728227256,-3.205888867378235_2018-10_469591617644028.jpg",
+    "distance": 14.87,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 91,
+    "image 1": "Edinburgh/55.95713174665801,-3.188186287879944_2018-02_247927427116747.jpg",
+    "image 2": "Edinburgh/55.9571858018999,-3.1881648302078247_2019-10_175536011145299.jpg",
+    "distance": 6.17,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 92,
+    "image 1": "Edinburgh/55.95738100075607,-3.207170963287353_2018-10_324094589077931.jpg",
+    "image 2": "Edinburgh/55.95742304345782,-3.207433819770813_2018-10_195425242408041.jpg",
+    "distance": 17.07,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 93,
+    "image 1": "Edinburgh/55.95747409524853,-3.189951181411743_2018-02_431260787849759.jpg",
+    "image 2": "Edinburgh/55.95748911046826,-3.1898224353790283_2018-02_299958888308016.jpg",
+    "distance": 8.21,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 94,
+    "image 1": "Edinburgh/55.95756718951708,-3.189479112625122_2018-02_479907209989926.jpg",
+    "image 2": "Edinburgh/55.9576062289824,-3.18929135799408_2018-02_327275408824458.jpg",
+    "distance": 12.51,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 95,
+    "image 1": "Edinburgh/55.95758220470072,-3.188583254814148_2018-02_363811175054382.jpg",
+    "image 2": "Edinburgh/55.95768130476662,-3.1885993480682373_2019-10_206204367839872.jpg",
+    "distance": 11.08,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 96,
+    "image 1": "Edinburgh/55.95758821077254,-3.186491131782532_2018-12_364954711579194.jpg",
+    "image 2": "Edinburgh/55.95766929265093,-3.186233639717102_2018-12_1126969711136396.jpg",
+    "distance": 18.44,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 97,
+    "image 1": "Edinburgh/55.957798422699256,-3.19402813911438_2018-04_513629039813976.jpg",
+    "image 2": "Edinburgh/55.95794557036868,-3.1940817832946777_2018-04_479587036614154.jpg",
+    "distance": 16.72,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 98,
+    "image 1": "Edinburgh/55.95810472946303,-3.1892752647399902_2019-10_769534537074540.jpg",
+    "image 2": "Edinburgh/55.9582218461145,-3.1894737482070923_2019-10_198846498751219.jpg",
+    "distance": 17.99,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 99,
+    "image 1": "Edinburgh/55.95852214360164,-3.1897902488708496_2019-10_307706667469937.jpg",
+    "image 2": "Edinburgh/55.95864226194416,-3.189929723739624_2019-10_295784898749480.jpg",
+    "distance": 15.96,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 100,
+    "image 1": "Edinburgh/55.95854917026122,-3.2079166173934937_2018-10_269496934858745.jpg",
+    "image 2": "Edinburgh/55.95867229147154,-3.2079219818115234_2019-02_295875938835133.jpg",
+    "distance": 13.71,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 101,
+    "image 1": "Edinburgh/55.95871733571897,-3.193797469139099_2018-04_1804745683032438.jpg",
+    "image 2": "Edinburgh/55.95880742405649,-3.193835020065308_2018-04_287074329580976.jpg",
+    "distance": 10.3,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 102,
+    "image 1": "Edinburgh/55.95937797865835,-3.2071280479431152_2018-10_479516013500367.jpg",
+    "image 2": "Edinburgh/55.95949208856948,-3.2070958614349365_2019-02_4069905256401363.jpg",
+    "distance": 12.86,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 103,
+    "image 1": "Edinburgh/55.95942602497775,-3.1906646490097046_2019-10_936837666886218.jpg",
+    "image 2": "Edinburgh/55.95949809434495,-3.190863132476806_2019-10_319741122883448.jpg",
+    "distance": 14.77,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 104,
+    "image 1": "Edinburgh/55.95975333894134,-3.2065486907958984_2018-10_789475335091354.jpg",
+    "image 2": "Edinburgh/55.95987345346308,-3.2063663005828857_2019-05_1188183594978685.jpg",
+    "distance": 17.57,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 105,
+    "image 1": "Edinburgh/55.95984342486759,-3.2060229778289795_2018-10_159024949472492.jpg",
+    "image 2": "Edinburgh/55.95987945917935,-3.20576012134552_2018-10_3903383236414981.jpg",
+    "distance": 16.9,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 106,
+    "image 1": "Edinburgh/55.96009866718666,-3.204365372657776_2018-10_463220895005637.jpg",
+    "image 2": "Edinburgh/55.96015572112191,-3.204113245010376_2018-10_426975198274853.jpg",
+    "distance": 16.98,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 107,
+    "image 1": "Edinburgh/55.960320876776194,-3.2030242681503296_2018-10_740615379890288.jpg",
+    "image 2": "Edinburgh/55.960374927564544,-3.202809691429138_2019-02_487108309282241.jpg",
+    "distance": 14.69,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 108,
+    "image 1": "Edinburgh/55.96040495574766,-3.202418088912964_2018-10_853739885226574.jpg",
+    "image 2": "Edinburgh/55.960501045777136,-3.202165961265564_2019-02_149476970457785.jpg",
+    "distance": 19.04,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 109,
+    "image 1": "Edinburgh/55.96091242851881,-3.1998270750045776_2018-10_200946631647895.jpg",
+    "image 2": "Edinburgh/55.96097248402776,-3.1995588541030884_2018-10_813861199553546.jpg",
+    "distance": 18.04,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 110,
+    "image 1": "Edinburgh/55.96104455051545,-3.1992316246032715_2018-10_543196683331009.jpg",
+    "image 2": "Edinburgh/55.96111061134462,-3.1990009546279907_2018-10_460018928562540.jpg",
+    "distance": 16.18,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 111,
+    "image 1": "Edinburgh/55.96136884804957,-3.198174834251404_2018-10_1518754381800838.jpg",
+    "image 2": "Edinburgh/55.961488957557805,-3.19801926612854_2018-10_1115309142305836.jpg",
+    "distance": 16.53,
+    "city_name": "Edinburgh",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 112,
+    "image 1": "Kuala_Lumpur/3.140644656654601,101.698100566864_2024-09_493242529999179.jpg",
+    "image 2": "Kuala_Lumpur/3.1407196457055733,101.6980630159378_2024-09_1030942358487506.jpg.jpg",
+    "distance": 9.28,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 113,
+    "image 1": "Kuala_Lumpur/3.14093925646678,101.69594943523408_2024-12_1707447140154203.jpg",
+    "image 2": "Kuala_Lumpur/3.1410142454966063,101.69596552848816_2024-12_3965677330334833.jpg",
+    "distance": 8.48,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 114,
+    "image 1": "Kuala_Lumpur/3.141233856195825,101.70661389827728_2024-09_502177119113984.jpg",
+    "image 2": "Kuala_Lumpur/3.1413142015620537,101.7067050933838_2024-09_984253856788787.jpg",
+    "distance": 13.48,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 115,
+    "image 1": "Kuala_Lumpur/3.1418659062430976,101.707461476326_2024-09_507916358634530.jpg",
+    "image 2": "Kuala_Lumpur/3.141924826143253,101.7074990272522_2024-09_1072496251094924.jpg",
+    "distance": 7.74,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 116,
+    "image 1": "Kuala_Lumpur/3.1425783011765844,101.7076975107193_2024-09_2743474782497128.jpg",
+    "image 2": "Kuala_Lumpur/3.142717566294735,101.70767068862916_2018-07_182432577106168.jpg",
+    "distance": 15.69,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 117,
+    "image 1": "Kuala_Lumpur/3.1426586464393296,101.69657707214355_2024-09_1507667463454989.jpg",
+    "image 2": "Kuala_Lumpur/3.142674715491111,101.69648051261902_2024-09_1062336265460152.jpg.jpg",
+    "distance": 10.88,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 118,
+    "image 1": "Kuala_Lumpur/3.142969314730351,101.7074292898178_2024-09_936761748476062.jpg",
+    "image 2": "Kuala_Lumpur/3.143022878219469,101.70747756958008_2018-07_987254718679260.jpg",
+    "distance": 7.99,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 119,
+    "image 1": "Kuala_Lumpur/3.1433335464020478,101.7107391357422_2024-09_1092066535872509.jpg",
+    "image 2": "Kuala_Lumpur/3.1433763971785997,101.71090006828308_2024-09_1230009001359849.jpg",
+    "distance": 18.51,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 120,
+    "image 1": "Kuala_Lumpur/3.144211986969438,101.70611500740053_2018-07_170288791763868.jpg",
+    "image 2": "Kuala_Lumpur/3.1442869757641034,101.7059862613678_2018-07_1652101471656246.jpg",
+    "distance": 16.54,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 121,
+    "image 1": "Kuala_Lumpur/3.144211986969438,101.71049773693083_2024-09_827342252800083.jpg",
+    "image 2": "Kuala_Lumpur/3.1443512518695087,101.71038508415222_2024-09_566160542412094.jpg.jpg",
+    "distance": 19.85,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 122,
+    "image 1": "Kuala_Lumpur/3.1444476660202128,101.70570731163023_2018-07_462176434874756.jpg",
+    "image 2": "Kuala_Lumpur/3.144501229433402,101.7055732011795_2024-09_1784184762341071.jpg.jpg",
+    "distance": 16.04,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 123,
+    "image 1": "Kuala_Lumpur/3.144908311283814,101.70475780963898_2018-07_2892236017696620.jpg",
+    "image 2": "Kuala_Lumpur/3.1450422197525114,101.70470416545868_2024-12_595013043465446.jpg",
+    "distance": 15.96,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 124,
+    "image 1": "Kuala_Lumpur/3.145283254952801,101.70815348625185_2024-10_1220718529210064.jpg",
+    "image 2": "Kuala_Lumpur/3.1453528873336296,101.70824468135834_2024-10_1634109577450340.jpg",
+    "distance": 12.73,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 125,
+    "image 1": "Kuala_Lumpur/3.1453689563439298,101.69818639755248_2018-07_485710782732195.jpg",
+    "image 2": "Kuala_Lumpur/3.145417163373338,101.6982239484787_2024-12_1974065813077591.jpg",
+    "distance": 6.77,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 126,
+    "image 1": "Kuala_Lumpur/3.145427876046241,101.698637008667_2018-07_2854380428145764.jpg",
+    "image 2": "Kuala_Lumpur/3.145465370400529,101.69877648353577_2024-12_1774512423297951.jpg",
+    "distance": 16.05,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 127,
+    "image 1": "Kuala_Lumpur/3.1459581532172223,101.70043408870696_2018-07_814359732812515.jpg",
+    "image 2": "Kuala_Lumpur/3.146124199548637,101.70050382614136_2024-12_1687435371801153.jpg",
+    "distance": 19.93,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 128,
+    "image 1": "Kuala_Lumpur/3.146017072886238,101.6986209154129_2024-12_1127510148787571.jpg",
+    "image 2": "Kuala_Lumpur/3.146134912214279,101.69857800006866_2024-12_1606143164119755.jpg",
+    "distance": 13.88,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 129,
+    "image 1": "Kuala_Lumpur/3.1465634187493947,101.6989803314209_2024-12_1523488198360871.jpg",
+    "image 2": "Kuala_Lumpur/3.146724108654624,101.69892132282256_2024-09_1195111991764447.jpg",
+    "distance": 18.94,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 130,
+    "image 1": "Kuala_Lumpur/3.148197098298084,101.69336378574371_2024-07_1176694033579194.jpg",
+    "image 2": "Kuala_Lumpur/3.1482827994496034,101.69342815876009_2024-07_875282424648181.jpg",
+    "distance": 11.87,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 131,
+    "image 1": "Kuala_Lumpur/3.1487059487818243,101.6970545053482_2024-09_3839468922934422.jpg",
+    "image 2": "Kuala_Lumpur/3.1488612820378705,101.697016954422_2024-12_577088534944215.jpg",
+    "distance": 17.68,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 132,
+    "image 1": "Kuala_Lumpur/3.1487809372531643,101.7006003856659_2018-07_2803860309913986.jpg",
+    "image 2": "Kuala_Lumpur/3.148807718848744,101.70069694519044_2018-07_326401412440516.jpg",
+    "distance": 11.13,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 133,
+    "image 1": "Kuala_Lumpur/3.149734361632113,101.69807374477386_2024-12_1561330487841713.jpg",
+    "image 2": "Kuala_Lumpur/3.1497718558314034,101.69810593128204_2024-11_921765435953652.jpg",
+    "distance": 5.48,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 134,
+    "image 1": "Kuala_Lumpur/3.1519840112002555,101.6931813955307_2024-12_1735287723916886.jpg",
+    "image 2": "Kuala_Lumpur/3.1521232750613137,101.69311702251434_2024-12_2141560209579530.jpg",
+    "distance": 16.98,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 135,
+    "image 1": "Kuala_Lumpur/3.1548389166247546,101.69852435588837_2024-11_571332211942692.jpg",
+    "image 2": "Kuala_Lumpur/3.155010317826708,101.69854044914246_2024-11_514378914923786.jpg.jpg",
+    "distance": 19.04,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 136,
+    "image 1": "Kuala_Lumpur/3.1554923835556536,101.70122265815736_2024-12_4013467578884993.jpg",
+    "image 2": "Kuala_Lumpur/3.1555780841062813,101.7011046409607_2024-11_559066436672546.jpg",
+    "distance": 16.18,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 137,
+    "image 1": "Kuala_Lumpur/3.1559530239321845,101.7003482580185_2024-11_871960378415632.jpg",
+    "image 2": "Kuala_Lumpur/3.1559744490610058,101.7002409696579_2024-12_468426579185023.jpg.jpg",
+    "distance": 12.16,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 138,
+    "image 1": "Kuala_Lumpur/3.160495141357728,101.6925698518753_2018-05_773596096629565.jpg",
+    "image 2": "Kuala_Lumpur/3.160591554012228,101.69268786907196_2024-12_1389648742012638.jpg",
+    "distance": 16.9,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 139,
+    "image 1": "Kuala_Lumpur/3.1609504232585266,101.69245183467864_2018-05_545331983122417.jpg",
+    "image 2": "Kuala_Lumpur/3.16107361715028,101.69254302978516_2024-12_1217862512615616.jpg.jpg",
+    "distance": 16.98,
+    "city_name": "Kuala_Lumpur",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 140,
+    "image 1": "Mexico_City/19.415278137895385,-99.1347348690033_2018-07_372968784148719.jpg",
+    "image 2": "Mexico_City/19.415404621979064,-99.1347187757492_2018-07_137600228359037.jpg",
+    "distance": 14.1,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 141,
+    "image 1": "Mexico_City/19.41970502226414,-99.140625_2024-08_506545931749414.jpg",
+    "image 2": "Mexico_City/19.41975055530547,-99.14054453372955_2024-08_497084476198000.jpg",
+    "distance": 9.84,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 142,
+    "image 1": "Mexico_City/19.41991245046023,-99.14020121097565_2024-08_510985781415974.jpg",
+    "image 2": "Mexico_City/19.41999845719559,-99.140083193779_2024-08_989612882958647.jpg",
+    "distance": 15.63,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 143,
+    "image 1": "Mexico_City/19.420342483681907,-99.1392946243286_2024-08_508661718308775.jpg",
+    "image 2": "Mexico_City/19.420377898131804,-99.1392034292221_2024-08_414263484982863.jpg",
+    "distance": 10.35,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 144,
+    "image 1": "Mexico_City/19.421551629818996,-99.1371649503708_2024-08_712214034383882.jpg",
+    "image 2": "Mexico_City/19.42159716234293,-99.13711130619048_2024-08_383154234475683.jpg",
+    "distance": 7.56,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 145,
+    "image 1": "Mexico_City/19.421814706447947,-99.1337263584137_2018-07_486459256142881.jpg",
+    "image 2": "Mexico_City/19.42196142207524,-99.13369417190552_2018-07_485551745989215.jpg",
+    "distance": 16.59,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 146,
+    "image 1": "Mexico_City/19.42183494309407,-99.1367518901825_2024-08_847185474057448.jpg",
+    "image 2": "Mexico_City/19.421931067128757,-99.1365909576416_2024-08_917718483498449.jpg",
+    "distance": 19.97,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 147,
+    "image 1": "Mexico_City/19.42213849248354,-99.13637101650238_2024-08_408758068879408.jpg",
+    "image 2": "Mexico_City/19.422199202293385,-99.13631200790404_2024-08_468260905973728.jpg",
+    "distance": 9.14,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 148,
+    "image 1": "Mexico_City/19.422386390730978,-99.13409113883972_2024-08_8317462071631021.jpg",
+    "image 2": "Mexico_City/19.422391449874965,-99.13425207138062_2024-08_514016594451850.jpg",
+    "distance": 16.91,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 149,
+    "image 1": "Mexico_City/19.42382318128845,-99.13517475128174_2024-08_1135770357490608.jpg",
+    "image 2": "Mexico_City/19.423838358585684,-99.13509964942932_2024-08_389500570827068.jpg",
+    "distance": 8.06,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 150,
+    "image 1": "Mexico_City/19.42584174937568,-99.13441300392152_2024-08_1541157559941935.jpg",
+    "image 2": "Mexico_City/19.425912575870683,-99.1343593597412_2024-08_1032239254916246.jpg",
+    "distance": 9.65,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 151,
+    "image 1": "Mexico_City/19.425963166205378,-99.13308262825012_2024-08_1729949854410546.jpg",
+    "image 2": "Mexico_City/19.4260137565243,-99.13295924663544_2018-10_297709805157281.jpg",
+    "distance": 14.12,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 152,
+    "image 1": "Mexico_City/19.42642353752697,-99.13296461105348_2024-08_1039863710882956.jpg",
+    "image 2": "Mexico_City/19.426474127702548,-99.13293242454527_2024-08_368497329626981.jpg",
+    "distance": 6.54,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 153,
+    "image 1": "Mexico_City/19.42687884853993,-99.13284122943878_2024-08_513680001189990.jpg",
+    "image 2": "Mexico_City/19.426964851587968,-99.13299679756165_2018-10_742708276419928.jpg",
+    "distance": 18.91,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 154,
+    "image 1": "Mexico_City/19.427212742471752,-99.13412868976592_2024-08_1057607402425915.jpg",
+    "image 2": "Mexico_City/19.42734427625648,-99.13411259651184_2024-08_491804063444162.jpg",
+    "distance": 14.66,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 155,
+    "image 1": "Mexico_City/19.427334158276807,-99.13279831409454_2024-08_813313057259716.jpg",
+    "image 2": "Mexico_City/19.427460632977244,-99.1327553987503_2024-08_777996537739206.jpg",
+    "distance": 14.71,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 156,
+    "image 1": "Mexico_City/19.42828018664977,-99.13272857666016_2024-08_806703534615352.jpg",
+    "image 2": "Mexico_City/19.42844207330593,-99.13267493247986_2024-08_411221698652404.jpg",
+    "distance": 18.79,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 157,
+    "image 1": "Mexico_City/19.428533134479125,-99.13641393184662_2018-10_469391470782771.jpg",
+    "image 2": "Mexico_City/19.42853819343169,-99.13658022880554_2018-10_282048636960383.jpg",
+    "distance": 17.47,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 158,
+    "image 1": "Mexico_City/19.42877090507956,-99.13389265537262_2024-08_322102937650351.jpg",
+    "image 2": "Mexico_City/19.428836671354414,-99.13386583328248_2024-08_1262721771774343.jpg",
+    "distance": 7.81,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 159,
+    "image 1": "Mexico_City/19.429190796992074,-99.13265883922575_2024-08_1063619521850251.jpg",
+    "image 2": "Mexico_City/19.429317270246983,-99.13257300853728_2024-08_812399587672313.jpg",
+    "distance": 16.65,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 160,
+    "image 1": "Mexico_City/19.43008116661305,-99.13243353366852_2024-08_2215355935487212.jpg",
+    "image 2": "Mexico_City/19.430151991259702,-99.13243353366852_2024-08_3756244331311073.jpg",
+    "distance": 7.84,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 161,
+    "image 1": "Mexico_City/19.430546585154342,-99.13241744041444_2024-08_997415838732849.jpg",
+    "image 2": "Mexico_City/19.43071352843656,-99.13240134716034_2024-08_1016600459620622.jpg",
+    "distance": 18.56,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 162,
+    "image 1": "Mexico_City/19.431937773929747,-99.13314700126648_2024-05_3830802853869717.jpg",
+    "image 2": "Mexico_City/19.43205412736006,-99.13329184055328_2024-05_1484307615771814.jpg",
+    "distance": 19.93,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 163,
+    "image 1": "Mexico_City/19.432023774299324,-99.1336190700531_2024-05_1172660890834990.jpg",
+    "image 2": "Mexico_City/19.432038950830403,-99.13373172283173_2024-05_1078841193213107.jpg",
+    "distance": 11.95,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 164,
+    "image 1": "Mexico_City/19.43219071606319,-99.13407504558565_2024-05_1993623524367555.jpg",
+    "image 2": "Mexico_City/19.43235259882185,-99.134139418602_2024-05_284403264747692.jpg",
+    "distance": 19.15,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 165,
+    "image 1": "Mexico_City/19.432241304442613,-99.13246035575868_2024-05_7797012557030598.jpg",
+    "image 2": "Mexico_City/19.432418363646462,-99.13242280483246_2024-05_1097367008005845.jpg",
+    "distance": 19.99,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 166,
+    "image 1": "Mexico_City/19.43268648150199,-99.13236916065216_2024-05_411420658479122.jpg",
+    "image 2": "Mexico_City/19.43276742265438,-99.13234770298004_2024-05_803369071753916.jpg",
+    "distance": 9.24,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 167,
+    "image 1": "Mexico_City/19.43313165734105,-99.13312017917632_2024-05_812451987449483.jpg",
+    "image 2": "Mexico_City/19.43314177495957,-99.13325428962708_2024-05_1381650162497094.jpg",
+    "distance": 14.13,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 168,
+    "image 1": "Mexico_City/19.43418894506796,-99.13593113422394_2024-07_1548252909056410.jpg",
+    "image 2": "Mexico_City/19.43421929772404,-99.1360867023468_2024-07_833172998377902.jpg",
+    "distance": 16.68,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 169,
+    "image 1": "Mexico_City/19.43424965037444,-99.13638710975648_2024-07_448415524669797.jpg",
+    "image 2": "Mexico_City/19.434269885471537,-99.13649439811708_2024-07_1144561450109774.jpg",
+    "distance": 11.49,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 170,
+    "image 1": "Mexico_City/19.434315414430813,-99.13684844970705_2024-07_463924413183154.jpg",
+    "image 2": "Mexico_City/19.434325531975603,-99.13693964481354_2024-07_1171507997633657.jpg",
+    "distance": 9.64,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 171,
+    "image 1": "Mexico_City/19.434371060919275,-99.13730442523956_2024-07_1007974420942707.jpg",
+    "image 2": "Mexico_City/19.434411531080716,-99.13748681545258_2024-07_1517740599167768.jpg",
+    "distance": 19.67,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 172,
+    "image 1": "Mexico_City/19.43444188369517,-99.13786232471466_2024-07_786258243710359.jpg",
+    "image 2": "Mexico_City/19.43445706000027,-99.13800179958344_2024-07_1913911715749142.jpg",
+    "distance": 14.74,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 173,
+    "image 1": "Mexico_City/19.434517765206508,-99.13839876651764_2024-07_1230218524815969.jpg",
+    "image 2": "Mexico_City/19.43452282397267,-99.13845241069794_2024-07_988264059978619.jpg",
+    "distance": 5.66,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 174,
+    "image 1": "Mexico_City/19.434563294096293,-99.13887083530426_2024-07_784234743823533.jpg",
+    "image 2": "Mexico_City/19.43457847039005,-99.1390424966812_2024-07_1529847124547439.jpg",
+    "distance": 18.11,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 175,
+    "image 1": "Mexico_City/19.434618940499803,-99.13932144641876_2024-07_1001139214878871.jpg",
+    "image 2": "Mexico_City/19.43464929307549,-99.13950383663176_2024-07_7659051570809410.jpg",
+    "distance": 19.45,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 176,
+    "image 1": "Mexico_City/19.43469482192839,-99.13977205753326_2024-07_1945746202512762.jpg",
+    "image 2": "Mexico_City/19.43470999820987,-99.13984715938568_2024-07_983513923431138.jpg",
+    "distance": 8.06,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 177,
+    "image 1": "Mexico_City/19.43474540952778,-99.1402280330658_2024-07_488669426942743.jpg",
+    "image 2": "Mexico_City/19.434760585804497,-99.14039969444276_2024-07_881974120436363.jpg",
+    "distance": 18.11,
+    "city_name": "Mexico_City",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 178,
+    "image 1": "Milan/45.46017955211363,9.206478595733644_2018-01_385970092513700.jpg",
+    "image 2": "Milan/45.46030748133984,9.206516146659853_2018-05_1102761966898932.jpg",
+    "distance": 14.52,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 179,
+    "image 1": "Milan/45.46178617162175,9.185895323753355_2024-05_1261409497985295.jpg",
+    "image 2": "Milan/45.46191785971524,9.18605089187622_2024-05_975747540677929.jpg",
+    "distance": 19.03,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 180,
+    "image 1": "Milan/45.46302026511833,9.195111393928528_2018-01_734824223863155.jpg",
+    "image 2": "Milan/45.46312937574356,9.195004105567932_2018-01_307410997434678.jpg",
+    "distance": 14.75,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 181,
+    "image 1": "Milan/45.46312185087962,9.184607863426208_2018-01_284703333244111.jpg",
+    "image 2": "Milan/45.46316323761877,9.18458104133606_2018-01_328818098672758.jpg",
+    "distance": 5.06,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 182,
+    "image 1": "Milan/45.46779836014525,9.205706119537354_2018-01_492301132221573.jpg",
+    "image 2": "Milan/45.46792250997197,9.20580804347992_2018-07_468716127544392.jpg",
+    "distance": 15.93,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 183,
+    "image 1": "Milan/45.46821595392999,9.205952882766724_2019-06_918968702227378.jpg",
+    "image 2": "Milan/45.46829495781151,9.205936789512634_2018-01_210301960674890.jpg",
+    "distance": 8.87,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 184,
+    "image 1": "Milan/45.46864483081299,9.205647110939026_2018-07_140872358058646.jpg",
+    "image 2": "Milan/45.46876897877533,9.205647110939026_2018-01_835441573731987.jpg",
+    "distance": 13.8,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 185,
+    "image 1": "Milan/45.46903984610773,9.18708622455597_2018-04_370043317692723.jpg",
+    "image 2": "Milan/45.46911132477004,9.186903834342957_2018-04_503157897384727.jpg",
+    "distance": 16.33,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 186,
+    "image 1": "Milan/45.46948376475439,9.2055344581604_2018-07_375999327039558.jpg",
+    "image 2": "Milan/45.46965305484284,9.205496907234192_2018-07_585129095764669.jpg",
+    "distance": 19.04,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 187,
+    "image 1": "Milan/45.469506336795575,9.193512797355652_2018-04_783500495890811.jpg",
+    "image 2": "Milan/45.46957405286486,9.193421602249146_2018-04_259145885910424.jpg",
+    "distance": 10.37,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 188,
+    "image 1": "Milan/45.46969443678714,9.192466735839844_2019-04_314037670298012.jpg",
+    "image 2": "Milan/45.46979601052155,9.192616939544678_2019-04_535225411219831.jpg",
+    "distance": 16.29,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 189,
+    "image 1": "Milan/45.46980729648075,9.18803572654724_2018-04_768058173893077.jpg",
+    "image 2": "Milan/45.469875012188425,9.188019633293152_2018-04_262390688922960.jpg",
+    "distance": 7.63,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 190,
+    "image 1": "Milan/45.47005182504165,9.192895889282228_2019-04_825081888416414.jpg",
+    "image 2": "Milan/45.470149636169,9.192992448806764_2019-04_218656093057435.jpg",
+    "distance": 13.24,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 191,
+    "image 1": "Milan/45.47022863734023,9.192396998405457_2018-04_1077917399700763.jpg",
+    "image 2": "Milan/45.47031516230547,9.19230580329895_2018-04_130860922362720.jpg",
+    "distance": 11.97,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 193,
+    "image 1": "Milan/45.471218023583646,9.192515015602112_2018-04_449980286097760.jpg",
+    "image 2": "Milan/45.471297023257335,9.192456007003784_2018-04_861251341123051.jpg",
+    "distance": 9.92,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 194,
+    "image 1": "Milan/45.47152649787208,9.185745120048525_2018-04_477404346809792.jpg",
+    "image 2": "Milan/45.47160173524728,9.185857772827148_2018-04_220889366096373.jpg",
+    "distance": 12.15,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 195,
+    "image 1": "Milan/45.47159044964741,9.19452667236328_2018-04_771166940434695.jpg",
+    "image 2": "Milan/45.47170330554451,9.1945481300354_2019-04_176395601047860.jpg",
+    "distance": 12.65,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 196,
+    "image 1": "Milan/45.472391721623126,9.18509066104889_2018-04_1876681525845852.jpg",
+    "image 2": "Milan/45.47242557793464,9.185020923614502_2018-04_4028133873937196.jpg",
+    "distance": 6.63,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 197,
+    "image 1": "Milan/45.47239924524968,9.195207953453064_2018-01_541437930179054.jpg",
+    "image 2": "Milan/45.47244062517768,9.195454716682434_2018-04_294185188848028.jpg",
+    "distance": 19.84,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 198,
+    "image 1": "Milan/45.47250833772162,9.203093647956848_2018-01_474868620390350.jpg",
+    "image 2": "Milan/45.47267009513613,9.203125834465029_2018-01_1590726654651460.jpg",
+    "distance": 18.15,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 199,
+    "image 1": "Milan/45.4732682173576,9.203941226005554_2018-01_1208407189603573.jpg",
+    "image 2": "Milan/45.47327950262152,9.203844666481018_2018-06_264865948717388.jpg",
+    "distance": 7.65,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 200,
+    "image 1": "Milan/45.474197363187045,9.20552909374237_2018-01_811371209818128.jpg",
+    "image 2": "Milan/45.47435535407144,9.20554518699646_2018-01_4074745535936172.jpg",
+    "distance": 17.6,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 201,
+    "image 1": "Milan/45.47467509617263,9.205416440963743_2018-01_5451857928189814.jpg",
+    "image 2": "Milan/45.47476913762185,9.20530915260315_2018-01_457476658881574.jpg",
+    "distance": 13.4,
+    "city_name": "Milan",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 202,
+    "image 1": "Paris/48.85026878955165,2.353922724723816_2024-04_790606742586030.jpg",
+    "image 2": "Paris/48.85030055902871,2.3538100719451904_2024-04_953364403161739.jpg",
+    "distance": 8.99,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 203,
+    "image 1": "Paris/48.85026878955165,2.3614436388015747_2024-02_244048192124269.jpg",
+    "image 2": "Paris/48.85035350811231,2.3614436388015747_2024-02_335566908832992.jpg",
+    "distance": 9.42,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 204,
+    "image 1": "Paris/48.85028290932172,2.3551082611083984_2024-04_378566001810406.jpg",
+    "image 2": "Paris/48.850325268608,2.355145812034607_2024-04_416546787758140.jpg",
+    "distance": 5.46,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 205,
+    "image 1": "Paris/48.85028643926361,2.353423833847046_2024-04_1331124280890795.jpg",
+    "image 2": "Paris/48.8503570380492,2.353472113609314_2024-04_796940152352390.jpg",
+    "distance": 8.61,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 206,
+    "image 1": "Paris/48.85030055902871,2.3522865772247314_2024-04_811935624325229.jpg",
+    "image 2": "Paris/48.85040998707308,2.352372407913208_2024-04_429238873174359.jpg",
+    "distance": 13.7,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 207,
+    "image 1": "Paris/48.85058295349416,2.352919578552246_2024-04_764843519076056.jpg",
+    "image 2": "Paris/48.85062178260861,2.352849841117859_2024-04_8022194231158272.jpg",
+    "distance": 6.7,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 208,
+    "image 1": "Paris/48.8506888510081,2.355489134788513_2024-04_1413570959525912.jpg",
+    "image 2": "Paris/48.85083357724827,2.355623245239258_2024-04_967778598245128.jpg",
+    "distance": 18.87,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 209,
+    "image 1": "Paris/48.85113714800275,2.355923652648926_2024-04_830862358864608.jpg",
+    "image 2": "Paris/48.85120774558885,2.355993390083313_2024-04_1132038274634066.jpg",
+    "distance": 9.37,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 210,
+    "image 1": "Paris/48.85159250068338,2.35632598400116_2024-04_404246772357882.jpg",
+    "image 2": "Paris/48.85173722431151,2.3564547300338745_2024-04_442513174972852.jpg",
+    "distance": 18.66,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 211,
+    "image 1": "Paris/48.852436127651686,2.35706627368927_2024-04_284105597966709.jpg",
+    "image 2": "Paris/48.85255967015672,2.357162833213806_2024-04_443897188111845.jpg",
+    "distance": 15.46,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 212,
+    "image 1": "Paris/48.85261614662889,2.352297306060791_2024-06_1205920290563254.jpg",
+    "image 2": "Paris/48.85264791461651,2.352474331855774_2024-06_3641805789392946.jpg",
+    "distance": 13.46,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 213,
+    "image 1": "Paris/48.85380213782824,2.3564010858535767_2024-02_387110587269751.jpg",
+    "image 2": "Paris/48.85386920196749,2.356272339820862_2024-04_803431121683982.jpg",
+    "distance": 12.04,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 214,
+    "image 1": "Paris/48.85396450348455,2.355945110321045_2024-02_403083435636095.jpg",
+    "image 2": "Paris/48.85400332997651,2.355896830558777_2024-04_808337653964530.jpg",
+    "distance": 5.59,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 215,
+    "image 1": "Paris/48.854730438718434,2.353981733322144_2024-02_748036467291712.jpg",
+    "image 2": "Paris/48.85478338311728,2.353847622871399_2024-04_908180167780076.jpg",
+    "distance": 11.47,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 216,
+    "image 1": "Paris/48.85529164649708,2.35257625579834_2024-02_7181463648569618.jpg",
+    "image 2": "Paris/48.85536223822501,2.352399230003357_2024-02_1095754688282653.jpg",
+    "distance": 15.18,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 217,
+    "image 1": "Paris/48.85548930308451,2.35207736492157_2024-02_267322556399523.jpg",
+    "image 2": "Paris/48.8555528353933,2.3519325256347656_2024-04_2725180060991701.jpg",
+    "distance": 12.76,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 218,
+    "image 1": "Paris/48.85806935588431,2.351771593093872_2024-04_733960525242592.jpg",
+    "image 2": "Paris/48.85812229675187,2.351782321929932_2024-02_368148809339206.jpg",
+    "distance": 5.94,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 219,
+    "image 1": "Paris/48.85896581368851,2.352243661880493_2024-04_1513077389239712.jpg",
+    "image 2": "Paris/48.85896934301823,2.352125644683838_2024-02_730266892325159.jpg",
+    "distance": 8.67,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 220,
+    "image 1": "Paris/48.86375841413749,2.3527371883392334_2024-02_267069766422649.jpg",
+    "image 2": "Paris/48.86382899392558,2.3528122901916504_2024-02_379922868344349.jpg",
+    "distance": 9.59,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 221,
+    "image 1": "Paris/48.86404426166448,2.351782321929932_2024-02_3653231618278843.jpg",
+    "image 2": "Paris/48.86410778311543,2.351551651954651_2024-02_218128964656154.jpg",
+    "distance": 18.34,
+    "city_name": "Paris",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 222,
+    "image 1": "Washington/38.89119984024188,-77.033611536026_2019-12_967888293994455.jpg",
+    "image 2": "Washington/38.89132092496752,-77.033611536026_2019-12_115016863970841.jpg",
+    "distance": 13.44,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 223,
+    "image 1": "Washington/38.89168835321632,-77.03360080718994_2019-12_908712836647793.jpg",
+    "image 2": "Washington/38.89181778771487,-77.03372955322266_2024-01_652947610176810.jpg",
+    "distance": 18.2,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 224,
+    "image 1": "Washington/38.89256933820696,-77.03361690044403_2024-07_508345518447754.jpg",
+    "image 2": "Washington/38.89269042059797,-77.03361690044403_2024-01_352656250908117.jpg",
+    "distance": 13.44,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 225,
+    "image 1": "Washington/38.89301191422078,-77.03376710414886_2024-01_952827482939122.jpg",
+    "image 2": "Washington/38.89318727376531,-77.0337563753128_2024-09_1317788089205534.jpg",
+    "distance": 19.49,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 226,
+    "image 1": "Washington/38.89318309854306,-77.02142357826233_2024-09_1739105676892253.jpg",
+    "image 2": "Washington/38.89324990206913,-77.02128946781158_2024-09_1292478885465256.jpg",
+    "distance": 13.8,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 227,
+    "image 1": "Washington/38.89346283788908,-77.03376710414886_2024-01_1308172263155780.jpg",
+    "image 2": "Washington/38.89352129074757,-77.03369200229645_2024-07_512580388034119.jpg",
+    "distance": 9.2,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 228,
+    "image 1": "Washington/38.89352546594992,-77.02271640300751_2024-09_422848447491664.jpg",
+    "image 2": "Washington/38.89357556835884,-77.02292025089264_2024-09_535178169197829.jpg",
+    "distance": 18.54,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 229,
+    "image 1": "Washington/38.89391375869454,-77.03376173973083_2024-01_909900117075193.jpg",
+    "image 2": "Washington/38.89402648844862,-77.0337563753128_2024-09_381359998361060.jpg",
+    "distance": 12.52,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 230,
+    "image 1": "Washington/38.89436885178995,-77.03376173973083_2024-01_343285468619954.jpg",
+    "image 2": "Washington/38.89449410625858,-77.0336651802063_2024-07_821107136490733.jpg",
+    "distance": 16.23,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 231,
+    "image 1": "Washington/38.89610151899788,-77.02526450157166_2024-10_509819408563370.jpg",
+    "image 2": "Washington/38.89610569404854,-77.02518939971924_2024-10_1716662239154895.jpg",
+    "distance": 6.53,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 232,
+    "image 1": "Washington/38.896168319778894,-77.02380001544952_2024-09_1590490278516625.jpg",
+    "image 2": "Washington/38.89627269587339,-77.02393412590027_2024-09_992126909335623.jpg",
+    "distance": 16.42,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 233,
+    "image 1": "Washington/38.89654824802582,-77.02707231044769_2024-10_786651496838409.jpg",
+    "image 2": "Washington/38.896644273524686,-77.02707231044769_2024-10_1755081994896768.jpg",
+    "distance": 10.66,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 234,
+    "image 1": "Washington/38.89706177418418,-77.02391266822815_2024-09_1745206169623911.jpg",
+    "image 2": "Washington/38.89715362399989,-77.02391803264618_2024-09_1578613612797356.jpg",
+    "distance": 10.21,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 235,
+    "image 1": "Washington/38.89752519704189,-77.02391266822815_2024-09_1203414677606681.jpg",
+    "image 2": "Washington/38.89767132073928,-77.02391266822815_2024-09_942049827962670.jpg",
+    "distance": 16.22,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 236,
+    "image 1": "Washington/38.89984644079797,-77.02708303928375_2024-10_1251852956147082.jpg",
+    "image 2": "Washington/38.8999800352517,-77.02708303928375_2024-10_1230204888296362.jpg",
+    "distance": 14.83,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 237,
+    "image 1": "Washington/38.9024723606928,-77.01579093933105_2019-11_1431075223914598.jpg",
+    "image 2": "Washington/38.90248071004473,-77.01566755771637_2024-10_3718652858448543.jpg",
+    "distance": 10.74,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 238,
+    "image 1": "Washington/38.9024723606928,-77.01690673828125_2024-10_1204876637257210.jpg",
+    "image 2": "Washington/38.90256837818077,-77.01689064502716_2019-11_1174611866368287.jpg",
+    "distance": 10.75,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 239,
+    "image 1": "Washington/38.9024723606928,-77.01871454715729_2024-10_4010792549142668.jpg",
+    "image 2": "Washington/38.90249323407076,-77.01883792877197_2019-11_419519476063031.jpg",
+    "distance": 10.95,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 240,
+    "image 1": "Washington/38.90248071004473,-77.01921343803406_2024-10_1965820910546801.jpg",
+    "image 2": "Washington/38.90248905939566,-77.0192939043045_2019-11_521906032375187.jpg",
+    "distance": 7.04,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 241,
+    "image 1": "Washington/38.90248488472031,-77.01800107955933_2024-10_1050932686690260.jpg",
+    "image 2": "Washington/38.90249323407076,-77.01790452003479_2024-10_1323018115376265.jpg",
+    "distance": 8.43,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 242,
+    "image 1": "Washington/38.90254333015295,-77.03591287136078_2019-12_796673204310392.jpg",
+    "image 2": "Washington/38.90256837818077,-77.0357197523117_2024-08_1029022652340182.jpg",
+    "distance": 16.98,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 243,
+    "image 1": "Washington/38.90364960962492,-77.03609526157379_2024-07_2026986514385681.jpg",
+    "image 2": "Washington/38.90373310171572,-77.03595042228699_2024-10_919386903414217.jpg",
+    "distance": 15.61,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 244,
+    "image 1": "Washington/38.90373310171572,-77.03363299369812_2024-10_863475985923456.jpg",
+    "image 2": "Washington/38.903745625520855,-77.03384757041931_2024-10_569244988775283.jpg",
+    "distance": 18.67,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 245,
+    "image 1": "Washington/38.90378319692306,-77.02399849891663_2019-11_2939821052937319.jpg",
+    "image 2": "Washington/38.903929307742544,-77.02395558357239_2024-10_1743302783110565.jpg",
+    "distance": 16.64,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 246,
+    "image 1": "Washington/38.90498547129511,-77.01465904712677_2024-10_506370172299452.jpg",
+    "image 2": "Washington/38.90515245223656,-77.01472878456116_2024-09_8636170209750148.jpg",
+    "distance": 19.5,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 247,
+    "image 1": "Washington/38.90559077533922,-77.02533423900604_2024-06_482813421271363.jpg",
+    "image 2": "Washington/38.9056492182151,-77.02548444271088_2024-10_416541621338431.jpg",
+    "distance": 14.55,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 248,
+    "image 1": "Washington/38.9056492182151,-77.03605234622955_2024-09_1051597562795473.jpg",
+    "image 2": "Washington/38.90569096309699,-77.0360255241394_2024-01_1525134541685873.jpg",
+    "distance": 5.19,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 249,
+    "image 1": "Washington/38.906020746801005,-77.02591359615326_2024-06_1169379654281251.jpg",
+    "image 2": "Washington/38.90616685301558,-77.0259940624237_2024-10_536077392537675.jpg",
+    "distance": 17.66,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 250,
+    "image 1": "Washington/38.90716036730035,-77.0295399427414_2024-09_493305826921679.jpg",
+    "image 2": "Washington/38.907206285691615,-77.0295399427414_2024-11_562372582995862.jpg",
+    "distance": 5.1,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 251,
+    "image 1": "Washington/38.90718541369927,-77.02290415763855_2024-04_987023439841910.jpg",
+    "image 2": "Washington/38.907293947992486,-77.0230382680893_2024-05_548231074439040.jpg",
+    "distance": 16.75,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 252,
+    "image 1": "Washington/38.90718958809822,-77.03003883361816_2024-01_375936141685998.jpg",
+    "image 2": "Washington/38.90723133207436,-77.03006565570831_2024-11_1291695095168957.jpg",
+    "distance": 5.19,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 253,
+    "image 1": "Washington/38.90719376249695,-77.03050553798676_2024-01_1110002506677160.jpg",
+    "image 2": "Washington/38.907197936895415,-77.03059136867523_2024-01_1066262491252409.jpg",
+    "distance": 7.46,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 254,
+    "image 1": "Washington/38.90726472723756,-77.03157305717468_2024-08_708155828143001.jpg",
+    "image 2": "Washington/38.90727307602592,-77.03170716762543_2024-01_2363295277199931.jpg",
+    "distance": 11.67,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 255,
+    "image 1": "Washington/38.90731064556133,-77.03101515769958_2024-01_865414648663024.jpg",
+    "image 2": "Washington/38.90743587720249,-77.03098833560944_2024-07_1239078177457080.jpg",
+    "distance": 14.1,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 256,
+    "image 1": "Washington/38.9076362473688,-77.0156192779541_2024-09_355339394323773.jpg",
+    "image 2": "Washington/38.90779487334939,-77.0156729221344_2024-10_2640096052855673.jpg",
+    "distance": 18.21,
+    "city_name": "Washington",
+    "image_type": "SingleViewData",
+    "GT": "A) Yes"
+  },
+  {
+    "id": 255,
+    "image 1": "Washington/38.89318309854306,-77.02142357826233_2024-09_1739105676892253.jpg",
+    "image 2": "Paris/48.85035350811231,2.3614436388015747_2024-02_335566908832992.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 256,
+    "image 1": "Mexico_City/19.430546585154342,-99.13241744041444_2024-08_997415838732849.jpg",
+    "image 2": "Washington/38.903745625520855,-77.03384757041931_2024-10_569244988775283.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 257,
+    "image 1": "Edinburgh/55.95347983995822,-3.188878297805786_2024-03_2793683290803955.jpg",
+    "image 2": "Milan/45.469875012188425,9.188019633293152_2018-04_262390688922960.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 258,
+    "image 1": "Edinburgh/55.95372611423602,-3.195675015449524_2024-06_990758629023675.jpg",
+    "image 2": "Kuala_Lumpur/3.1554923835556536,101.70122265815736_2024-12_4013467578884993.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 259,
+    "image 1": "Washington/38.907206285691615,-77.0295399427414_2024-11_562372582995862.jpg",
+    "image 2": "Kuala_Lumpur/3.144211986969438,101.71049773693083_2024-09_827342252800083.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 260,
+    "image 1": "Paris/48.86404426166448,2.351782321929932_2024-02_3653231618278843.jpg",
+    "image 2": "Kuala_Lumpur/3.1410142454966063,101.69596552848816_2024-12_3965677330334833.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 261,
+    "image 1": "Capetown/-33.91156130063171,18.41880977153778_2019-07_812845972987619.jpg",
+    "image 2": "Kuala_Lumpur/3.1609504232585266,101.69245183467864_2018-05_545331983122417.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 262,
+    "image 1": "Washington/38.9056492182151,-77.03605234622955_2024-09_1051597562795473.jpg",
+    "image 2": "Capetown/-33.90763015662706,18.414636254310608_2019-07_1232572000494195.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 263,
+    "image 1": "Edinburgh/55.95203820300344,-3.190798759460449_2024-03_976391790569110.jpg",
+    "image 2": "Capetown/-33.91768693484256,18.428240418434143_2019-07_147653390598243.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 264,
+    "image 1": "Edinburgh/55.95333868204389,-3.1977885961532597_2024-03_923519156094190.jpg",
+    "image 2": "Capetown/-33.91171711800592,18.418756127357483_2019-07_601477347493977.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 265,
+    "image 1": "Kuala_Lumpur/3.1442869757641034,101.7059862613678_2018-07_1652101471656246.jpg",
+    "image 2": "Capetown/-33.911721569926705,18.42279016971588_2019-07_1341736026227060.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 266,
+    "image 1": "Mexico_City/19.43071352843656,-99.13240134716034_2024-08_1016600459620622.jpg",
+    "image 2": "Washington/38.89752519704189,-77.02391266822815_2024-09_1203414677606681.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 267,
+    "image 1": "Washington/38.90254333015295,-77.03591287136078_2019-12_796673204310392.jpg",
+    "image 2": "Capetown/-33.90780378969111,18.423498272895813_2024-04_1648738902596186.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 268,
+    "image 1": "Mexico_City/19.43474540952778,-99.1402280330658_2024-07_488669426942743.jpg",
+    "image 2": "Edinburgh/55.95353990699971,-3.188690543174744_2024-03_625997583043492.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 269,
+    "image 1": "Kuala_Lumpur/3.1554923835556536,101.70122265815736_2024-12_4013467578884993.jpg",
+    "image 2": "Mexico_City/19.421814706447947,-99.1337263584137_2018-07_486459256142881.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 270,
+    "image 1": "Milan/45.46312185087962,9.184607863426208_2018-01_284703333244111.jpg",
+    "image 2": "Paris/48.85896934301823,2.352125644683838_2024-02_730266892325159.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 271,
+    "image 1": "Kuala_Lumpur/3.146124199548637,101.70050382614136_2024-12_1687435371801153.jpg",
+    "image 2": "Mexico_City/19.422386390730978,-99.13409113883972_2024-08_8317462071631021.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 272,
+    "image 1": "Capetown/-33.920006191590566,18.417726159095764_2019-07_316687136535977.jpg",
+    "image 2": "Washington/38.9024723606928,-77.01579093933105_2019-11_1431075223914598.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 273,
+    "image 1": "Edinburgh/55.95486436158061,-3.2051002979278564_2018-10_393802358271895.jpg",
+    "image 2": "Edinburgh/55.95984342486759,-3.2060229778289795_2018-10_159024949472492.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 274,
+    "image 1": "Edinburgh/55.95871733571897,-3.193797469139099_2018-04_1804745683032438.jpg",
+    "image 2": "Washington/38.89610151899788,-77.02526450157166_2024-10_509819408563370.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 275,
+    "image 1": "Capetown/-33.91649389526636,18.418761491775516_2019-07_178943594127812.jpg",
+    "image 2": "Capetown/-33.91949872046154,18.415896892547607_2019-07_932913047505554.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 276,
+    "image 1": "Paris/48.85536223822501,2.352399230003357_2024-02_1095754688282653.jpg",
+    "image 2": "Washington/38.89256933820696,-77.03361690044403_2024-07_508345518447754.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 277,
+    "image 1": "Mexico_City/19.43452282397267,-99.13845241069794_2024-07_988264059978619.jpg",
+    "image 2": "Mexico_City/19.43445706000027,-99.13800179958344_2024-07_1913911715749142.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 278,
+    "image 1": "Capetown/-33.90869866218164,18.41337025165558_2019-07_768748220464961.jpg",
+    "image 2": "Kuala_Lumpur/3.142717566294735,101.70767068862916_2018-07_182432577106168.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 279,
+    "image 1": "Edinburgh/55.95747409524853,-3.189951181411743_2018-02_431260787849759.jpg",
+    "image 2": "Milan/45.472391721623126,9.18509066104889_2018-04_1876681525845852.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 280,
+    "image 1": "Kuala_Lumpur/3.144211986969438,101.71049773693083_2024-09_827342252800083.jpg",
+    "image 2": "Capetown/-33.90864968930328,18.42340171337128_2024-04_1404596930179119.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 281,
+    "image 1": "Washington/38.89752519704189,-77.02391266822815_2024-09_1203414677606681.jpg",
+    "image 2": "Washington/38.90254333015295,-77.03591287136078_2019-12_796673204310392.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 282,
+    "image 1": "Edinburgh/55.95748911046826,-3.1898224353790283_2018-02_299958888308016.jpg",
+    "image 2": "Paris/48.85386920196749,2.356272339820862_2024-04_803431121683982.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 283,
+    "image 1": "Paris/48.85261614662889,2.352297306060791_2024-06_1205920290563254.jpg",
+    "image 2": "Washington/38.90248071004473,-77.01566755771637_2024-10_3718652858448543.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 284,
+    "image 1": "Capetown/-33.90983838667639,18.42312812805176_2018-07_591310515173193.jpg",
+    "image 2": "Mexico_City/19.43464929307549,-99.13950383663176_2024-07_7659051570809410.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 285,
+    "image 1": "Edinburgh/55.95322755736629,-3.189334273338318_2024-06_970827911497042.jpg",
+    "image 2": "Capetown/-33.91713048189492,18.427961468696594_2019-07_500575697962599.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 286,
+    "image 1": "Paris/48.854730438718434,2.353981733322144_2024-02_748036467291712.jpg",
+    "image 2": "Paris/48.85812229675187,2.351782321929932_2024-02_368148809339206.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 287,
+    "image 1": "Milan/45.46957405286486,9.193421602249146_2018-04_259145885910424.jpg",
+    "image 2": "Paris/48.85113714800275,2.355923652648926_2024-04_830862358864608.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 288,
+    "image 1": "Washington/38.89301191422078,-77.03376710414886_2024-01_952827482939122.jpg",
+    "image 2": "Washington/38.90569096309699,-77.0360255241394_2024-01_1525134541685873.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 289,
+    "image 1": "Kuala_Lumpur/3.145417163373338,101.6982239484787_2024-12_1974065813077591.jpg",
+    "image 2": "Edinburgh/55.96104455051545,-3.1992316246032715_2018-10_543196683331009.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 290,
+    "image 1": "Kuala_Lumpur/3.144501229433402,101.7055732011795_2024-09_1784184762341071.jpg.jpg",
+    "image 2": "Capetown/-33.919329562746846,18.42136859893799_2019-07_274250981108928.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 291,
+    "image 1": "Edinburgh/55.95415859210331,-3.207814693450928_2018-10_128076326009585.jpg",
+    "image 2": "Mexico_City/19.43314177495957,-99.13325428962708_2024-05_1381650162497094.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 292,
+    "image 1": "Capetown/-33.90786166730053,18.414250016212463_2019-07_234074128518418.jpg",
+    "image 2": "Edinburgh/55.95481630959884,-3.2053202390670776_2018-10_170789094922072.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 293,
+    "image 1": "Kuala_Lumpur/3.1519840112002555,101.6931813955307_2024-12_1735287723916886.jpg",
+    "image 2": "Mexico_City/19.43314177495957,-99.13325428962708_2024-05_1381650162497094.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 294,
+    "image 1": "Paris/48.85536223822501,2.352399230003357_2024-02_1095754688282653.jpg",
+    "image 2": "Mexico_City/19.420342483681907,-99.1392946243286_2024-08_508661718308775.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 295,
+    "image 1": "Edinburgh/55.953179503352885,-3.19703221321106_2024-06_1523777858207238.jpg",
+    "image 2": "Paris/48.85026878955165,2.353922724723816_2024-04_790606742586030.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 296,
+    "image 1": "Milan/45.472391721623126,9.18509066104889_2018-04_1876681525845852.jpg",
+    "image 2": "Kuala_Lumpur/3.1444476660202128,101.70570731163023_2018-07_462176434874756.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 297,
+    "image 1": "Milan/45.47244062517768,9.195454716682434_2018-04_294185188848028.jpg",
+    "image 2": "Mexico_City/19.422391449874965,-99.13425207138062_2024-08_514016594451850.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 298,
+    "image 1": "Edinburgh/55.95233554501954,-3.192048668861389_2018-04_468581901042991.jpg",
+    "image 2": "Edinburgh/55.9576062289824,-3.18929135799408_2018-02_327275408824458.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 299,
+    "image 1": "Edinburgh/55.95138043830912,-3.199896812438965_2019-07_335293724606543.jpg",
+    "image 2": "Washington/38.89984644079797,-77.02708303928375_2024-10_1251852956147082.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 300,
+    "image 1": "Kuala_Lumpur/3.1433763971785997,101.71090006828308_2024-09_1230009001359849.jpg",
+    "image 2": "Mexico_City/19.434517765206508,-99.13839876651764_2024-07_1230218524815969.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 301,
+    "image 1": "Milan/45.46316323761877,9.18458104133606_2018-01_328818098672758.jpg",
+    "image 2": "Mexico_City/19.425912575870683,-99.1343593597412_2024-08_1032239254916246.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 302,
+    "image 1": "Kuala_Lumpur/3.1444476660202128,101.70570731163023_2018-07_462176434874756.jpg",
+    "image 2": "Capetown/-33.920535917000926,18.41595590114593_2019-07_133924132095442.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 303,
+    "image 1": "Paris/48.86382899392558,2.3528122901916504_2024-02_379922868344349.jpg",
+    "image 2": "Paris/48.85083357724827,2.355623245239258_2024-04_967778598245128.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 304,
+    "image 1": "Capetown/-33.9079640660517,18.414153456687927_2019-07_522882489095310.jpg",
+    "image 2": "Mexico_City/19.43445706000027,-99.13800179958344_2024-07_1913911715749142.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 305,
+    "image 1": "Capetown/-33.92249898833211,18.41539800167084_2018-07_2877581399156033.jpg",
+    "image 2": "Paris/48.85026878955165,2.353922724723816_2024-04_790606742586030.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 306,
+    "image 1": "Mexico_City/19.43276742265438,-99.13234770298004_2024-05_803369071753916.jpg",
+    "image 2": "Mexico_City/19.43457847039005,-99.1390424966812_2024-07_1529847124547439.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 307,
+    "image 1": "Capetown/-33.90763015662706,18.414636254310608_2019-07_1232572000494195.jpg",
+    "image 2": "Capetown/-33.92087422730432,18.41558575630188_2019-07_1827604334074191.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 308,
+    "image 1": "Edinburgh/55.95625784310576,-3.187612295150757_2019-12_125709809548660.jpg",
+    "image 2": "Edinburgh/55.95057248373391,-3.190605640411377_2024-03_1457371411867345.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 309,
+    "image 1": "Kuala_Lumpur/3.1407196457055733,101.6980630159378_2024-09_1030942358487506.jpg.jpg",
+    "image 2": "Capetown/-33.92066055779532,18.41582179069519_2019-07_297064875418236.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 310,
+    "image 1": "Milan/45.46779836014525,9.205706119537354_2018-01_492301132221573.jpg",
+    "image 2": "Paris/48.86410778311543,2.351551651954651_2024-02_218128964656154.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 311,
+    "image 1": "Milan/45.46779836014525,9.205706119537354_2018-01_492301132221573.jpg",
+    "image 2": "Mexico_City/19.43474540952778,-99.1402280330658_2024-07_488669426942743.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 312,
+    "image 1": "Capetown/-33.91768693484256,18.428240418434143_2019-07_147653390598243.jpg",
+    "image 2": "Washington/38.9076362473688,-77.0156192779541_2024-09_355339394323773.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 313,
+    "image 1": "Kuala_Lumpur/3.1487059487818243,101.6970545053482_2024-09_3839468922934422.jpg",
+    "image 2": "Edinburgh/55.95492142323144,-3.20475697517395_2018-10_488088262611442.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 314,
+    "image 1": "Paris/48.85173722431151,2.3564547300338745_2024-04_442513174972852.jpg",
+    "image 2": "Washington/38.90248071004473,-77.01566755771637_2024-10_3718652858448543.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 315,
+    "image 1": "Edinburgh/55.95233554501954,-3.192048668861389_2018-04_468581901042991.jpg",
+    "image 2": "Capetown/-33.91713048189492,18.427961468696594_2019-07_500575697962599.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 316,
+    "image 1": "Capetown/-33.92095435323204,18.4168142080307_2019-07_927521567804508.jpg",
+    "image 2": "Capetown/-33.91579052828645,18.416202664375305_2019-07_3300121483423771.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 317,
+    "image 1": "Capetown/-33.91462417277735,18.419147729873657_2019-07_308050660872086.jpg",
+    "image 2": "Edinburgh/55.95794557036868,-3.1940817832946777_2018-04_479587036614154.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 318,
+    "image 1": "Capetown/-33.909504484594194,18.41355264186859_2019-07_302770211315390.jpg",
+    "image 2": "Milan/45.46779836014525,9.205706119537354_2018-01_492301132221573.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 319,
+    "image 1": "Kuala_Lumpur/3.1426586464393296,101.69657707214355_2024-09_1507667463454989.jpg",
+    "image 2": "Edinburgh/55.95949208856948,-3.2070958614349365_2019-02_4069905256401363.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 320,
+    "image 1": "Edinburgh/55.95564820111065,-3.1932127475738525_2024-03_7677600205617714.jpg",
+    "image 2": "Washington/38.907206285691615,-77.0295399427414_2024-11_562372582995862.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 321,
+    "image 1": "Mexico_City/19.42183494309407,-99.1367518901825_2024-08_847185474057448.jpg",
+    "image 2": "Capetown/-33.91949872046154,18.415896892547607_2019-07_932913047505554.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 322,
+    "image 1": "Edinburgh/55.95747409524853,-3.189951181411743_2018-02_431260787849759.jpg",
+    "image 2": "Washington/38.89256933820696,-77.03361690044403_2024-07_508345518447754.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 323,
+    "image 1": "Kuala_Lumpur/3.1407196457055733,101.6980630159378_2024-09_1030942358487506.jpg.jpg",
+    "image 2": "Edinburgh/55.95322755736629,-3.189334273338318_2024-06_970827911497042.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 324,
+    "image 1": "Milan/45.469506336795575,9.193512797355652_2018-04_783500495890811.jpg",
+    "image 2": "Edinburgh/55.95071365173396,-3.191056251525879_2024-03_3212544222223849.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 325,
+    "image 1": "Edinburgh/55.95143450158221,-3.1915658712387085_2024-03_1149855832863810.jpg",
+    "image 2": "Capetown/-33.915554587429526,18.41654062271118_2019-07_205009111269331.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 326,
+    "image 1": "Kuala_Lumpur/3.1487809372531643,101.7006003856659_2018-07_2803860309913986.jpg",
+    "image 2": "Kuala_Lumpur/3.160591554012228,101.69268786907196_2024-12_1389648742012638.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 327,
+    "image 1": "Edinburgh/55.95233854846259,-3.203571438789368_2024-03_931414808480905.jpg",
+    "image 2": "Milan/45.469506336795575,9.193512797355652_2018-04_783500495890811.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 328,
+    "image 1": "Kuala_Lumpur/3.142969314730351,101.7074292898178_2024-09_936761748476062.jpg",
+    "image 2": "Mexico_City/19.42183494309407,-99.1367518901825_2024-08_847185474057448.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 329,
+    "image 1": "Capetown/-33.91408550701989,18.4188848733902_2019-07_924556248342202.jpg",
+    "image 2": "Edinburgh/55.96097248402776,-3.1995588541030884_2018-10_813861199553546.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 330,
+    "image 1": "Mexico_City/19.434563294096293,-99.13887083530426_2024-07_784234743823533.jpg",
+    "image 2": "Capetown/-33.91093357632446,18.41971635818481_2019-07_325406519150082.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 331,
+    "image 1": "Edinburgh/55.95196912321825,-3.205958604812622_2024-03_4210613242499478.jpg",
+    "image 2": "Kuala_Lumpur/3.1410142454966063,101.69596552848816_2024-12_3965677330334833.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 332,
+    "image 1": "Mexico_City/19.43457847039005,-99.1390424966812_2024-07_1529847124547439.jpg",
+    "image 2": "Capetown/-33.92095435323204,18.4168142080307_2019-07_927521567804508.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 333,
+    "image 1": "Paris/48.86382899392558,2.3528122901916504_2024-02_379922868344349.jpg",
+    "image 2": "Kuala_Lumpur/3.1459581532172223,101.70043408870696_2018-07_814359732812515.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 334,
+    "image 1": "Edinburgh/55.95328161806012,-3.198239207267761_2024-03_1131833368010007.jpg",
+    "image 2": "Edinburgh/55.95071365173396,-3.191056251525879_2024-03_3212544222223849.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 335,
+    "image 1": "Capetown/-33.911721569926705,18.42279016971588_2019-07_1341736026227060.jpg",
+    "image 2": "Capetown/-33.920976610420816,18.415483832359318_2019-07_841044329816730.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 336,
+    "image 1": "Washington/38.90616685301558,-77.0259940624237_2024-10_536077392537675.jpg",
+    "image 2": "Edinburgh/55.95130835382759,-3.2067471742630005_2019-06_487340962471257.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 337,
+    "image 1": "Kuala_Lumpur/3.1559530239321845,101.7003482580185_2024-11_871960378415632.jpg",
+    "image 2": "Edinburgh/55.96097248402776,-3.1995588541030884_2018-10_813861199553546.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 338,
+    "image 1": "Washington/38.90373310171572,-77.03595042228699_2024-10_919386903414217.jpg",
+    "image 2": "Washington/38.90249323407076,-77.01883792877197_2019-11_419519476063031.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 339,
+    "image 1": "Washington/38.90378319692306,-77.02399849891663_2019-11_2939821052937319.jpg",
+    "image 2": "Edinburgh/55.95211629304697,-3.194253444671631_2019-07_1155186164908044.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 340,
+    "image 1": "Washington/38.903929307742544,-77.02395558357239_2024-10_1743302783110565.jpg",
+    "image 2": "Capetown/-33.91720615970929,18.42801511287689_2019-07_1179252035850543.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 341,
+    "image 1": "Capetown/-33.908191123713294,18.413767218589783_2019-07_1146103472532502.jpg",
+    "image 2": "Capetown/-33.91171711800592,18.418756127357483_2019-07_601477347493977.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 342,
+    "image 1": "Washington/38.90373310171572,-77.03595042228699_2024-10_919386903414217.jpg",
+    "image 2": "Kuala_Lumpur/3.1487059487818243,101.6970545053482_2024-09_3839468922934422.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 343,
+    "image 1": "Mexico_City/19.430546585154342,-99.13241744041444_2024-08_997415838732849.jpg",
+    "image 2": "Edinburgh/55.95466314350898,-3.1945592164993286_2018-04_377082153549226.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 344,
+    "image 1": "Capetown/-33.91481114687233,18.426191210746765_2018-06_191361012700674.jpg",
+    "image 2": "Mexico_City/19.415278137895385,-99.1347348690033_2018-07_372968784148719.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 345,
+    "image 1": "Capetown/-33.91636924837673,18.41588079929352_2019-07_515430396493086.jpg",
+    "image 2": "Mexico_City/19.432038950830403,-99.13373172283173_2024-05_1078841193213107.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 346,
+    "image 1": "Kuala_Lumpur/3.1425783011765844,101.7076975107193_2024-09_2743474782497128.jpg",
+    "image 2": "Edinburgh/55.95747409524853,-3.189951181411743_2018-02_431260787849759.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 347,
+    "image 1": "Washington/38.90743587720249,-77.03098833560944_2024-07_1239078177457080.jpg",
+    "image 2": "Edinburgh/55.95196912321825,-3.205958604812622_2024-03_4210613242499478.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 348,
+    "image 1": "Capetown/-33.90932640294885,18.42246830463409_2018-07_303071537941874.jpg",
+    "image 2": "Washington/38.89715362399989,-77.02391803264618_2024-09_1578613612797356.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 349,
+    "image 1": "Washington/38.9024723606928,-77.01690673828125_2024-10_1204876637257210.jpg",
+    "image 2": "Capetown/-33.91428138587111,18.4176242351532_2019-07_295288622261117.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 350,
+    "image 1": "Washington/38.8999800352517,-77.02708303928375_2024-10_1230204888296362.jpg",
+    "image 2": "Capetown/-33.90763015662706,18.414636254310608_2019-07_1232572000494195.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 351,
+    "image 1": "Edinburgh/55.95364502409802,-3.1961899995803837_2024-06_3703242489941922.jpg",
+    "image 2": "Mexico_City/19.42734427625648,-99.13411259651184_2024-08_491804063444162.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 352,
+    "image 1": "Washington/38.90726472723756,-77.03157305717468_2024-08_708155828143001.jpg",
+    "image 2": "Mexico_City/19.42584174937568,-99.13441300392152_2024-08_1541157559941935.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 353,
+    "image 1": "Capetown/-33.91497141005579,18.42284381389618_2019-07_804391907150588.jpg",
+    "image 2": "Paris/48.85113714800275,2.355923652648926_2024-04_830862358864608.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 354,
+    "image 1": "Kuala_Lumpur/3.1418659062430976,101.707461476326_2024-09_507916358634530.jpg",
+    "image 2": "Edinburgh/55.95130835382759,-3.2067471742630005_2019-06_487340962471257.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 355,
+    "image 1": "Milan/45.47267009513613,9.203125834465029_2018-01_1590726654651460.jpg",
+    "image 2": "Edinburgh/55.95632691523858,-3.187682032585144_2018-02_453184682607648.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 356,
+    "image 1": "Edinburgh/55.96111061134462,-3.1990009546279907_2018-10_460018928562540.jpg",
+    "image 2": "Mexico_City/19.43457847039005,-99.1390424966812_2024-07_1529847124547439.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 357,
+    "image 1": "Washington/38.89352546594992,-77.02271640300751_2024-09_422848447491664.jpg",
+    "image 2": "Capetown/-33.91462417277735,18.419147729873657_2019-07_308050660872086.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 358,
+    "image 1": "Capetown/-33.91100035572584,18.41981828212738_2018-07_167503271963343.jpg",
+    "image 2": "Milan/45.46030748133984,9.206516146659853_2018-05_1102761966898932.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 359,
+    "image 1": "Mexico_City/19.43474540952778,-99.1402280330658_2024-07_488669426942743.jpg",
+    "image 2": "Edinburgh/55.95486436158061,-3.2051002979278564_2018-10_393802358271895.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 360,
+    "image 1": "Capetown/-33.911485617804324,18.42211425304413_2018-07_178527550816757.jpg",
+    "image 2": "Edinburgh/55.95635694656224,-3.19877564907074_2024-06_1587419338488005.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 361,
+    "image 1": "Washington/38.90718541369927,-77.02290415763855_2024-04_987023439841910.jpg",
+    "image 2": "Mexico_City/19.42828018664977,-99.13272857666016_2024-08_806703534615352.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 362,
+    "image 1": "Paris/48.86382899392558,2.3528122901916504_2024-02_379922868344349.jpg",
+    "image 2": "Capetown/-33.9148289539076,18.421728014945984_2019-07_270671428143491.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 363,
+    "image 1": "Edinburgh/55.95454000954632,-3.207380175590515_2018-10_355030825972818.jpg",
+    "image 2": "Kuala_Lumpur/3.1442869757641034,101.7059862613678_2018-07_1652101471656246.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 364,
+    "image 1": "Kuala_Lumpur/3.1497718558314034,101.69810593128204_2024-11_921765435953652.jpg",
+    "image 2": "Edinburgh/55.95984342486759,-3.2060229778289795_2018-10_159024949472492.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 365,
+    "image 1": "Paris/48.86404426166448,2.351782321929932_2024-02_3653231618278843.jpg",
+    "image 2": "Mexico_City/19.43313165734105,-99.13312017917632_2024-05_812451987449483.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 366,
+    "image 1": "Kuala_Lumpur/3.1554923835556536,101.70122265815736_2024-12_4013467578884993.jpg",
+    "image 2": "Washington/38.896644273524686,-77.02707231044769_2024-10_1755081994896768.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 367,
+    "image 1": "Edinburgh/55.95468116308041,-3.2072943449020386_2018-10_459363435125194.jpg",
+    "image 2": "Kuala_Lumpur/3.144211986969438,101.70611500740053_2018-07_170288791763868.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 368,
+    "image 1": "Kuala_Lumpur/3.146017072886238,101.6986209154129_2024-12_1127510148787571.jpg",
+    "image 2": "Mexico_City/19.42159716234293,-99.13711130619048_2024-08_383154234475683.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 369,
+    "image 1": "Edinburgh/55.95430875689945,-3.194103240966797_2024-03_785432163059608.jpg",
+    "image 2": "Paris/48.86382899392558,2.3528122901916504_2024-02_379922868344349.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 370,
+    "image 1": "Paris/48.85062178260861,2.352849841117859_2024-04_8022194231158272.jpg",
+    "image 2": "Mexico_City/19.43474540952778,-99.1402280330658_2024-07_488669426942743.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 371,
+    "image 1": "Edinburgh/55.95519772056173,-3.203163743019104_2018-10_911469206371893.jpg",
+    "image 2": "Paris/48.8503570380492,2.353472113609314_2024-04_796940152352390.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 372,
+    "image 1": "Kuala_Lumpur/3.1488612820378705,101.697016954422_2024-12_577088534944215.jpg",
+    "image 2": "Edinburgh/55.95742304345782,-3.207433819770813_2018-10_195425242408041.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 373,
+    "image 1": "Milan/45.47242557793464,9.185020923614502_2018-04_4028133873937196.jpg",
+    "image 2": "Paris/48.85040998707308,2.352372407913208_2024-04_429238873174359.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 374,
+    "image 1": "Milan/45.47267009513613,9.203125834465029_2018-01_1590726654651460.jpg",
+    "image 2": "Paris/48.85400332997651,2.355896830558777_2024-04_808337653964530.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 375,
+    "image 1": "Edinburgh/55.95368106418033,-3.206114172935486_2018-10_810057503267495.jpg",
+    "image 2": "Capetown/-33.90937982748152,18.42360019683838_2018-07_160329172585574.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 376,
+    "image 1": "Edinburgh/55.95987345346308,-3.2063663005828857_2019-05_1188183594978685.jpg",
+    "image 2": "Edinburgh/55.95871733571897,-3.193797469139099_2018-04_1804745683032438.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 377,
+    "image 1": "Capetown/-33.91478888807301,18.425509929656982_2018-06_756567521696166.jpg",
+    "image 2": "Capetown/-33.91408550701989,18.4188848733902_2019-07_924556248342202.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 378,
+    "image 1": "Kuala_Lumpur/3.144908311283814,101.70475780963898_2018-07_2892236017696620.jpg",
+    "image 2": "Kuala_Lumpur/3.144211986969438,101.71049773693083_2024-09_827342252800083.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 379,
+    "image 1": "Milan/45.46312185087962,9.184607863426208_2018-01_284703333244111.jpg",
+    "image 2": "Capetown/-33.916498346937615,18.41597735881805_2019-07_227280739161832.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 380,
+    "image 1": "Washington/38.89352129074757,-77.03369200229645_2024-07_512580388034119.jpg",
+    "image 2": "Milan/45.46948376475439,9.2055344581604_2018-07_375999327039558.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 381,
+    "image 1": "Edinburgh/55.95203820300344,-3.190798759460449_2024-03_976391790569110.jpg",
+    "image 2": "Kuala_Lumpur/3.155010317826708,101.69854044914246_2024-11_514378914923786.jpg.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 382,
+    "image 1": "Mexico_City/19.427460632977244,-99.1327553987503_2024-08_777996537739206.jpg",
+    "image 2": "Washington/38.9024723606928,-77.01871454715729_2024-10_4010792549142668.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 383,
+    "image 1": "Edinburgh/55.95134439608512,-3.20651650428772_2019-06_2661652587465852.jpg",
+    "image 2": "Paris/48.85035350811231,2.3614436388015747_2024-02_335566908832992.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 384,
+    "image 1": "Capetown/-33.9079640660517,18.414153456687927_2019-07_522882489095310.jpg",
+    "image 2": "Paris/48.85806935588431,2.351771593093872_2024-04_733960525242592.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 385,
+    "image 1": "Washington/38.90498547129511,-77.01465904712677_2024-10_506370172299452.jpg",
+    "image 2": "Edinburgh/55.96009866718666,-3.204365372657776_2018-10_463220895005637.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 386,
+    "image 1": "Edinburgh/55.95353990699971,-3.188690543174744_2024-03_625997583043492.jpg",
+    "image 2": "Capetown/-33.91462417277735,18.419147729873657_2019-07_308050660872086.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 387,
+    "image 1": "Capetown/-33.91408550701989,18.4188848733902_2019-07_924556248342202.jpg",
+    "image 2": "Edinburgh/55.957080694415794,-3.205658197402954_2018-10_462684674801050.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 388,
+    "image 1": "Edinburgh/55.9582218461145,-3.1894737482070923_2019-10_198846498751219.jpg",
+    "image 2": "Washington/38.90248905939566,-77.0192939043045_2019-11_521906032375187.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 389,
+    "image 1": "Edinburgh/55.95211328958666,-3.205288052558899_2024-06_7991679534224383.jpg",
+    "image 2": "Edinburgh/55.95975333894134,-3.2065486907958984_2018-10_789475335091354.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 390,
+    "image 1": "Washington/38.90248071004473,-77.01566755771637_2024-10_3718652858448543.jpg",
+    "image 2": "Mexico_City/19.42853819343169,-99.13658022880554_2018-10_282048636960383.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 391,
+    "image 1": "Milan/45.46030748133984,9.206516146659853_2018-05_1102761966898932.jpg",
+    "image 2": "Mexico_City/19.42687884853993,-99.13284122943878_2024-08_513680001189990.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 392,
+    "image 1": "Washington/38.907293947992486,-77.0230382680893_2024-05_548231074439040.jpg",
+    "image 2": "Edinburgh/55.95136241720133,-3.1950634717941284_2018-10_905469840248744.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 393,
+    "image 1": "Capetown/-33.91734416025659,18.42696368694305_2019-07_3332190347007354.jpg",
+    "image 2": "Capetown/-33.91222463547828,18.422929644584656_2018-07_280776343708945.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 394,
+    "image 1": "Capetown/-33.919748004902615,18.428943157196045_2019-07_311788626984477.jpg",
+    "image 2": "Capetown/-33.90971373005206,18.423230051994324_2019-07_237893968137681.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 395,
+    "image 1": "Kuala_Lumpur/3.1487809372531643,101.7006003856659_2018-07_2803860309913986.jpg",
+    "image 2": "Edinburgh/55.95635694656224,-3.19877564907074_2024-06_1587419338488005.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 396,
+    "image 1": "Capetown/-33.90763015662706,18.414636254310608_2019-07_1232572000494195.jpg",
+    "image 2": "Edinburgh/55.957798422699256,-3.19402813911438_2018-04_513629039813976.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 397,
+    "image 1": "Mexico_City/19.43071352843656,-99.13240134716034_2024-08_1016600459620622.jpg",
+    "image 2": "Capetown/-33.92234319067261,18.4153550863266_2019-07_1423189621392043.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 398,
+    "image 1": "Washington/38.89301191422078,-77.03376710414886_2024-01_952827482939122.jpg",
+    "image 2": "Kuala_Lumpur/3.160591554012228,101.69268786907196_2024-12_1389648742012638.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 399,
+    "image 1": "Edinburgh/55.960320876776194,-3.2030242681503296_2018-10_740615379890288.jpg",
+    "image 2": "Edinburgh/55.95136241720133,-3.1950634717941284_2018-10_905469840248744.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 400,
+    "image 1": "Milan/45.46191785971524,9.18605089187622_2024-05_975747540677929.jpg",
+    "image 2": "Washington/38.89610151899788,-77.02526450157166_2024-10_509819408563370.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 401,
+    "image 1": "Mexico_City/19.430546585154342,-99.13241744041444_2024-08_997415838732849.jpg",
+    "image 2": "Capetown/-33.9192360807078,18.42145979404449_2019-07_485717922751870.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 402,
+    "image 1": "Edinburgh/55.95217936565945,-3.204907178878784_2024-06_505967815118511.jpg",
+    "image 2": "Kuala_Lumpur/3.142969314730351,101.7074292898178_2024-09_936761748476062.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 403,
+    "image 1": "Capetown/-33.9143837769096,18.417677879333496_2019-07_579962912977439.jpg",
+    "image 2": "Milan/45.47467509617263,9.205416440963743_2018-01_5451857928189814.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 404,
+    "image 1": "Kuala_Lumpur/3.146724108654624,101.69892132282256_2024-09_1195111991764447.jpg",
+    "image 2": "Mexico_City/19.43235259882185,-99.134139418602_2024-05_284403264747692.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 405,
+    "image 1": "Kuala_Lumpur/3.148197098298084,101.69336378574371_2024-07_1176694033579194.jpg",
+    "image 2": "Capetown/-33.91768693484256,18.428240418434143_2019-07_147653390598243.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 406,
+    "image 1": "Paris/48.85028643926361,2.353423833847046_2024-04_1331124280890795.jpg",
+    "image 2": "Milan/45.46030748133984,9.206516146659853_2018-05_1102761966898932.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 407,
+    "image 1": "Capetown/-33.90780378969111,18.423498272895813_2024-04_1648738902596186.jpg",
+    "image 2": "Paris/48.85083357724827,2.355623245239258_2024-04_967778598245128.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 408,
+    "image 1": "Washington/38.8999800352517,-77.02708303928375_2024-10_1230204888296362.jpg",
+    "image 2": "Paris/48.85113714800275,2.355923652648926_2024-04_830862358864608.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 409,
+    "image 1": "Paris/48.85173722431151,2.3564547300338745_2024-04_442513174972852.jpg",
+    "image 2": "Washington/38.89168835321632,-77.03360080718994_2019-12_908712836647793.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 410,
+    "image 1": "Paris/48.85529164649708,2.35257625579834_2024-02_7181463648569618.jpg",
+    "image 2": "Edinburgh/55.95748911046826,-3.1898224353790283_2018-02_299958888308016.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 411,
+    "image 1": "Kuala_Lumpur/3.1443512518695087,101.71038508415222_2024-09_566160542412094.jpg.jpg",
+    "image 2": "Edinburgh/55.952368582880354,-3.203389048576355_2024-03_3685192678419765.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 412,
+    "image 1": "Mexico_City/19.430151991259702,-99.13243353366852_2024-08_3756244331311073.jpg",
+    "image 2": "Mexico_City/19.421814706447947,-99.1337263584137_2018-07_486459256142881.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 413,
+    "image 1": "Kuala_Lumpur/3.14093925646678,101.69594943523408_2024-12_1707447140154203.jpg",
+    "image 2": "Paris/48.85026878955165,2.3614436388015747_2024-02_244048192124269.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 414,
+    "image 1": "Edinburgh/55.951323371438974,-3.19151222705841_2024-03_1890706451361381.jpg",
+    "image 2": "Capetown/-33.91497141005579,18.42181384563446_2019-07_958618864894894.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 415,
+    "image 1": "Paris/48.85083357724827,2.355623245239258_2024-04_967778598245128.jpg",
+    "image 2": "Edinburgh/55.95742304345782,-3.207433819770813_2018-10_195425242408041.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 416,
+    "image 1": "Kuala_Lumpur/3.146124199548637,101.70050382614136_2024-12_1687435371801153.jpg",
+    "image 2": "Washington/38.907206285691615,-77.0295399427414_2024-11_562372582995862.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 417,
+    "image 1": "Capetown/-33.91572820435,18.41617584228516_2019-07_840690786542691.jpg",
+    "image 2": "Mexico_City/19.43276742265438,-99.13234770298004_2024-05_803369071753916.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 418,
+    "image 1": "Milan/45.47327950262152,9.203844666481018_2018-06_264865948717388.jpg",
+    "image 2": "Mexico_City/19.43313165734105,-99.13312017917632_2024-05_812451987449483.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 419,
+    "image 1": "Washington/38.90378319692306,-77.02399849891663_2019-11_2939821052937319.jpg",
+    "image 2": "Mexico_City/19.434315414430813,-99.13684844970705_2024-07_463924413183154.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 420,
+    "image 1": "Kuala_Lumpur/3.146124199548637,101.70050382614136_2024-12_1687435371801153.jpg",
+    "image 2": "Edinburgh/55.9520682376542,-3.1960880756378174_2019-07_270298751502420.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 421,
+    "image 1": "Edinburgh/55.95364502409802,-3.1961899995803837_2024-06_3703242489941922.jpg",
+    "image 2": "Milan/45.470149636169,9.192992448806764_2019-04_218656093057435.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 422,
+    "image 1": "Mexico_City/19.434618940499803,-99.13932144641876_2024-07_1001139214878871.jpg",
+    "image 2": "Capetown/-33.91778487018528,18.428218960762024_2019-07_192751886030305.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 423,
+    "image 1": "Edinburgh/55.95562417561371,-3.193352222442627_2024-03_946858786955924.jpg",
+    "image 2": "Kuala_Lumpur/3.142717566294735,101.70767068862916_2018-07_182432577106168.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 424,
+    "image 1": "Paris/48.85173722431151,2.3564547300338745_2024-04_442513174972852.jpg",
+    "image 2": "Capetown/-33.912318125209346,18.417892456054688_2019-07_536511684421919.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 425,
+    "image 1": "Capetown/-33.91654286363739,18.41880977153778_2019-07_2922880804663468.jpg",
+    "image 2": "Washington/38.9024723606928,-77.01690673828125_2024-10_1204876637257210.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 426,
+    "image 1": "Edinburgh/55.96136884804957,-3.198174834251404_2018-10_1518754381800838.jpg",
+    "image 2": "Edinburgh/55.95141047347016,-3.1951171159744263_2018-10_560091961637605.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 427,
+    "image 1": "Paris/48.85026878955165,2.353922724723816_2024-04_790606742586030.jpg",
+    "image 2": "Kuala_Lumpur/3.1425783011765844,101.7076975107193_2024-09_2743474782497128.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 428,
+    "image 1": "Capetown/-33.91449061960121,18.421513438224792_2019-07_959199254918653.jpg",
+    "image 2": "Capetown/-33.92095435323204,18.4168142080307_2019-07_927521567804508.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 429,
+    "image 1": "Mexico_City/19.434315414430813,-99.13684844970705_2024-07_463924413183154.jpg",
+    "image 2": "Capetown/-33.91782493461122,18.42721581459045_2019-07_1151949758622845.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 430,
+    "image 1": "Edinburgh/55.96091242851881,-3.1998270750045776_2018-10_200946631647895.jpg",
+    "image 2": "Washington/38.9024723606928,-77.01690673828125_2024-10_1204876637257210.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 431,
+    "image 1": "Capetown/-33.91654286363739,18.41880977153778_2019-07_2922880804663468.jpg",
+    "image 2": "Paris/48.85255967015672,2.357162833213806_2024-04_443897188111845.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 432,
+    "image 1": "Washington/38.89256933820696,-77.03361690044403_2024-07_508345518447754.jpg",
+    "image 2": "Milan/45.47244062517768,9.195454716682434_2018-04_294185188848028.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 433,
+    "image 1": "Edinburgh/55.96015572112191,-3.204113245010376_2018-10_426975198274853.jpg",
+    "image 2": "Mexico_City/19.42734427625648,-99.13411259651184_2024-08_491804063444162.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 434,
+    "image 1": "Edinburgh/55.95058750163071,-3.190729022026062_2024-03_776565277770194.jpg",
+    "image 2": "Capetown/-33.919748004902615,18.428943157196045_2019-07_311788626984477.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 435,
+    "image 1": "Kuala_Lumpur/3.1413142015620537,101.7067050933838_2024-09_984253856788787.jpg",
+    "image 2": "Milan/45.46957405286486,9.193421602249146_2018-04_259145885910424.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 436,
+    "image 1": "Edinburgh/55.95356994048549,-3.196345567703247_2024-03_771123411612201.jpg",
+    "image 2": "Mexico_City/19.43474540952778,-99.1402280330658_2024-07_488669426942743.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 437,
+    "image 1": "Edinburgh/55.95987945917935,-3.20576012134552_2018-10_3903383236414981.jpg",
+    "image 2": "Milan/45.47031516230547,9.19230580329895_2018-04_130860922362720.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 438,
+    "image 1": "Milan/45.47152649787208,9.185745120048525_2018-04_477404346809792.jpg",
+    "image 2": "Paris/48.852436127651686,2.35706627368927_2024-04_284105597966709.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 439,
+    "image 1": "Edinburgh/55.95258483000049,-3.193234205245972_2024-06_1036240314730856.jpg",
+    "image 2": "Edinburgh/55.95347983995822,-3.188878297805786_2024-03_2793683290803955.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 440,
+    "image 1": "Milan/45.474197363187045,9.20552909374237_2018-01_811371209818128.jpg",
+    "image 2": "Edinburgh/55.95362099735786,-3.206414580345154_2018-10_1112285705941653.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 441,
+    "image 1": "Capetown/-33.90935756726364,18.424372673034668_2019-07_580838409561323.jpg",
+    "image 2": "Milan/45.472391721623126,9.18509066104889_2018-04_1876681525845852.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 442,
+    "image 1": "Capetown/-33.90935756726364,18.424372673034668_2019-07_580838409561323.jpg",
+    "image 2": "Washington/38.89318727376531,-77.0337563753128_2024-09_1317788089205534.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 443,
+    "image 1": "Paris/48.85058295349416,2.352919578552246_2024-04_764843519076056.jpg",
+    "image 2": "Edinburgh/55.95138043830912,-3.199896812438965_2019-07_335293724606543.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 444,
+    "image 1": "Capetown/-33.92095435323204,18.4168142080307_2019-07_927521567804508.jpg",
+    "image 2": "Washington/38.90726472723756,-77.03157305717468_2024-08_708155828143001.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 445,
+    "image 1": "Milan/45.46903984610773,9.18708622455597_2018-04_370043317692723.jpg",
+    "image 2": "Washington/38.89256933820696,-77.03361690044403_2024-07_508345518447754.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 446,
+    "image 1": "Kuala_Lumpur/3.1418659062430976,101.707461476326_2024-09_507916358634530.jpg",
+    "image 2": "Milan/45.472391721623126,9.18509066104889_2018-04_1876681525845852.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 447,
+    "image 1": "Capetown/-33.914508426703456,18.41907799243927_2019-07_1117046432110134.jpg",
+    "image 2": "Washington/38.89346283788908,-77.03376710414886_2024-01_1308172263155780.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 448,
+    "image 1": "Mexico_City/19.42877090507956,-99.13389265537262_2024-08_322102937650351.jpg",
+    "image 2": "Washington/38.9056492182151,-77.02548444271088_2024-10_416541621338431.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 449,
+    "image 1": "Kuala_Lumpur/3.1554923835556536,101.70122265815736_2024-12_4013467578884993.jpg",
+    "image 2": "Kuala_Lumpur/3.1407196457055733,101.6980630159378_2024-09_1030942358487506.jpg.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 450,
+    "image 1": "Washington/38.90719376249695,-77.03050553798676_2024-01_1110002506677160.jpg",
+    "image 2": "Edinburgh/55.95233554501954,-3.192048668861389_2018-04_468581901042991.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 451,
+    "image 1": "Paris/48.85806935588431,2.351771593093872_2024-04_733960525242592.jpg",
+    "image 2": "Edinburgh/55.95323656748718,-3.1892430782318115_2024-06_1013081603691784.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 452,
+    "image 1": "Edinburgh/55.95564820111065,-3.1932127475738525_2024-03_7677600205617714.jpg",
+    "image 2": "Capetown/-33.91481114687233,18.426191210746765_2018-06_191361012700674.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 453,
+    "image 1": "Kuala_Lumpur/3.155010317826708,101.69854044914246_2024-11_514378914923786.jpg.jpg",
+    "image 2": "Kuala_Lumpur/3.1433763971785997,101.71090006828308_2024-09_1230009001359849.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 454,
+    "image 1": "Washington/38.90569096309699,-77.0360255241394_2024-01_1525134541685873.jpg",
+    "image 2": "Milan/45.47476913762185,9.20530915260315_2018-01_457476658881574.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 455,
+    "image 1": "Paris/48.85478338311728,2.353847622871399_2024-04_908180167780076.jpg",
+    "image 2": "Washington/38.9076362473688,-77.0156192779541_2024-09_355339394323773.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 456,
+    "image 1": "Washington/38.90726472723756,-77.03157305717468_2024-08_708155828143001.jpg",
+    "image 2": "Mexico_City/19.43445706000027,-99.13800179958344_2024-07_1913911715749142.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 457,
+    "image 1": "Edinburgh/55.95217936565945,-3.204907178878784_2024-06_505967815118511.jpg",
+    "image 2": "Kuala_Lumpur/3.1488612820378705,101.697016954422_2024-12_577088534944215.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 458,
+    "image 1": "Capetown/-33.91205101141994,18.42287600040436_2018-07_318863739754803.jpg",
+    "image 2": "Washington/38.90515245223656,-77.01472878456116_2024-09_8636170209750148.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 459,
+    "image 1": "Kuala_Lumpur/3.143022878219469,101.70747756958008_2018-07_987254718679260.jpg",
+    "image 2": "Edinburgh/55.95366304414338,-3.195846676826477_2024-03_952199212621499.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 460,
+    "image 1": "Edinburgh/55.95635694656224,-3.19877564907074_2024-06_1587419338488005.jpg",
+    "image 2": "Mexico_City/19.434411531080716,-99.13748681545258_2024-07_1517740599167768.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 461,
+    "image 1": "Milan/45.47152649787208,9.185745120048525_2018-04_477404346809792.jpg",
+    "image 2": "Washington/38.90726472723756,-77.03157305717468_2024-08_708155828143001.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 462,
+    "image 1": "Mexico_City/19.42642353752697,-99.13296461105348_2024-08_1039863710882956.jpg",
+    "image 2": "Edinburgh/55.95322455399221,-3.1986576318740845_2024-03_1421777875116995.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 463,
+    "image 1": "Kuala_Lumpur/3.1488612820378705,101.697016954422_2024-12_577088534944215.jpg",
+    "image 2": "Mexico_City/19.43457847039005,-99.1390424966812_2024-07_1529847124547439.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 464,
+    "image 1": "Kuala_Lumpur/3.16107361715028,101.69254302978516_2024-12_1217862512615616.jpg.jpg",
+    "image 2": "Edinburgh/55.95423067127817,-3.2076644897460938_2018-10_821252518770910.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 465,
+    "image 1": "Edinburgh/55.95207424458155,-3.1944143772125244_2019-07_300481758224233.jpg",
+    "image 2": "Edinburgh/55.95182795979568,-3.1917428970336914_2024-03_1078881310053802.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 466,
+    "image 1": "Edinburgh/55.95949809434495,-3.190863132476806_2019-10_319741122883448.jpg",
+    "image 2": "Edinburgh/55.95810472946303,-3.1892752647399902_2019-10_769534537074540.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 467,
+    "image 1": "Kuala_Lumpur/3.1519840112002555,101.6931813955307_2024-12_1735287723916886.jpg",
+    "image 2": "Washington/38.89346283788908,-77.03376710414886_2024-01_1308172263155780.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 468,
+    "image 1": "Capetown/-33.91156130063171,18.41880977153778_2019-07_812845972987619.jpg",
+    "image 2": "Edinburgh/55.95196912321825,-3.205958604812622_2024-03_4210613242499478.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 469,
+    "image 1": "Mexico_City/19.43418894506796,-99.13593113422394_2024-07_1548252909056410.jpg",
+    "image 2": "Kuala_Lumpur/3.149734361632113,101.69807374477386_2024-12_1561330487841713.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 470,
+    "image 1": "Paris/48.85173722431151,2.3564547300338745_2024-04_442513174972852.jpg",
+    "image 2": "Edinburgh/55.95333868204389,-3.1977885961532597_2024-03_923519156094190.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 471,
+    "image 1": "Edinburgh/55.95949208856948,-3.2070958614349365_2019-02_4069905256401363.jpg",
+    "image 2": "Capetown/-33.90753666175377,18.414711356163025_2019-07_165640032228712.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 472,
+    "image 1": "Milan/45.46302026511833,9.195111393928528_2018-01_734824223863155.jpg",
+    "image 2": "Washington/38.90254333015295,-77.03591287136078_2019-12_796673204310392.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 473,
+    "image 1": "Capetown/-33.90855619554826,18.41332733631134_2019-07_468518421043952.jpg",
+    "image 2": "Washington/38.89318727376531,-77.0337563753128_2024-09_1317788089205534.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 474,
+    "image 1": "Capetown/-33.908191123713294,18.413767218589783_2019-07_1146103472532502.jpg",
+    "image 2": "Capetown/-33.90935756726364,18.424372673034668_2019-07_580838409561323.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 475,
+    "image 1": "Edinburgh/55.95058750163071,-3.190729022026062_2024-03_776565277770194.jpg",
+    "image 2": "Capetown/-33.911485617804324,18.42211425304413_2018-07_178527550816757.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 476,
+    "image 1": "Edinburgh/55.96040495574766,-3.202418088912964_2018-10_853739885226574.jpg",
+    "image 2": "Paris/48.85400332997651,2.355896830558777_2024-04_808337653964530.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 477,
+    "image 1": "Paris/48.85264791461651,2.352474331855774_2024-06_3641805789392946.jpg",
+    "image 2": "Washington/38.89752519704189,-77.02391266822815_2024-09_1203414677606681.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 478,
+    "image 1": "Mexico_City/19.43235259882185,-99.134139418602_2024-05_284403264747692.jpg",
+    "image 2": "Edinburgh/55.95356994048549,-3.196345567703247_2024-03_771123411612201.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 479,
+    "image 1": "Washington/38.9056492182151,-77.02548444271088_2024-10_416541621338431.jpg",
+    "image 2": "Milan/45.4732682173576,9.203941226005554_2018-01_1208407189603573.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 480,
+    "image 1": "Milan/45.47239924524968,9.195207953453064_2018-01_541437930179054.jpg",
+    "image 2": "Edinburgh/55.95356994048549,-3.196345567703247_2024-03_771123411612201.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 481,
+    "image 1": "Edinburgh/55.95423067127817,-3.2076644897460938_2018-10_821252518770910.jpg",
+    "image 2": "Milan/45.46829495781151,9.205936789512634_2018-01_210301960674890.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 482,
+    "image 1": "Milan/45.46302026511833,9.195111393928528_2018-01_734824223863155.jpg",
+    "image 2": "Milan/45.47005182504165,9.192895889282228_2019-04_825081888416414.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 483,
+    "image 1": "Capetown/-33.91449061960121,18.421513438224792_2019-07_959199254918653.jpg",
+    "image 2": "Washington/38.90779487334939,-77.0156729221344_2024-10_2640096052855673.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 484,
+    "image 1": "Capetown/-33.91937407796748,18.415998816490173_2019-07_614405573291026.jpg",
+    "image 2": "Mexico_City/19.43205412736006,-99.13329184055328_2024-05_1484307615771814.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 485,
+    "image 1": "Edinburgh/55.95322755736629,-3.189334273338318_2024-06_970827911497042.jpg",
+    "image 2": "Milan/45.46312937574356,9.195004105567932_2018-01_307410997434678.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 486,
+    "image 1": "Milan/45.47250833772162,9.203093647956848_2018-01_474868620390350.jpg",
+    "image 2": "Edinburgh/55.95364502409802,-3.1961899995803837_2024-06_3703242489941922.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 487,
+    "image 1": "Edinburgh/55.95364502409802,-3.1961899995803837_2024-06_3703242489941922.jpg",
+    "image 2": "Paris/48.86375841413749,2.3527371883392334_2024-02_267069766422649.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 488,
+    "image 1": "Washington/38.89269042059797,-77.03361690044403_2024-01_352656250908117.jpg",
+    "image 2": "Capetown/-33.90947777237112,18.42351973056793_2018-07_927569524726085.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 489,
+    "image 1": "Capetown/-33.912358192205545,18.417983651161197_2019-07_505989127385347.jpg",
+    "image 2": "Edinburgh/55.95322755736629,-3.189334273338318_2024-06_970827911497042.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 490,
+    "image 1": "Kuala_Lumpur/3.1487809372531643,101.7006003856659_2018-07_2803860309913986.jpg",
+    "image 2": "Milan/45.47152649787208,9.185745120048525_2018-04_477404346809792.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 491,
+    "image 1": "Mexico_City/19.422199202293385,-99.13631200790404_2024-08_468260905973728.jpg",
+    "image 2": "Capetown/-33.911485617804324,18.42211425304413_2018-07_178527550816757.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 492,
+    "image 1": "Washington/38.89752519704189,-77.02391266822815_2024-09_1203414677606681.jpg",
+    "image 2": "Mexico_City/19.43276742265438,-99.13234770298004_2024-05_803369071753916.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 493,
+    "image 1": "Mexico_City/19.43421929772404,-99.1360867023468_2024-07_833172998377902.jpg",
+    "image 2": "Mexico_City/19.42844207330593,-99.13267493247986_2024-08_411221698652404.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 494,
+    "image 1": "Capetown/-33.91478443631245,18.425686955451965_2018-06_5487641514639890.jpg",
+    "image 2": "Washington/38.9056492182151,-77.02548444271088_2024-10_416541621338431.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 495,
+    "image 1": "Milan/45.47467509617263,9.205416440963743_2018-01_5451857928189814.jpg",
+    "image 2": "Capetown/-33.91449061960121,18.421513438224792_2019-07_959199254918653.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 496,
+    "image 1": "Paris/48.852436127651686,2.35706627368927_2024-04_284105597966709.jpg",
+    "image 2": "Paris/48.8506888510081,2.355489134788513_2024-04_1413570959525912.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 497,
+    "image 1": "Kuala_Lumpur/3.1497718558314034,101.69810593128204_2024-11_921765435953652.jpg",
+    "image 2": "Edinburgh/55.95258483000049,-3.193234205245972_2024-06_1036240314730856.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 498,
+    "image 1": "Kuala_Lumpur/3.145417163373338,101.6982239484787_2024-12_1974065813077591.jpg",
+    "image 2": "Capetown/-33.91778487018528,18.428218960762024_2019-07_192751886030305.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  },
+  {
+    "id": 499,
+    "image 1": "Capetown/-33.91549671504409,18.416626453399655_2019-07_274826094177026.jpg",
+    "image 2": "Edinburgh/55.9582218461145,-3.1894737482070923_2019-10_198846498751219.jpg",
+    "distance": null,
+    "city_name": "Unknown",
+    "image_type": "SingleViewData",
+    "GT": "B) No"
+  }
+]
