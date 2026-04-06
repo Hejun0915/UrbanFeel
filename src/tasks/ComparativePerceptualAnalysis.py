@@ -30,7 +30,9 @@ def ComparativePerceptualAnalysis(model, model_name: str, seed: Optional[int], g
         results = []
         QUESTION = "Task: You are given two street-view images of the same location taken at different times. The first image shows the past appearance, and the second image shows the current appearance. Your goal is to assess whether the place has become more {}, less {}, or stayed the same in terms of visual perception.\n\nPlease first select one of the following options:\nA) More {}\nB) Less {}\nC) No Change\n\nThen, briefly explain your reasoning by listing 2 to 3 visual factors that influenced your judgment. \n\nPlease follow this format:\n\nAnswer: <A / B / C>\n\nReasoning:\n1. <first visual factor>\n2. <second visual factor>\n3. <optional third visual factor>".format(dimension, dimension, dimension, dimension)
 
-        for data in tqdm(json_data):
+        dimension_data = [data for data in json_data if data.get("dimension") == dimension]
+
+        for data in tqdm(dimension_data):
             image_urls = [
                 os.path.join(image_folder, "PanoData", data["before"]),
                 os.path.join(image_folder, "PanoData", data["after"])

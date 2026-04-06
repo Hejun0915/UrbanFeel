@@ -30,7 +30,9 @@ def GlobalPerception(model, model_name: str, seed: Optional[int], gpus_num: int,
         results = []
         QUESTION = "Question: You are given a street-view image taken from a city. Based on the image, please judge whether the city appears {} or not from a human perspective.\n\nPlease choose the most appropriate answer from the options below, and reply with the letter A or B.\n\nA) Yes, it is {}.\nB) No, it is not {}.".format(dimension, dimension, dimension)
 
-        for data in tqdm(json_data):
+        dimension_data = [data for data in json_data if data.get("dimension") == dimension]
+
+        for data in tqdm(dimension_data):
             image_urls = [
                 os.path.join(image_folder, data["image"])
             ]

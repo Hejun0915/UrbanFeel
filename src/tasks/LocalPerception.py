@@ -29,7 +29,9 @@ def LocalPerception(model, model_name: str, seed: Optional[int], gpus_num: int, 
         results = []
         QUESTION = "Question: You are given a street-view image from a city. please judge whether the city appears {} or not from a human perspective and find some visual factors that contribute to it.\n\nPlease follow this format in your reply:\n\nAnswer: A) Yes, the image is {}.\nor\nB) No, the image is not {}.\n\nReasoning:\n1. <first visual factor>\n2. <second visual factor>\n3. <optional third visual factor>\n\nLet’s think step by step.".format(dimension, dimension, dimension)
 
-        for data in tqdm(json_data):
+        dimension_data = [data for data in json_data if data.get("dimension") == dimension]
+
+        for data in tqdm(dimension_data):
             image_urls = [
                 os.path.join(image_folder, data["image"])
             ]
